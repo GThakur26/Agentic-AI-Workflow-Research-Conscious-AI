@@ -1,0 +1,8 @@
+{
+    "metadata":{
+        "name":"ES Get Environment Update Prompt",
+        "description":"This prompt is for the Environment Simulator (ES) to update the environment on the basis of the premise(before AIAH took action), the AIAH's action and a luck_factor.",
+        "requires":"luck_factor, AIAH_action, ES_enviroment_status"
+    },
+    "prompt":"To Be Filled"
+}

@@ -1,0 +1,8 @@
+{
+    "metadata":{
+        "name":"AIAH Memory Manager Prompt",
+        "description":"This prompt is designed for managing memory notes. The LLM's task is to update the AIAH's physical and visual memory based on environment updates, the actions it took, and the result of those actions",
+        "requires":"AIAH_action, ES_enviroment_status, ES_environment_update"
+    },
+    "prompt":"To Be Filled"
+}

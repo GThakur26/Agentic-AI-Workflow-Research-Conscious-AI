@@ -1,0 +1,8 @@
+{
+    "metadata":{
+        "name":"ES Get Environment Status Prompt",
+        "description":"This prompt is for the Environment Simulator (ES) to manage the environment, and on the basis of day number, its notes, a luck factor, it presents a new environment situation for the AIAH to do an action.",
+        "requires":"ES_enviroment_status_notes, day_count, luck_factor"
+    },
+    "prompt":"To Be Filled"
+}

@@ -1,0 +1,8 @@
+{
+    "metadata":{
+        "name":"AIAH Get Action Prompt",
+        "description":"This prompt is for the AIAH to use its knowledge (memory, consience and skills) and the environment status to take an action. This action will impact with environment",
+        "requires":"AIAH_memory, AIAH_skills, AIAH_conscience, ES_enviroment_status"
+    },
+    "prompt":"To Be Filled"
+}

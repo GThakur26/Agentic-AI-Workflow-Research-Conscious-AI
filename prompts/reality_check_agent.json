@@ -1,0 +1,8 @@
+{
+    "metadata":{
+        "name":"Reality Checking Agent Prompt",
+        "description":"This prompt is designed for reality checks. Its task is to Allow or Deny any action taken by the AIAH, given the environment and health status parameters.",
+        "requires":"Status from ES, Health Parameters"
+    },
+    "prompt":"To Be Filled"
+}

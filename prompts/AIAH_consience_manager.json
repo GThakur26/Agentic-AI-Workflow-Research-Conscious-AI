@@ -1,0 +1,8 @@
+{
+    "metadata":{
+        "name":"AIAH Conscience Manager Prompt",
+        "description":"This prompt is designed for managing conscience notes. The LLM's task is to update the AIAH's conscience notes based on environment updates, the actions it took, and the result of those actions",
+        "requires":"AIAH_action, ES_enviroment_status, ES_environment_update"
+    },
+    "prompt":"To Be Filled"
+}
