@@ -5,10 +5,15 @@
     "data":
     {
         "sleep_score":10,
-        "athletic_score":10,
-        "obesity_level":0,
-        "limbs":4,
-        "sickness":0,
-        "injuries":0
+        "overall_health": 7,
+        "hunger": 6,
+        "thirst": 4,
+        "energy": 5,
+        "body_temperature": 36.8,
+        "injury_level": 9,
+        "illness": 8,
+        "mental_state": 5,
+        "immunity": 7,
+        "exposure": 3
     }
 }
