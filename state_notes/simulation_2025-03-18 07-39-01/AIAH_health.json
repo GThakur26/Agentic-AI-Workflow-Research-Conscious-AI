@@ -5,14 +5,14 @@
     "data": {
         "sleep_score": 10,
         "overall_health": 5,
-        "hunger": 5,
-        "thirst": 2,
+        "hunger": 2,
+        "thirst": 1,
         "energy": 5,
-        "body_temperature": 36.6,
-        "injury_level": 9,
-        "illness": 8,
-        "immunity": 5,
-        "exposure": 3,
+        "body_temperature": 36.2,
+        "injury_level": 8,
+        "illness": 6,
+        "immunity": 6,
+        "exposure": 2,
         "dead": false
     }
 }

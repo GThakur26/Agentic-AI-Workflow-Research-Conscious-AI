@@ -1,0 +1,309 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "day": 0,
+            "notes": []
+        },
+        {
+            "day": 1,
+            "notes": [
+                {
+                    "terrain": "Open plains with a distant mountain range",
+                    "temperature": 22,
+                    "weather": "Sunny with a gentle breeze",
+                    "food_availability": "Abundant wild herbs and grasses, scattered fruit trees",
+                    "water_availability": "A clear stream flowing through the plains",
+                    "shelter_options": "Sparse trees, improvised shelters with grasses",
+                    "wildlife": "Grazing herbivores, occasional birds",
+                    "danger_level": "Low (minimal predators, open sightlines for early detection)"
+                },
+                {
+                    "terrain": "Open plains with a distant mountain range",
+                    "temperature": 23,
+                    "weather": "Sunny with a slightly stronger breeze",
+                    "food_availability": "Slightly reduced due to gathering, but still abundant",
+                    "water_availability": "Clear stream with slightly lower level due to consumption",
+                    "shelter_options": "Sparse trees, improvised shelters with grasses",
+                    "wildlife": "Grazing herbivores, occasional birds; slightly more active due to increased movement",
+                    "danger_level": "Low (minimal predators, open sightlines for early detection)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Grazing herbivores are more alert and may move towards denser areas if disturbed frequently.",
+                        "resource_change": "Fruit trees picked for immediate consumption, but overall resources remain plentiful.",
+                        "environmental_shift": "Slightly stronger breeze indicates a possible weather change; monitor for increased wind or cloud cover."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "notes": [
+                {
+                    "terrain": "Open plains transitioning to a light forest with distant mountains",
+                    "temperature": 22,
+                    "weather": "Partly cloudy with a fresh breeze",
+                    "food_availability": "Wild fruits and nuts, with small game",
+                    "water_availability": "A clear stream, slightly reduced flow",
+                    "shelter_options": "Light forest provides better cover and natural shelters",
+                    "wildlife": "Grazing herbivores, birds, and small mammals becoming more visible",
+                    "danger_level": "Low to Moderate (wildlife more active but no new predators sighted)"
+                },
+                {
+                    "terrain": "Light forest with increasing density as you move deeper, open plains to the west",
+                    "temperature": 22,
+                    "weather": "Partly cloudy with occasional gusts of wind",
+                    "food_availability": "Moderate - fruits and nuts are becoming less frequent near the forest edge due to gathering; small game remains",
+                    "water_availability": "Clear stream with reduced flow, slightly more difficult to access as wildlife activity increases",
+                    "shelter_options": "Natural shelters in the forest, with some trees offering potential for better protection against weather changes",
+                    "wildlife": "Herbivores are retreating deeper into the forest; small mammals and birds are cautiously active",
+                    "danger_level": "Moderate (wildlife more alert and cautious, with potential for small predators being attracted)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Grazing herbivores are becoming more cautious and are shifting deeper into the forest due to human activity; wildlife may become more elusive.",
+                        "resource_change": "Fruits and nuts are being depleted near the forest edge; expect a need to explore deeper for consistent resources.",
+                        "environmental_shift": "Increasing wind and cloud cover may indicate a potential weather change; prepare for possible rain or stronger winds in upcoming days."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "notes": [
+                {
+                    "terrain": "Dense forest with a nearby gently flowing stream",
+                    "temperature": 20,
+                    "weather": "Cloudy with light breezes, the air feels slightly humid",
+                    "food_availability": "Limited - sparse wild berries deeper in the forest, small game more prevalent",
+                    "water_availability": "The stream is clear but flow is low, slightly harder to access due to increased wildlife activity",
+                    "shelter_options": "Dense tree cover and some natural caves offer protection; an emerging weather change could necessitate sturdier shelter",
+                    "wildlife": "Cautious small game, birds active in the morning, occasional sightings of larger predators deeper in the forest",
+                    "danger_level": "Moderate (wildlife is becoming more elusive, possible presence of small predators)"
+                },
+                {
+                    "terrain": "Dense forest with a nearby gently flowing stream",
+                    "temperature": 19,
+                    "weather": "Increasing cloudiness with a cooler breeze, hint of rain in the air",
+                    "food_availability": "Limited - wild berries are slightly more depleted, small game remains elusive",
+                    "water_availability": "The stream flow remains low, access is slightly improved with careful observation of wildlife patterns",
+                    "shelter_options": "Natural caves and dense tree cover still viable; increased cloudiness suggests a need for more substantial shelter preparation",
+                    "wildlife": "Small game is more elusive due to increased human presence, larger predators are more frequently sighted at dusk deeper in the forest",
+                    "danger_level": "Moderate to High (increased predator activity and reduced resources near accessible areas)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Wildlife, particularly small game, is increasingly elusive. Predators are becoming more active at dawn and dusk.",
+                        "resource_change": "Berry patches are becoming more sparse, necessitating deeper forest exploration for food. Water access slightly improved by observing animal paths.",
+                        "environmental_shift": "Weather is showing signs of worsening with increased cloud cover and cooler temperatures. Prepare for possible rain."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "notes": [
+                {
+                    "terrain": "Dense forest with a nearby gently flowing stream",
+                    "temperature": 16,
+                    "weather": "Overcast with a light drizzle expected",
+                    "food_availability": "Wild berries are now scarce, small game still elusive",
+                    "water_availability": "Stream is accessible but flow remains low",
+                    "shelter_options": "Natural caves and dense tree cover; consider reinforcing for rain",
+                    "wildlife": "Occasional sightings of small game and increased predator activity at dusk",
+                    "danger_level": "Moderate to High (increased predator activity, potential rainfall)"
+                },
+                {
+                    "terrain": "Dense forest with a nearby gently flowing stream",
+                    "temperature": 15,
+                    "weather": "Light rain with occasional heavier showers expected",
+                    "food_availability": "Wild berries are extremely scarce, small game remain elusive but slightly more visible during rain breaks",
+                    "water_availability": "Stream flow is consistent but low; easier to access due to reduced wildlife presence during rain",
+                    "shelter_options": "Reinforced natural caves and dense tree cover provide adequate protection from rain; potential for temporary shelters from fallen branches",
+                    "wildlife": "Small game slightly more active during rain breaks; predators are less active due to weather but may use rain for stealth hunting",
+                    "danger_level": "Moderate (rain reduces predator visibility but increases risk of stealth ambushes; potential for sudden weather changes)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Predator activity likely to increase post-rain as they exploit dampened sound and scent trails.",
+                        "resource_change": "Berry patches are near depletion; focus may need to shift to alternative food sources like roots or insects. Wildlife observation for game patterns during rain breaks is advisable.",
+                        "environmental_shift": "Rain expected to continue intermittently, leading to potentially muddy and slippery terrain. Monitor for potential flooding or water contamination in the stream."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "notes": [
+                {
+                    "terrain": "Dense forest with intermittent clearings and a nearby gently flowing stream",
+                    "temperature": 16,
+                    "weather": "Light drizzle with occasional sunny breaks",
+                    "food_availability": "Roots, mushrooms, and occasional visible small game during sunny breaks",
+                    "water_availability": "Stream remains accessible with fresh water",
+                    "shelter_options": "Natural caves and thick tree cover still offer protection; some fallen branches useful for creating temporary shelters",
+                    "wildlife": "Increased small game visibility during sunny breaks, occasional predator movements due to dampened sounds",
+                    "danger_level": "Moderate (predators remain less active but could use dampened sounds for stealth; slippery terrain risks)"
+                },
+                {
+                    "terrain": "Dense forest with intermittent clearings and a nearby stream that shows signs of slightly increased flow due to recent rain",
+                    "temperature": 15,
+                    "weather": "Overcast with light drizzle continuing, occasional sunny breaks",
+                    "food_availability": "Roots and mushrooms are more frequently found near the bases of larger trees; small game sightings increase during sunny breaks",
+                    "water_availability": "Stream remains accessible; increased flow provides fresher water",
+                    "shelter_options": "Reinforced natural caves and shelters with fallen branches provide better protection; structures are more stable with added insulation",
+                    "wildlife": "Small game activity is more visible during sunny breaks; predators remain cautious but are more active at dusk",
+                    "danger_level": "Moderate (risk of stealth predator attacks during overcast periods; slippery and muddy terrain)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Predators are likely to adapt to dampened sounds with continued rain; increased activity expected at dawn and dusk",
+                        "resource_change": "Roots and mushrooms near large trees are providing more consistent food source; stream flow increase may change water access points",
+                        "environmental_shift": "Persistent drizzle may lead to more slippery conditions; monitor for significant weather changes that could impact food foraging or shelter stability"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 6,
+            "notes": [
+                {
+                    "terrain": "Dense forest with intermittent clearings and a slightly swollen stream",
+                    "temperature": 17,
+                    "weather": "Mostly cloudy with intermittent sunshine",
+                    "food_availability": "Roots, mushrooms, and small game frequent the area",
+                    "water_availability": "A fresh stream with increased flow from recent rain",
+                    "shelter_options": "Natural caves improved with fallen branches, thick tree cover",
+                    "wildlife": "Active small game, birds, cautious predators at dusk",
+                    "danger_level": "Moderate (caution advised for predators at dawn and dusk; terrain is muddy)"
+                },
+                {
+                    "terrain": "Dense forest with intermittent clearings and a moderately flowing, slightly widened stream",
+                    "temperature": 17,
+                    "weather": "Partly cloudy with brief sunny intervals",
+                    "food_availability": "Roots and mushrooms have been partially foraged; small game remains in moderate numbers",
+                    "water_availability": "Stream remains fresh and accessible, flow moderately increased",
+                    "shelter_options": "Reinforced shelters with improved branches and tree cover",
+                    "wildlife": "Small game slightly more wary and elusive, predators cautiously active at dusk",
+                    "danger_level": "Moderate (predator alertness increasing, terrain remains slippery)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Predator activity is expected to increase post-reinforcement of shelters and during the gathering of resources; small game may become warier.",
+                        "resource_change": "Roots and mushrooms have been partially foraged, necessitating deeper exploration or alternative food sources soon.",
+                        "environmental_shift": "The stream's increased flow continues to provide fresh water, but alerts should remain for potential flooding or changes in accessibility."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 7,
+            "notes": [
+                {
+                    "terrain": "Dense forest with intermittent clearings, a moderately flowing stream, and slight elevation changes",
+                    "temperature": 16,
+                    "weather": "Overcast with occasional breaks of sunshine",
+                    "food_availability": "Wild berries are starting to ripen; small game is wary but present",
+                    "water_availability": "Stream remains fresh and easily accessible",
+                    "shelter_options": "Reinforced branches and tree cover, with a few natural caves nearby",
+                    "wildlife": "Wary small game, increased bird activity, predators active at dusk",
+                    "danger_level": "Moderate (increased predator activity at dusk, slippery terrain in places)"
+                },
+                {
+                    "terrain": "Dense forest with intermittent clearings, a moderately flowing stream, and slight elevation changes",
+                    "temperature": 16,
+                    "weather": "Overcast with occasional breaks of sunshine, potential for light rain",
+                    "food_availability": "Wild berries are nearly depleted; roots and insects are becoming primary food sources; small game remains cautious",
+                    "water_availability": "Stream remains fresh, with slightly increased flow due to recent rains",
+                    "shelter_options": "Reinforced natural caves and dense tree cover provide weather protection; makeshift shelters using branches are being improved",
+                    "wildlife": "Small game is furtive, with increased bird activity; predators more active at dusk and during rain breaks",
+                    "danger_level": "Moderate to High (increased predator activity at dusk and during rain breaks; slippery terrain risks)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Small game and birds are becoming more elusive; predator activity is increasing during rain breaks and at dusk.",
+                        "resource_change": "Berry patches almost depleted; roots, insects, and occasional small game sightings are primary food sources. Stream access remains good.",
+                        "environmental_shift": "Weather conditions remain overcast with potential for intermittent light rain. Terrain may become more slippery, increasing the risk of falls or stealth predator encounters."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 8,
+            "notes": [
+                {
+                    "terrain": "Dense forest with intermittent clearings and a moderately flowing stream",
+                    "temperature": 16,
+                    "weather": "Overcast with occasional breaks of sunshine, chance of light rain",
+                    "food_availability": "Roots, insects, and occasionally small game",
+                    "water_availability": "Stream remains fresh with a slightly increased flow",
+                    "shelter_options": "Reinforced natural caves and dense tree cover",
+                    "wildlife": "Furtive small game, increased bird activity, occasional predators",
+                    "danger_level": "Moderate to High (predators active at dusk and during rain breaks; slippery terrain risks)"
+                },
+                {
+                    "terrain": "Dense forest with intermittent clearings and a moderately flowing stream",
+                    "temperature": 16,
+                    "weather": "Overcast with occasional breaks of sunshine, chance of light rain",
+                    "food_availability": "Roots, mushrooms, and small game are slightly more accessible due to improved foraging strategy",
+                    "water_availability": "Stream remains fresh with a slightly increased flow",
+                    "shelter_options": "Reinforced natural caves and dense tree cover, with shelters improved using branches and leaves for better insulation",
+                    "wildlife": "Small game slightly more active due to reduced human presence during shelter improvement, increased bird activity, predators still occasional but cautious",
+                    "danger_level": "Moderate (predators' activity remains at dusk and during rain breaks; terrain is slippery due to weather conditions)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Predators remain cautious but may increase activity around dusk and during periods of reduced visibility such as rain breaks.",
+                        "resource_change": "Shelter improvement has reduced the immediate need for foraging, allowing small game to become slightly less wary. Roots and mushrooms are being targeted more frequently.",
+                        "environmental_shift": "Continued overcast conditions with chances of light rain suggest maintaining vigilance for slippery terrain and potential stealth predator movements."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 9,
+            "notes": [
+                {
+                    "terrain": "Dense forest with intermittent clearings and a moderately flowing stream",
+                    "temperature": 14,
+                    "weather": "Overcast with light rain starting in the afternoon",
+                    "food_availability": "Roots, mushrooms, and small game have become slightly more accessible",
+                    "water_availability": "Stream remains fresh with increased flow",
+                    "shelter_options": "Reinforced natural caves and dense tree cover, with shelters improved using branches and leaves",
+                    "wildlife": "Active small game and birds, cautious predators during low visibility",
+                    "danger_level": "Moderate (slippery terrain due to rain, cautious predators)"
+                },
+                {
+                    "terrain": "Dense forest with intermittent clearings and a moderately flowing stream",
+                    "temperature": 14,
+                    "weather": "Overcast with light rain persisting throughout the day",
+                    "food_availability": "Roots and mushrooms remain accessible near large trees, with occasional small game sightings",
+                    "water_availability": "Stream continues to flow with increased rate, providing ample fresh water",
+                    "shelter_options": "Reinforced natural caves and tree cover, with shelters improved using branches and leaves for enhanced protection against rain",
+                    "wildlife": "Small game and birds are active but wary; predators remain cautious, particularly during periods of low visibility",
+                    "danger_level": "Moderate (slippery terrain due to ongoing rain, cautious predator activity)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Predator activity may increase after rain as they exploit quieter conditions; maintain caution during low visibility times.",
+                        "resource_change": "Shelter reinforcement has improved protection, allowing more focus on foraging. Roots and mushrooms near large trees continue to be reliable food sources.",
+                        "environmental_shift": "Persistent rain increases the risk of slippery terrain, necessitating careful movement. Monitor stream levels for any signs of flooding or changes in water accessibility."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 10,
+            "notes": [
+                {
+                    "terrain": "Dense forest with intermittent clearings and a moderately flowing stream",
+                    "temperature": 16,
+                    "weather": "Partly cloudy with occasional sunbeams breaking through",
+                    "food_availability": "Roots, mushrooms, and increased sightings of small game as the rain subsides",
+                    "water_availability": "The stream continues to flow abundantly, offering fresh water",
+                    "shelter_options": "Reinforced natural caves and thick tree cover provide solid protection",
+                    "wildlife": "Small game and birds are active, with predators still cautious but slightly more active post-rain",
+                    "danger_level": "Moderate (terrain is drying but still slippery in some areas; slight increase in predator activity)"
+                },
+                {
+                    "terrain": "Dense forest with intermittent clearings and a moderately flowing stream",
+                    "temperature": 16,
+                    "weather": "Partly cloudy with occasional sunbeams breaking through",
+                    "food_availability": "Roots and mushrooms remain plentiful near large trees, and small game sightings have increased as the forest dries",
+                    "water_availability": "The stream continues to flow abundantly, offering fresh water",
+                    "shelter_options": "Reinforced natural caves and thick tree cover provide solid protection, enhanced by additional branch reinforcements",
+                    "wildlife": "Small game and birds are active, with predators slightly more emboldened post-rain, especially at dawn and dusk",
+                    "danger_level": "Moderate (terrain is drying but still slippery in some areas; predator activity is slightly higher during low visibility periods)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Predators are adapting to post-rain conditions, becoming more active at dawn and dusk. Continued vigilance is necessary.",
+                        "resource_change": "Roots and mushrooms continue to be stable food sources near tree bases, but small game may become warier with increased predator presence.",
+                        "environmental_shift": "The terrain is drying but remains slippery in places. Ongoing weather changes could further influence foraging and movement."
+                    }
+                }
+            ]
+        }
+    ]
+}

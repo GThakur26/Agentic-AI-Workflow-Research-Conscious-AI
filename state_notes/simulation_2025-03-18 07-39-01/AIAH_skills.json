@@ -1,0 +1,104 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "Water Procurement": "Ability to locate and utilize natural water sources effectively, such as streams, to satisfy thirst and maintain hydration.",
+            "Basic Foraging": "Skill in identifying and gathering edible wild herbs and fruits to address hunger, improve energy, and maintain overall health.",
+            "Environmental Observation": "Developed skill in assessing and understanding environmental conditions, wildlife behavior, and resource availability to make informed survival decisions.",
+            "Diary Keeping": "Skill in documenting observations and experiences for future reference, aiding in memory development and environmental understanding."
+        },
+        {
+            "Basic Foraging": "Skill in identifying and gathering edible wild herbs and fruits to address hunger, improve energy, and maintain overall health. Proficiency increased due to successful identification and safe consumption of wild fruits and nuts.",
+            "Water Procurement": "Ability to locate and utilize natural water sources effectively, such as streams, to satisfy thirst and maintain hydration. Proficiency maintained due to successful location and usage of the stream.",
+            "Environmental Observation": "Developed skill in assessing and understanding environmental conditions, wildlife behavior, and resource availability to make informed survival decisions. Proficiency increased as a result of successfully identifying changes in wildlife behavior and resource availability.",
+            "Diary Keeping": "Skill in documenting observations and experiences for future reference, aiding in memory development and environmental understanding. Proficiency maintained with continued documentation.",
+            "Cautious Exploration": "Emerging skill in exploring new environments with an emphasis on safety and observation. Developed through cautious movement through the forest, leading to a better understanding of the transition from plains to forest.",
+            "Resource Adaptation": "Ability to adapt to changing resource availability and strategize resource gathering. Emerging skill developed as a result of observing the depletion of fruits and nuts and planning to explore deeper into the forest."
+        },
+        {
+            "Water Procurement": "Ability to locate and utilize natural water sources effectively, such as streams, to satisfy thirst and maintain hydration. Proficiency maintained due to successful location and usage of the stream.",
+            "Basic Foraging": "Skill in identifying and gathering edible wild herbs and fruits to address hunger, improve energy, and maintain overall health. Proficiency increased due to successful identification of wild berries deeper in the forest, despite resource depletion near the edge.",
+            "Environmental Observation": "Developed skill in assessing and understanding environmental conditions, wildlife behavior, and resource availability to make informed survival decisions. Proficiency increased as a result of successfully identifying changes in wildlife movement patterns and resource availability.",
+            "Diary Keeping": "Skill in documenting observations and experiences for future reference, aiding in memory development and environmental understanding. Proficiency maintained with continued documentation.",
+            "Cautious Exploration": "Emerging skill in exploring new environments with an emphasis on safety and observation. Proficiency increased due to cautious approach to the stream and awareness of wildlife activity.",
+            "Resource Adaptation": "Ability to adapt to changing resource availability and strategize resource gathering. Proficiency increased as a result of planning to explore deeper into the forest due to resource depletion and adapting to the increased challenge of procuring water.",
+            "Shelter Assessment": "Emerging skill in evaluating natural shelters and preparing for weather changes. Developed through the evaluation of dense tree cover and natural caves for short-term refuge in response to impending weather change."
+        },
+        {
+            "Shelter Construction": "Emerging skill in reinforcing natural shelters for enhanced protection against weather and predators. Developed through practical application of using available materials like branches and leaves to secure a natural cave or dense tree cover.",
+            "Strategic Resource Management": "Skill in planning and executing strategies to manage survival resources effectively. Improved through prioritizing critical actions based on environment conditions such as reinforcing shelter, maintaining hydration, and cautious foraging.",
+            "Environmental Awareness": "Proficiency in understanding environmental dynamics such as predator behavior during rain and wildlife observation for safer foraging opportunities. Enhanced by recognizing patterns and changes in the environment during rain.",
+            "Cautious Exploration": "Skill in exploring and moving through environments with heightened awareness of risks and opportunities. Further improved through strategic movements to avoid predators and adapt to the challenges posed by the environment.",
+            "Resource Adaptation": "Skill in adjusting to resource availability and strategizing resource gathering. Proficiency maintained by adapting to the scarcity of wild berries and the need to find alternative food sources."
+        },
+        {
+            "Shelter Reinforcement": "Skill in enhancing the stability and insulation of natural shelters using available resources such as branches and leaves, providing improved protection against weather and predators.",
+            "Injury and Illness Management": "Ability to manage personal health by prioritizing rest, identifying potential natural remedies, and creating a stable environment for recovery.",
+            "Foraging Strategy": "Advanced skill in identifying and gathering alternative food sources in a resource-scarce environment while remaining cautious of wildlife activity.",
+            "Health Prioritization": "Skill in planning and executing actions that prioritize health improvement, such as hydration and rest, amidst challenging environmental conditions."
+        },
+        {
+            "Shelter Reinforcement": "Skill in enhancing the stability and insulation of natural shelters using available resources such as branches and leaves, providing improved protection against weather and predators.",
+            "Injury and Illness Management": "Ability to manage personal health by prioritizing rest, identifying potential natural remedies, and creating a stable environment for recovery.",
+            "Foraging Strategy": "Advanced skill in identifying and gathering alternative food sources in a resource-scarce environment while remaining cautious of wildlife activity.",
+            "Health Prioritization": "Skill in planning and executing actions that prioritize health improvement, such as hydration and rest, amidst challenging environmental conditions.",
+            "Water Procurement": "Ability to locate and utilize natural water sources effectively, such as streams, to satisfy thirst and maintain hydration. Proficiency maintained due to successful location and usage of the stream.",
+            "Basic Foraging": "Skill in identifying and gathering edible wild herbs and fruits to address hunger, improve energy, and maintain overall health. Proficiency increased due to successful adaptation in foraging strategy to include roots and mushrooms.",
+            "Environmental Observation": "Developed skill in assessing and understanding environmental conditions, wildlife behavior, and resource availability to make informed survival decisions. Proficiency increased due to ongoing wildlife pattern observation and adaptation to environmental shifts.",
+            "Cautious Exploration": "Skill in exploring and moving through environments with heightened awareness of risks and opportunities. Further improved through strategic movements to avoid predators and adapt to environmental challenges.",
+            "Resource Adaptation": "Skill in adjusting to resource availability and strategizing resource gathering. Proficiency increased by adapting foraging strategies to focus on roots and mushrooms due to berry depletion.",
+            "Wildlife Observation": "Emerging skill in monitoring wildlife behavior, particularly predator activity, to ensure safety during resource gathering. Developed through sustained vigilance and adaptation to changes in predator activity post-rain."
+        },
+        {
+            "Shelter Construction": "Emerging skill in reinforcing natural shelters for enhanced protection against weather and predators. Developed through practical application of using available materials like branches and leaves to secure a natural cave or dense tree cover. Proficiency increased due to ongoing improvements and reinforcement of shelters.",
+            "Injury and Illness Management": "Ability to manage personal health by prioritizing rest, identifying potential natural remedies, and creating a stable environment for recovery. Proficiency maintained as it remains crucial for survival given current health status.",
+            "Foraging Strategy": "Advanced skill in identifying and gathering alternative food sources in a resource-scarce environment while remaining cautious of wildlife activity. Proficiency increased due to successful adaptation to focus on roots and insects as primary food sources.",
+            "Health Prioritization": "Skill in planning and executing actions that prioritize health improvement, such as hydration and rest, amidst challenging environmental conditions. Proficiency maintained as it remains vital for managing energy and health.",
+            "Water Procurement": "Ability to locate and utilize natural water sources effectively, such as streams, to satisfy thirst and maintain hydration. Proficiency maintained due to successful location and usage of the stream.",
+            "Basic Foraging": "Skill in identifying and gathering edible wild herbs and fruits to address hunger, improve energy, and maintain overall health. Proficiency increased due to successful adaptation in foraging strategy to include roots and insects.",
+            "Environmental Observation": "Developed skill in assessing and understanding environmental conditions, wildlife behavior, and resource availability to make informed survival decisions. Proficiency increased due to ongoing wildlife pattern observation and adaptation to environmental shifts.",
+            "Cautious Exploration": "Skill in exploring and moving through environments with heightened awareness of risks and opportunities. Further improved through strategic movements to avoid predators and adapt to environmental challenges.",
+            "Resource Adaptation": "Skill in adjusting to resource availability and strategizing resource gathering. Proficiency increased by adapting foraging strategies to focus on roots and insects due to berry depletion.",
+            "Wildlife Observation": "Emerging skill in monitoring wildlife behavior, particularly predator activity, to ensure safety during resource gathering. Developed through sustained vigilance and adaptation to changes in predator activity post-rain.",
+            "Strategic Resource Management": "Skill in planning and executing strategies to manage survival resources effectively. Improved through prioritizing critical actions based on environment conditions such as reinforcing shelter, maintaining hydration, and cautious foraging."
+        },
+        {
+            "Shelter Construction": "Proficiency increased due to continuous improvements and reinforcement of shelters using branches and leaves for better protection against weather and predators.",
+            "Injury and Illness Management": "Proficiency maintained as it remains crucial for survival given current health status, focusing on creating a stable environment for recovery.",
+            "Foraging Strategy": "Proficiency increased due to successful adaptation to focus on roots and mushrooms as primary food sources amidst resource scarcity.",
+            "Health Prioritization": "Proficiency maintained as it remains vital for managing energy and health through strategic hydration, rest, and resource management.",
+            "Water Procurement": "Proficiency maintained due to successful location and usage of the stream to satisfy thirst and maintain hydration.",
+            "Basic Foraging": "Proficiency increased due to successful adaptation in foraging strategy to include roots and mushrooms, improving energy and addressing hunger.",
+            "Environmental Observation": "Proficiency increased due to ongoing wildlife pattern observation and adaptation to environmental shifts, enhancing survival decision-making.",
+            "Cautious Exploration": "Further improved through strategic movements to avoid predators and adapt to environmental challenges, keeping safety as a priority.",
+            "Resource Adaptation": "Proficiency increased by adapting foraging strategies to focus on roots and mushrooms due to berry depletion, ensuring resource availability.",
+            "Wildlife Observation": "Emerging skill developed through sustained vigilance and adaptation to changes in predator activity, ensuring safety during resource gathering.",
+            "Strategic Resource Management": "Proficiency improved through prioritizing critical actions based on environmental conditions such as shelter reinforcement, maintaining hydration, and cautious foraging."
+        },
+        {
+            "Shelter Construction": "Proficiency increased due to continuous improvements and reinforcement of shelters using branches and leaves for better protection against weather and predators.",
+            "Injury and Illness Management": "Proficiency maintained as it remains crucial for survival given current health status, focusing on creating a stable environment for recovery.",
+            "Foraging Strategy": "Proficiency increased due to successful adaptation to focus on roots and mushrooms as primary food sources amidst resource scarcity.",
+            "Health Prioritization": "Proficiency maintained as it remains vital for managing energy and health through strategic hydration, rest, and resource management.",
+            "Water Procurement": "Proficiency maintained due to successful location and usage of the stream to satisfy thirst and maintain hydration.",
+            "Basic Foraging": "Proficiency increased due to successful adaptation in foraging strategy to include roots and mushrooms, improving energy and addressing hunger.",
+            "Environmental Observation": "Proficiency increased due to ongoing wildlife pattern observation and adaptation to environmental shifts, enhancing survival decision-making.",
+            "Cautious Exploration": "Further improved through strategic movements to avoid predators and adapt to environmental challenges, keeping safety as a priority.",
+            "Resource Adaptation": "Proficiency increased by adapting foraging strategies to focus on roots and mushrooms due to berry depletion, ensuring resource availability.",
+            "Wildlife Observation": "Proficiency increased as predator activity was monitored to ensure safety during resource gathering.",
+            "Strategic Resource Management": "Proficiency improved through prioritizing critical actions based on environmental conditions such as shelter reinforcement, maintaining hydration, and cautious foraging."
+        },
+        {
+            "Foraging Strategy": "Proficiency increased due to successful adaptation to focus on roots and mushrooms as primary food sources amidst resource scarcity.",
+            "Shelter Construction": "Proficiency increased due to continuous improvements and reinforcement of shelters using branches and leaves for better protection against weather and predators.",
+            "Environmental Observation": "Proficiency increased due to ongoing wildlife pattern observation and adaptation to environmental shifts, enhancing survival decision-making.",
+            "Wildlife Observation": "Proficiency increased as predator activity was monitored to ensure safety during resource gathering.",
+            "Strategic Resource Management": "Proficiency improved through prioritizing critical actions based on environmental conditions such as shelter reinforcement, maintaining hydration, and cautious foraging.",
+            "Injury and Illness Management": "Proficiency maintained as it remains crucial for survival given current health status, focusing on creating a stable environment for recovery.",
+            "Cautious Exploration": "Further improved through strategic movements to avoid predators and adapt to environmental challenges, keeping safety as a priority.",
+            "Health Prioritization": "Proficiency maintained as it remains vital for managing energy and health through strategic hydration, rest, and resource management.",
+            "Water Procurement": "Proficiency maintained due to successful location and usage of the stream to satisfy thirst and maintain hydration.",
+            "Resource Adaptation": "Proficiency increased by adapting foraging strategies to focus on roots and mushrooms due to berry depletion, ensuring resource availability."
+        }
+    ]
+}
