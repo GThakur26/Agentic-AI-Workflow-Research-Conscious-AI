@@ -2,3 +2,5 @@ langchain-core==0.1.22
 langchain-community==0.0.20
 langsmith==0.0.87
 langchain-openai==0.0.5
+langgraph==0.0.10
+google-generativeai==0.8.4
