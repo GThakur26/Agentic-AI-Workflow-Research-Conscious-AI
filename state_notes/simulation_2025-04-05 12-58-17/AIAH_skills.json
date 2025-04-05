@@ -1,0 +1,491 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "Shelter Construction": "Ability to efficiently locate and utilize natural overhangs for protection against rain, maintaining body temperature and reducing exposure.",
+            "Water Filtration": "Skill in collecting muddy water and allowing sediment to settle, resulting in cleaner drinking water to avoid illness.",
+            "Energy Conservation": "Understanding of conserving energy during foraging in sparse environments, minimizing unnecessary actions to prevent exhaustion."
+        },
+        {
+            "Shelter Construction": "Proficiency in shelter construction has increased due to effective utilization of natural rock overhangs and enhancement with fallen branches, providing better protection against rain and predators.",
+            "Foraging": "The ability to identify and gather edible wild roots has been developed, enhancing survival capabilities in sparse environments.",
+            "Hunting Small Game": "A new skill in catching small rodents has been acquired, providing an additional food source in limited resource areas.",
+            "Cautious Navigation": "Skill in safely traversing slippery and potentially dangerous terrain while maintaining awareness of predator presence, minimizing risks of injury or attacks.",
+            "Hydration Management": "Continued practice in using stream water for hydration, with an understanding of subtle improvements in water quality over time."
+        },
+        {
+            "Cautious Navigation": "The proficiency in safely traversing slippery and potentially dangerous terrain while maintaining awareness of predator presence has increased. This skill helps in minimizing risks of injury or attacks, especially in environments with moderate danger levels.",
+            "Foraging": "The practice of foraging for wild berries while conserving energy has improved. This skill aids in efficient energy management and sustenance in resource-limited environments.",
+            "Shelter Selection": "A new skill in identifying and choosing optimal natural shelters, such as caves, for protection against weather and predators has been developed. This skill enhances survival by reducing exposure and increasing safety during rest periods."
+        },
+        {
+            "Shelter Selection": "Proficiency in selecting optimal shelter locations, such as caves, has increased. This enhances protection against predators and weather, crucial for survival in risky environments.",
+            "Cautious Navigation": "Continued improvement in safely navigating potentially dangerous terrains with heightened awareness of predator presence, reducing risk of injury.",
+            "Foraging": "Proficiency in foraging for limited wild berries and small game hunting has increased, essential for maintaining sustenance amidst depleted resources.",
+            "Hydration Management": "Ongoing proficiency in utilizing the clear stream for hydration, maintaining hydration effectively in stable weather conditions.",
+            "Strategic Resource Management": "Learned skill in balancing resource gathering such as food and water, and maintaining high vigilance due to predator activity. This skill helps in optimizing survival strategies."
+        },
+        {
+            "Predator Awareness": "Skill developed in recognizing signs of increased predator activity, adjusting strategies accordingly to ensure safety and vigilance in moderately dangerous environments.",
+            "Strategic Resource Management": "Increased proficiency in balancing resource gathering such as food and water, maintaining high vigilance due to predator activity, and optimizing survival strategies."
+        },
+        {
+            "Predator Avoidance Strategy": "Learned to effectively balance resource gathering and predator avoidance in a high-danger environment, focusing on maintaining vigilance and minimizing risks."
+        },
+        {
+            "Predator Awareness": "Increased proficiency in recognizing signs of predator activity, adjusting strategies accordingly to ensure safety and vigilance in moderately dangerous environments.",
+            "Strategic Resource Management": "Further enhanced skill in effectively gathering resources such as food and water, while maintaining vigilance due to predator activity. This skill aids in optimizing survival strategies.",
+            "Shelter Utilization": "Improved ability in identifying and using natural shelters, such as caves, for protection against weather and predators, which is crucial for survival in risky environments.",
+            "Foraging": "Continued development in foraging skills, particularly in identifying and gathering wild berries while conserving energy, ensuring sustenance in resource-limited environments."
+        },
+        {
+            "Path Variation in Foraging": "A new skill in altering foraging routes to avoid predictable patterns that predators might exploit, enhancing safety and reducing predator awareness.",
+            "Adaptive Strategy": "Skill in continuously monitoring environmental changes and adapting strategies to maintain safety and resource adequacy, crucial for surviving in dynamic and moderately dangerous environments."
+        },
+        {
+            "Shelter Fortification": "The skill of reinforcing natural shelters with debris to enhance protection against predators and weather has been acquired, crucial for maintaining safety in high-danger environments.",
+            "Trap Setting": "A new skill in setting traps to capture small game has been developed, aiding in food acquisition without direct confrontation with wildlife.",
+            "Cautious Movement": "Enhanced proficiency in moving quietly and strategically within predator-active areas to minimize detection and increase safety.",
+            "Heightened Predator Vigilance": "Further developed skill in constantly monitoring predator activity and adjusting strategies to ensure survival in very high danger levels."
+        },
+        {
+            "Shelter Fortification": "Increased proficiency in reinforcing natural shelters with debris to enhance protection against weather and predators. This skill has been further improved due to effective management of the cave under rainy conditions.",
+            "Trap Setting": "Enhanced skill in setting and managing traps for small game, demonstrated by successfully catching a small rodent. This skill provides an essential food source in environments with limited resources.",
+            "Predator Awareness": "Continued improvement in recognizing predator activity, adjusting strategies for safety, especially near water sources where predators may monitor.",
+            "Water Collection and Filtration": "Refinement in approaching water sources for collection and ensuring its drinkability through filtration, essential for maintaining hydration in cold weather conditions."
+        },
+        {
+            "Adaptive Strategy": "Skill in continuously monitoring environmental changes and adapting strategies to maintain safety and resource adequacy, crucial for surviving in dynamic and moderately dangerous environments.",
+            "Trap Setting": "Enhanced skill in setting and managing traps for small game, demonstrated by successfully catching a small rodent. This skill provides an essential food source in environments with limited resources.",
+            "Shelter Utilization": "Improved ability in identifying and using natural shelters, such as caves, for protection against weather and predators, which is crucial for survival in risky environments.",
+            "Heightened Predator Vigilance": "Further developed skill in constantly monitoring predator activity and adjusting strategies to ensure survival in very high danger levels."
+        },
+        {
+            "Shelter Fortification": "Increased proficiency in reinforcing natural shelters with debris to enhance protection against weather and predators. This skill has been further improved due to effective management of the cave under current conditions.",
+            "Trap Setting": "Improved skill in setting and managing traps for small game, leveraging the increased activity of small mammals and birds. This skill aids in food acquisition without direct confrontation with wildlife.",
+            "Cautious Navigation": "Enhanced proficiency in safely traversing terrains while maintaining awareness of predator presence, minimizing risks of injury or attacks.",
+            "Water Collection and Filtration": "Continued refinement in approaching water sources for collection and ensuring drinkability through filtration, essential for maintaining hydration amidst potential predator activity."
+        },
+        {
+            "Trap Setting": "Improved proficiency in setting and managing traps for small game, leveraging the increased activity of small mammals and birds. This skill aids in food acquisition without direct confrontation with wildlife.",
+            "Cautious Navigation": "Further enhancement in safely traversing terrains while maintaining awareness of predator presence, minimizing risks of injury or attacks.",
+            "Water Collection and Filtration": "Continued refinement in approaching water sources for collection and ensuring drinkability through filtration, essential for maintaining hydration amidst potential predator activity."
+        },
+        {
+            "Shelter Fortification": "Increased proficiency in reinforcing natural shelters with debris to enhance protection against weather and predators. This skill has been further improved due to effective management of the cave under current conditions.",
+            "Trap Setting": "Improved proficiency in setting and managing traps for small game, leveraging the increased activity of small mammals and birds. This skill aids in food acquisition without direct confrontation with wildlife.",
+            "Predator Awareness": "Continued improvement in recognizing predator activity, adjusting strategies for safety, especially near water sources where predators may monitor.",
+            "Adaptive Strategy": "Skill in continuously monitoring environmental changes and adapting strategies to maintain safety and resource adequacy, crucial for surviving in dynamic and moderately dangerous environments.",
+            "Water Collection and Filtration": "Continued refinement in approaching water sources for collection and ensuring drinkability through filtration, essential for maintaining hydration amidst potential predator activity.",
+            "Path Variation in Foraging": "A new skill in altering foraging routes to avoid predictable patterns that predators might exploit, enhancing safety and reducing predator awareness."
+        },
+        {
+            "Trap Optimization": "Skill in refining trap placements and patterns to increase success rates in capturing small game, essential for food acquisition in resource-scarce environments.",
+            "Weather Adaptation Strategy": "Skill in adjusting survival strategies based on changing weather conditions, such as rain, affecting predator activity and resource availability.",
+            "Strategic Territory Management": "Skill in managing territory to minimize predictable patterns, enhancing safety from predators and improving resource acquisition strategies."
+        },
+        {
+            "Trap Optimization": "Enhanced skill in refining trap placements and patterns to increase success rates in capturing small game, essential for food acquisition in resource-scarce environments.",
+            "Water Collection and Filtration": "Refinement in approaching water sources for collection and ensuring its drinkability through filtration, essential for maintaining hydration in cold weather conditions.",
+            "Shelter Fortification": "Increased proficiency in reinforcing natural shelters with debris to enhance protection against weather and predators. This skill has been further improved due to effective management of the cave under current conditions.",
+            "Predator Awareness": "Continued improvement in recognizing predator activity, adjusting strategies for safety, especially near water sources where predators may monitor.",
+            "Adaptive Strategy": "Skill in continuously monitoring environmental changes and adapting strategies to maintain safety and resource adequacy, crucial for surviving in dynamic and moderately dangerous environments."
+        },
+        {
+            "Trap Setting": "Improved proficiency in setting and managing traps for small game, as the environment outcome indicates that traps are increasingly successful. This skill aids in food acquisition without direct confrontation with wildlife.",
+            "Shelter Utilization": "Increased proficiency in utilizing fortified caves effectively for shelter, providing protection from weather and predators.",
+            "Predator Awareness": "Continued improvement in recognizing and adjusting to predator activity, especially near water sources, ensuring safety in moderate danger environments.",
+            "Adaptive Strategy": "Enhanced skill in monitoring and adapting to environmental changes, such as alterations in predator behavior and resource availability, crucial for maintaining safety and resource adequacy.",
+            "Path Variation in Foraging": "Skill in altering foraging routes, reducing predictable patterns that predators might exploit, enhancing safety.",
+            "Water Collection and Filtration": "Refinement in collecting water from clear streams safely and ensuring its drinkability, essential for maintaining hydration amidst potential predator activity."
+        },
+        {
+            "Trap Setting": "Improved proficiency in setting and managing traps for small game, as the environment outcome indicates that traps are increasingly successful. This skill aids in food acquisition without direct confrontation with wildlife.",
+            "Predator Awareness": "Continued improvement in recognizing and adjusting to predator activity, especially near water sources, ensuring safety in moderate danger environments.",
+            "Adaptive Strategy": "Enhanced skill in monitoring and adapting to environmental changes, such as alterations in predator behavior and resource availability, crucial for maintaining safety and resource adequacy."
+        },
+        {
+            "Improved Vigilance": "Skill in maintaining heightened awareness and caution, especially near water sources where predator activity is significant. This aids in ensuring safety while securing resources in high-danger environments."
+        },
+        {
+            "Improved Vigilance": "Skill in maintaining heightened awareness and caution, especially near water sources where predator activity is significant. This aids in ensuring safety while securing resources in high-danger environments.",
+            "Trap Optimization": "Enhanced skill in refining trap placements and patterns to increase success rates in capturing small game, essential for food acquisition in resource-scarce environments.",
+            "Shelter Fortification": "Increased proficiency in reinforcing natural shelters with debris to enhance protection against weather and predators. This skill has been further improved due to effective management of the cave under current conditions.",
+            "Path Variation in Foraging": "Skill in altering foraging routes, reducing predictable patterns that predators might exploit, enhancing safety.",
+            "Weather Adaptation Strategy": "Skill in adjusting survival strategies based on changing weather conditions, such as rain, affecting predator activity and resource availability."
+        },
+        {
+            "Strategic Water Collection": "A new skill developed in collecting water from a distance using containers, minimizing risk from predators by avoiding direct confrontation at water sources. This enhances safety and resource acquisition in high-risk environments.",
+            "Enhanced Shelter Fortification": "Increased proficiency in reinforcing cave shelters with additional debris to withstand harsh weather and deter predator intrusion. This skill is crucial for maintaining safety in very high danger environments.",
+            "Alternative Trap Placement Strategy": "Skill in identifying alternative locations for trap placement to diversify food sources and avoid predictable patterns that predators might exploit, ensuring continued sustenance in resource-limited areas."
+        },
+        {
+            "Rainwater Harvesting": "New skill developed in collecting rainwater using natural materials like leaves, minimizing exposure to predators by avoiding dangerous river access. This enhances survival by ensuring a steady water supply in high-risk environments."
+        },
+        {
+            "Improved Foraging Strategy": "Skill in strategically varying foraging routes and techniques to capitalize on increased food availability while reducing predictability, enhancing food acquisition and safety in dynamic environments."
+        },
+        {
+            "Rainwater Harvesting": "New skill developed in collecting rainwater using natural materials like leaves, minimizing exposure to predators by avoiding dangerous river access. This enhances survival by ensuring a steady water supply in high-risk environments."
+        },
+        {
+            "Shelter Camouflage": "New skill in camouflaging shelters to reduce visibility to predators, enhancing safety and security in high-danger environments.",
+            "Rainwater Harvesting": "Further enhancement in skill of collecting rainwater using natural materials to ensure a steady water supply, crucial for survival amidst critically low river levels and high predator activity."
+        },
+        {
+            "Trap Optimization": "Further proficiency in optimizing trap placements and management, resulting in a consistent food supply from small game, crucial for sustaining energy and survival in resource-limited environments.",
+            "Shelter Fortification": "Skill in enhancing protection of shelters by using additional debris, improving safety against elements and predator threats, which is essential for maintaining body temperature and security.",
+            "Adaptive Strategy": "An improved skill in adapting strategies based on environment and predator behavior, ensuring resource adequacy and safety in dynamic environments.",
+            "Improved Vigilance": "Heightened awareness and caution, especially in areas with potential predator activity, ensuring safety and resource security."
+        },
+        {
+            "Improved Vigilance": "Skill in maintaining heightened awareness and caution, especially near water sources where predator activity is significant. This aids in ensuring safety while securing resources in high-danger environments.",
+            "Improved Foraging Strategy": "Skill in strategically varying foraging routes and techniques to capitalize on increased food availability while reducing predictability, enhancing food acquisition and safety in dynamic environments."
+        },
+        {
+            "Fishing": "Skill in using alternative food sources such as fishing in the river to complement small game capture, ensuring food acquisition in environments with scarce wild berries.",
+            "Strategic Path Variation": "Enhanced proficiency in altering movement and foraging routes to avoid predictable patterns that could be exploited by predators, improving safety and resource acquisition.",
+            "Shelter Insulation": "Skill in improving insulation of shelters for colder nights, enhancing protection against temperature drops and increasing comfort and safety.",
+            "Enhanced Resource Management": "Skill in optimizing resource management, balancing the acquisition of food and water while maintaining safety from predators, crucial for survival in dynamic environments."
+        },
+        {
+            "Fishing": "Skill in using alternative food sources such as fishing in the river to complement small game capture, ensuring food acquisition in environments with scarce wild berries."
+        },
+        {
+            "Strategic Resource Management": "Improved ability to analyze and plan resource acquisition considering predator presence and environmental conditions, optimizing for safety and sustenance in dynamic environments.",
+            "Fishing": "Improved skill in using available tools and techniques for fishing, ensuring consistent food supply, and complementing small game capture.",
+            "Shelter Utilization": "Enhanced ability to strategically select and utilize natural shelters, such as caves, for maximum protection against environmental elements and predators.",
+            "Trap Setting": "Refined skill in strategically placing and managing traps to maximize small game capture, crucial for maintaining a steady food supply without direct wildlife confrontation.",
+            "Adaptive Strategy": "Continued improvement in monitoring environmental changes and adapting strategies for resource acquisition and safety, essential for thriving in moderately dangerous environments.",
+            "Heightened Predator Vigilance": "Improved skill in recognizing and adjusting to increased predator awareness, ensuring safety by varying paths and remaining observant at resource zones."
+        },
+        {
+            "Rainwater Harvesting": "New skill developed in collecting rainwater using natural materials like leaves, minimizing exposure to predators by avoiding dangerous river access. This enhances survival by ensuring a steady water supply in high-risk environments.",
+            "Strategic Water Collection": "A new skill developed in collecting water from a distance using containers, minimizing risk from predators by avoiding direct confrontation at water sources. This enhances safety and resource acquisition in high-risk environments.",
+            "Enhanced Shelter Fortification": "Increased proficiency in reinforcing cave shelters with additional debris to withstand harsh weather and deter predator intrusion. This skill is crucial for maintaining safety in very high danger environments.",
+            "Alternative Trap Placement Strategy": "Skill in identifying alternative locations for trap placement to diversify food sources and avoid predictable patterns that predators might exploit, ensuring continued sustenance in resource-limited areas.",
+            "Improved Foraging Strategy": "Skill in strategically varying foraging routes and techniques to capitalize on increased food availability while reducing predictability, enhancing food acquisition and safety in dynamic environments."
+        },
+        {
+            "Strategic Planning for Resource Acquisition": "A new skill developed in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in moderately dangerous environments."
+        },
+        {
+            "Strategic Planning for Resource Acquisition": "A new skill developed in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in moderately dangerous environments."
+        },
+        {
+            "Trap Optimization": "Skill in refining trap placements and patterns to increase success rates in capturing small game, essential for food acquisition in resource-scarce environments.",
+            "Strategic Water Collection": "A new skill developed in collecting water from a distance using containers, minimizing risk from predators by avoiding direct confrontation at water sources. This enhances safety and resource acquisition in high-risk environments.",
+            "Enhanced Shelter Fortification": "Increased proficiency in reinforcing cave shelters with additional debris to withstand harsh weather and deter predator intrusion. This skill is crucial for maintaining safety in very high danger environments.",
+            "Improved Vigilance": "Skill in maintaining heightened awareness and caution, especially near water sources where predator activity is significant. This aids in ensuring safety while securing resources in high-danger environments.",
+            "Improved Foraging Strategy": "Skill in strategically varying foraging routes and techniques to capitalize on increased food availability while reducing predictability, enhancing food acquisition and safety in dynamic environments.",
+            "Fishing": "Skill in using alternative food sources such as fishing in the river to complement small game capture, ensuring food acquisition in environments with scarce wild berries.",
+            "Strategic Planning for Resource Acquisition": "A new skill developed in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in moderately dangerous environments."
+        },
+        {
+            "Fishing": "Skill in using alternative food sources such as fishing in the river to complement small game capture, ensuring food acquisition in environments with scarce wild berries.",
+            "Shelter Insulation": "Skill in improving insulation of shelters for colder nights, enhancing protection against temperature drops and increasing comfort and safety.",
+            "Enhanced Resource Management": "Skill in optimizing resource management, balancing the acquisition of food and water while maintaining safety from predators, crucial for survival in dynamic environments.",
+            "Strategic Path Variation": "Enhanced proficiency in altering movement and foraging routes to avoid predictable patterns that could be exploited by predators, improving safety and resource acquisition."
+        },
+        {
+            "Fishing": "Skill in using alternative food sources such as fishing in the river to complement small game capture, ensuring food acquisition in environments with scarce wild berries.",
+            "Trap Optimization": "Skill in refining trap placements and patterns to increase success rates in capturing small game, essential for food acquisition in resource-scarce environments."
+        },
+        {
+            "Shelter Insulation": "Skill in improving insulation of shelters for colder nights, enhancing protection against temperature drops and increasing comfort and safety.",
+            "Fishing": "Skill in using alternative food sources such as fishing in the river to complement small game capture, ensuring food acquisition in environments with scarce wild berries."
+        },
+        {
+            "Fishing": "Skill in using alternative food sources such as fishing in the river to complement small game capture, ensuring food acquisition in environments with scarce wild berries.",
+            "Shelter Camouflage": "New skill in camouflaging shelters to reduce visibility to predators, enhancing safety and security in high-danger environments.",
+            "Strategic Movement Patterns": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments."
+        },
+        {
+            "Enhanced Shelter Fortification": "Increased proficiency in reinforcing shelters with natural camouflage, improving protection against weather and predator visibility, crucial for maintaining safety in moderately dangerous environments.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Strategic Planning for Resource Acquisition": "Improved ability to analyze and proactively plan resource acquisition, maintaining food and water stability while adapting to environmental changes."
+        },
+        {
+            "Rainwater Harvesting": "Further enhancement in skill of collecting rainwater using natural materials to ensure a steady water supply, crucial for survival amidst critically low river levels and high predator activity.",
+            "Shelter Fortification": "Increased proficiency in reinforcing natural shelters with debris to enhance protection against weather and predators. This skill has been further improved due to effective management of the cave under current conditions.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior."
+        },
+        {
+            "Fishing Enhancement": "Skill in utilizing the river for fishing as an alternative food source, complementing small game capture to ensure dietary variety and enhance food security in environments with limited edible vegetation."
+        },
+        {
+            "Shelter Camouflage": "A new skill in camouflaging shelters to reduce visibility to predators, enhancing safety and security in high-danger environments."
+        },
+        {},
+        {
+            "Fishing Enhancement": "Skill in utilizing the river for fishing as an alternative food source, complementing small game capture to ensure dietary variety and enhance food security in environments with limited edible vegetation."
+        },
+        {
+            "Strategic Movement Patterns": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments."
+        },
+        {
+            "Strategic Resource Management": "Improved ability to analyze and plan resource acquisition considering predator presence and environmental conditions, optimizing for safety and sustenance in dynamic environments.",
+            "Rainwater Harvesting": "New skill developed in collecting rainwater using natural materials like leaves, minimizing exposure to predators by avoiding dangerous river access. This enhances survival by ensuring a steady water supply in high-risk environments.",
+            "Enhanced Shelter Fortification": "Increased proficiency in reinforcing shelters with natural camouflage, improving protection against weather and predator visibility, crucial for maintaining safety in moderately dangerous environments."
+        },
+        {
+            "Fishing Enhancement": "Skill in utilizing the river for fishing as an alternative food source, complementing small game capture to ensure dietary variety and enhance food security in environments with limited edible vegetation.",
+            "Shelter Insulation": "Skill in improving insulation of shelters for colder nights, enhancing protection against temperature drops and increasing comfort and safety."
+        },
+        {
+            "Strategic Path Variation": "Enhanced proficiency in altering movement and foraging routes to avoid predictable patterns that could be exploited by predators, improving safety and resource acquisition.",
+            "Enhanced Shelter Fortification": "Increased proficiency in reinforcing cave shelters with additional debris to withstand harsh weather and deter predator intrusion. This skill is crucial for maintaining safety in very high danger environments.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Shelter Insulation": "Skill in improving insulation of shelters for colder nights, enhancing protection against temperature drops and increasing comfort and safety.",
+            "Alternative Trap Placement Strategy": "Skill in identifying alternative locations for trap placement to diversify food sources and avoid predictable patterns that predators might exploit, ensuring continued sustenance in resource-limited areas.",
+            "Strategic Water Collection": "A new skill developed in collecting water from a distance using containers, minimizing risk from predators by avoiding direct confrontation at water sources. This enhances safety and resource acquisition in high-risk environments."
+        },
+        {
+            "Fishing": "Skill in using alternative food sources such as fishing in the river to complement small game capture, ensuring food acquisition in environments with scarce wild berries."
+        },
+        {
+            "Reflection and Strategic Planning": "Skill in critically assessing the current environment, health status, and resource conditions to make informed decisions about shelter reinforcement, resource gathering techniques, and predator avoidance. This planning helps in maintaining a balanced approach to survival in moderately dangerous environments."
+        },
+        {
+            "Enhanced Shelter Insulation": "Skill in improving insulation of shelters using natural materials like leaves and debris, enhancing protection against temperature drops and increasing comfort and safety during colder nights.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques, ensuring a stable food supply through increased yield, especially in environments with abundant water resources.",
+            "Strategic Resource Management": "Improved ability to analyze and plan resource acquisition, considering predator presence and environmental conditions, optimizing for safety and sustenance in dynamic environments."
+        },
+        {
+            "Fishing": "Skill in using alternative food sources such as fishing in the river to complement small game capture, ensuring food acquisition in environments with scarce wild berries.",
+            "Shelter Insulation": "Skill in improving insulation of shelters for colder nights, enhancing protection against temperature drops and increasing comfort and safety.",
+            "Enhanced Resource Management": "Skill in optimizing resource management, balancing the acquisition of food and water while maintaining safety from predators, crucial for survival in dynamic environments.",
+            "Strategic Movement Patterns": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments.",
+            "Strategic Planning for Resource Acquisition": "A new skill developed in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in moderately dangerous environments.",
+            "Reflection and Strategic Planning": "Skill in critically assessing the current environment, health status, and resource conditions to make informed decisions about shelter reinforcement, resource gathering techniques, and predator avoidance. This planning helps in maintaining a balanced approach to survival in moderately dangerous environments."
+        },
+        {
+            "Shelter Insulation": "Skill in improving insulation of shelters using natural materials like leaves and debris, enhancing protection against temperature drops and increasing comfort and safety during colder nights.",
+            "Fishing": "Improved skill in using available tools and techniques for fishing, ensuring consistent food supply, and complementing small game capture.",
+            "Reflection and Strategic Planning": "Skill in critically assessing the current environment, health status, and resource conditions to make informed decisions about shelter reinforcement, resource gathering techniques, and predator avoidance. This planning helps in maintaining a balanced approach to survival in moderately dangerous environments."
+        },
+        {
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Enhanced Shelter Insulation": "Skill in improving insulation of shelters using natural materials like leaves and debris, enhancing protection against temperature drops and increasing comfort and safety during colder nights.",
+            "Strategic Planning for Resource Acquisition": "A new skill developed in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in moderately dangerous environments."
+        },
+        {
+            "Fishing": "Further enhanced skill in utilizing the river for fishing as an alternative food source, ensuring food acquisition in environments with scarce wild berries.",
+            "Shelter Insulation": "Improved skill in using natural materials like leaves and debris to enhance shelter insulation, providing better protection against temperature drops and increasing safety and comfort during colder nights.",
+            "Strategic Path Variation": "Increased proficiency in altering movement and foraging routes to avoid predictable patterns that could be exploited by predators, enhancing safety and resource acquisition.",
+            "Trap Optimization": "Further refined skill in optimizing trap placements and patterns to increase success rates in capturing small game, essential for food acquisition in resource-scarce environments."
+        },
+        {
+            "Enhanced Strategic Resource Management": "A new skill developed in effectively analyzing and optimizing resource acquisition, balancing food and water collection while maintaining safety from predators. This is crucial in dynamic environments with moderate danger levels."
+        },
+        {
+            "Strategic Resource Management": "Improved ability to analyze and plan resource acquisition considering predator presence and environmental conditions, optimizing for safety and sustenance in dynamic environments.",
+            "Shelter Fortification": "The skill of reinforcing natural shelters with debris to enhance protection against predators and weather has been acquired, crucial for maintaining safety in high-danger environments.",
+            "Fishing": "Skill in using alternative food sources such as fishing in the river has been enhanced, ensuring consistent food acquisition in environments with stable water resources.",
+            "Improved Foraging Strategy": "Skill in strategically varying foraging routes and techniques to capitalize on increased food availability while reducing predictability, enhancing food acquisition and safety in dynamic environments.",
+            "Enhanced Shelter Fortification": "Increased proficiency in reinforcing shelters with natural camouflage, improving protection against weather and predator visibility, crucial for maintaining safety in moderately dangerous environments."
+        },
+        {
+            "Enhanced Strategic Resource Management": "A new skill developed in effectively analyzing and optimizing resource acquisition, balancing food and water collection while maintaining safety from predators. This is crucial in dynamic environments with moderate danger levels."
+        },
+        {
+            "Enhanced Strategic Resource Management": "A new skill developed in effectively analyzing and optimizing resource acquisition, balancing food and water collection while maintaining safety from predators. This is crucial in dynamic environments with moderate danger levels."
+        },
+        {
+            "Enhanced Shelter Insulation": "Skill in improving insulation of shelters using natural materials like leaves and debris, enhancing protection against temperature drops and increasing comfort and safety during colder nights.",
+            "Improved Vigilance": "Skill in maintaining heightened awareness and caution, especially near water sources where predator activity is significant. This aids in ensuring safety while securing resources in high-danger environments."
+        },
+        {
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Enhanced Shelter Fortification": "Increased proficiency in reinforcing cave shelters with additional debris to withstand harsh weather and deter predator intrusion. This skill is crucial for maintaining safety in very high danger environments.",
+            "Adaptive Strategy": "Continued improvement in monitoring environmental changes and adapting strategies for resource acquisition and safety, essential for thriving in moderately dangerous environments."
+        },
+        {
+            "Strategic Planning for Resource Acquisition": "A new skill developed in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in moderately dangerous environments."
+        },
+        {
+            "Rainwater Harvesting": "Skill developed in collecting rainwater using natural materials like leaves, minimizing exposure to predators by avoiding dangerous river access. This enhances survival by ensuring a steady water supply in high-risk environments.",
+            "Trap Optimization": "Skill in refining trap placements and patterns to increase success rates in capturing small game, essential for food acquisition in resource-scarce environments."
+        },
+        {
+            "Fishing": "Further improved skill in using fishing as a complementary food source to small game capture, ensuring food acquisition in environments with variable wildlife presence.",
+            "Strategic Planning for Resource Acquisition": "Skill in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in moderately dangerous environments.",
+            "Shelter Fortification": "Enhanced proficiency in fortifying shelters using natural debris, improving resistance against adverse weather and predator activity."
+        },
+        {
+            "Enhanced Vigilance": "Improved skill in maintaining awareness and adapting to predator behavior, especially near water sources, ensuring safety in moderate danger environments.",
+            "Refined Strategic Movement": "Skill in adjusting movement patterns to remain unpredictable, reducing predator detection and enhancing safety during resource gathering activities.",
+            "Enhanced Shelter Fortification": "Skill in further fortifying natural shelters with additional natural debris to withstand increased wind and moisture, enhancing protection against weather and predators."
+        },
+        {
+            "Fortified Shelter Construction": "Skill in further fortifying natural shelters with additional natural debris to withstand increased wind and moisture, enhancing protection against weather and predators.",
+            "Enhanced Vigilance": "Improved skill in maintaining awareness and adapting to predator behavior, especially near water sources, ensuring safety in moderate danger environments.",
+            "Refined Strategic Movement": "Skill in adjusting movement patterns to remain unpredictable, reducing predator detection and enhancing safety during resource gathering activities."
+        },
+        {
+            "Improved Fortification Strategy": "Skill in enhancing shelter fortification using natural debris, providing better insulation and moisture resistance, crucial for maintaining body temperature and safety in challenging weather conditions."
+        },
+        {
+            "Improved Fortification Strategy": "Skill in enhancing shelter fortification using natural debris, providing better insulation and moisture resistance, crucial for maintaining body temperature and safety in challenging weather conditions."
+        },
+        {
+            "Enhanced Shelter Fortification": "Skill in further fortifying natural shelters with additional natural debris to withstand increased wind and moisture, enhancing protection against weather and predators. This skill is crucial for maintaining safety in high danger environments."
+        },
+        {
+            "Enhanced Shelter Fortification": "Skill in further fortifying natural shelters with additional natural debris to withstand increased wind and moisture, enhancing protection against weather and predators. This skill is crucial for maintaining safety in high danger environments.",
+            "Improved Resource Management": "Skill in analyzing and optimizing the balance of food and water collection while maintaining safety from predators. This is crucial for survival in dynamic environments with moderate danger levels.",
+            "Rainwater Harvesting": "Skill developed in collecting rainwater using natural materials like leaves, minimizing exposure to predators by avoiding dangerous river access. This enhances survival by ensuring a steady water supply in high-risk environments."
+        },
+        {
+            "Strategic Shelter Reinforcement": "New skill developed in using natural rock overhangs and debris to enhance existing shelters, improving protection against damp weather and potential predator intrusion. Essential for maintaining safety and comfort in high-danger environments.",
+            "Rainwater Collection Optimization": "Further enhancement in optimizing rainwater collection, reducing dependence on potentially dangerous river access and ensuring a sustainable water supply in high-risk environments.",
+            "Trap Optimization": "Skill in refining trap placements and patterns to increase success rates in capturing small game, essential for food acquisition in resource-scarce environments.",
+            "Unpredictable Movement Strategy": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments."
+        },
+        {
+            "Strategic Shelter Reinforcement": "New skill developed in using natural rock overhangs and debris to enhance existing shelters, improving protection against damp weather and potential predator intrusion. Essential for maintaining safety and comfort in high-danger environments.",
+            "Rainwater Collection Optimization": "Further enhancement in optimizing rainwater collection, reducing dependence on potentially dangerous river access and ensuring a sustainable water supply in high-risk environments."
+        },
+        {
+            "Enhanced Strategic Resource Management": "A new skill developed in effectively analyzing and optimizing resource acquisition, balancing food and water collection while maintaining safety from predators. This is crucial in dynamic environments with moderate danger levels."
+        },
+        {
+            "Enhanced Vigilance": "Improved skill in maintaining awareness and adapting to predator behavior, especially near water sources, ensuring safety in very high danger environments.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques, ensuring a stable food supply through increased yield, especially in environments with abundant water resources.",
+            "Strategic Planning for Resource Acquisition": "Skill in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in very high danger environments.",
+            "Rainwater Collection Optimization": "Continued enhancement in optimizing rainwater collection, reducing dependency on dangerous river access and ensuring a sustainable water supply in high-risk environments.",
+            "Strategic Shelter Reinforcement": "Skill in using natural rock overhangs and debris to further enhance existing shelters, improving protection against damp weather and potential predator intrusion. Essential for maintaining safety in very high danger environments."
+        },
+        {
+            "Strategic Path Variation": "Enhanced proficiency in altering movement and foraging routes to avoid predictable patterns that could be exploited by predators, improving safety and resource acquisition.",
+            "Improved Foraging Strategy": "Skill in strategically varying foraging routes and techniques to capitalize on increased food availability while reducing predictability, enhancing food acquisition and safety in dynamic environments."
+        },
+        {
+            "Strategic Shelter Reinforcement": "New skill developed in using natural rock overhangs and debris to enhance existing shelters, improving protection against damp weather and potential predator intrusion. Essential for maintaining safety and comfort in high-danger environments.",
+            "Unpredictable Movement Strategy": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments.",
+            "Rainwater Collection Optimization": "Further enhancement in optimizing rainwater collection, reducing dependence on potentially dangerous river access and ensuring a sustainable water supply in high-risk environments."
+        },
+        {
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Strategic Shelter Reinforcement": "New skill developed in using natural rock overhangs and debris to enhance existing shelters, improving protection against damp weather and potential predator intrusion. Essential for maintaining safety and comfort in high-danger environments.",
+            "Rainwater Collection Optimization": "Further enhancement in optimizing rainwater collection, reducing dependence on potentially dangerous river access and ensuring a sustainable water supply in high-risk environments.",
+            "Unpredictable Movement Strategy": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments."
+        },
+        {
+            "Enhanced Strategic Resource Management": "A new skill developed in effectively analyzing and optimizing resource acquisition, balancing food and water collection while maintaining safety from predators. This is crucial in dynamic environments with moderate danger levels.",
+            "Strategic Shelter Reinforcement": "New skill developed in using natural rock overhangs and debris to enhance existing shelters, improving protection against damp weather and potential predator intrusion. Essential for maintaining safety and comfort in high-danger environments.",
+            "Rainwater Collection Optimization": "Further enhancement in optimizing rainwater collection, reducing dependence on potentially dangerous river access and ensuring a sustainable water supply in high-risk environments.",
+            "Unpredictable Movement Strategy": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments."
+        },
+        {
+            "Strategic Movement Patterns": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments.",
+            "Enhanced Shelter Fortification": "Increased proficiency in reinforcing shelters with natural camouflage, improving protection against weather and predator visibility, crucial for maintaining safety in moderately dangerous environments.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Rainwater Collection Optimization": "Further enhancement in optimizing rainwater collection, reducing dependence on potentially dangerous river access and ensuring a sustainable water supply in high-risk environments.",
+            "Strategic Planning for Resource Acquisition": "A new skill developed in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in very high danger environments."
+        },
+        {},
+        {
+            "Rainwater Harvesting": "Skill developed in collecting rainwater using natural materials like leaves, minimizing exposure to predators by avoiding dangerous river access. This enhances survival by ensuring a steady water supply in high-risk environments.",
+            "Shelter Fortification": "Increased proficiency in reinforcing natural shelters with debris to enhance protection against weather and predators. This skill has been further improved due to effective management of the cave under current conditions.",
+            "Strategic Resource Management": "Improved ability to analyze and plan resource acquisition considering predator presence and environmental conditions, optimizing for safety and sustenance in dynamic environments.",
+            "Fishing": "Improved skill in using fishing as a complementary food source to small game capture, ensuring food acquisition in environments with variable wildlife presence.",
+            "Enhanced Strategic Resource Management": "A new skill developed in effectively analyzing and optimizing resource acquisition, balancing food and water collection while maintaining safety from predators. This is crucial in dynamic environments with moderate danger levels.",
+            "Reflection and Strategic Planning": "Skill in critically assessing the current environment, health status, and resource conditions to make informed decisions about shelter reinforcement, resource gathering techniques, and predator avoidance. This planning helps in maintaining a balanced approach to survival in moderately dangerous environments."
+        },
+        {
+            "Enhanced Shelter Fortification": "Skill in improving insulation and protection of shelters using natural materials like leaves and debris, providing better resistance to predators and harsh weather.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Strategic Movement Patterns": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments.",
+            "Rainwater Harvesting": "Skill developed in collecting rainwater using natural materials to ensure a steady water supply, minimizing exposure to predators by avoiding dangerous river access.",
+            "Strategy Adaptation": "Skill in continuously monitoring environmental changes and adapting strategies to maintain safety and resource adequacy, crucial for surviving in dynamic and moderately dangerous environments."
+        },
+        {
+            "Improved Foraging Technique": "Skill in strategically altering foraging routes and techniques to adapt to improved food availability, ensuring enhanced food acquisition and safety in dynamic environments.",
+            "Reflection and Strategic Planning": "Enhanced ability to critically assess the current environment, health status, and resource conditions to make informed decisions about shelter reinforcement, resource gathering techniques, and predator avoidance. This planning helps in maintaining a balanced approach to survival in moderately dangerous environments."
+        },
+        {
+            "Strategic Shelter Fortification": "Skill in using natural materials like debris and overhangs to enhance existing shelters, improving protection against damp weather and deterring predator intrusion. Essential for maintaining safety and comfort in high-danger environments.",
+            "Fishing Technique Optimization": "Further refinement in fishing techniques, ensuring a stable food supply through increased yield, especially in environments with changing wildlife behavior.",
+            "Rainwater Collection Enhancement": "Continued improvement in optimizing rainwater collection methods, reducing dependence on potentially dangerous water sources and ensuring a sustainable water supply in high-risk environments.",
+            "Adaptive Strategy for Resource Optimization": "Skill in continuously monitoring environmental changes and adapting strategies for resource acquisition and safety, essential for thriving in moderately dangerous environments.",
+            "Enhanced Predator Awareness and Avoidance": "Improved skill in recognizing and adjusting to predator behavior, maintaining safety through strategic path variation and minimized predictable patterns."
+        },
+        {
+            "Enhanced Shelter Insulation": "Further enhanced skill in using natural materials like leaves and debris to improve insulation of shelters, providing better protection against temperature drops and increasing safety and comfort during colder nights.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques, ensuring a stable food supply through increased yield, especially in environments with abundant water resources.",
+            "Strategic Planning for Resource Acquisition": "Improved ability to analyze and proactively plan resource acquisition, maintaining food and water stability while adapting to environmental changes."
+        },
+        {
+            "Strategic Shelter Fortification": "Skill in using natural rock overhangs and debris to enhance existing shelters, improving protection against damp weather and potential predator intrusion. Essential for maintaining safety and comfort in high-danger environments.",
+            "Resource Acquisition Strategy": "Skill in critically assessing the environment and health conditions to plan resource acquisition that balances safety and sustenance, crucial for survival in moderately dangerous environments."
+        },
+        {
+            "Enhanced Shelter Insulation": "Further enhanced skill in using natural materials like leaves and debris to improve insulation of shelters, providing better protection against temperature drops and increasing safety and comfort during colder nights.",
+            "Improved Strategic Movement Patterns": "Enhanced skill in varying movement patterns and foraging routes to avoid predictable paths that predators might exploit, improving safety and resource acquisition."
+        },
+        {
+            "Reflective Strategic Planning": "Skill in critically assessing the current environment, health status, and resource conditions to make informed decisions about shelter reinforcement, resource gathering techniques, and predator avoidance. This planning helps in maintaining a balanced approach to survival in moderately dangerous environments."
+        },
+        {
+            "Routine Maintenance Strategy": "Skill in regularly evaluating and maintaining the effectiveness of shelter fortifications and resource acquisition methods to adapt to environmental changes and predator behavior, ensuring sustained safety and resource stability."
+        },
+        {
+            "Routine Maintenance Strategy": "Skill in regularly evaluating and maintaining the effectiveness of shelter fortifications and resource acquisition methods to adapt to environmental changes and predator behavior, ensuring sustained safety and resource stability."
+        },
+        {
+            "Improved Resource Management": "Skill in analyzing and optimizing the balance of food and water collection while maintaining safety from predators. This is crucial for survival in dynamic environments with moderate danger levels.",
+            "Enhanced Shelter Insulation": "Further enhanced skill in using natural materials like leaves and debris to improve insulation of shelters, providing better protection against temperature drops and increasing safety and comfort during colder nights.",
+            "Routine Maintenance Strategy": "Skill in regularly evaluating and maintaining the effectiveness of shelter fortifications and resource acquisition methods to adapt to environmental changes and predator behavior, ensuring sustained safety and resource stability."
+        },
+        {
+            "Enhanced Shelter Fortification": "Skill in improving insulation and protection of shelters using natural materials like leaves and debris, providing better resistance to predators and harsh weather.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Strategic Movement Patterns": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments.",
+            "Strategic Shelter Reinforcement": "New skill developed in using natural rock overhangs and debris to enhance existing shelters, improving protection against damp weather and potential predator intrusion. Essential for maintaining safety and comfort in high-danger environments.",
+            "Reflection and Strategic Planning": "Skill in critically assessing the current environment, health status, and resource conditions to make informed decisions about shelter reinforcement, resource gathering techniques, and predator avoidance. This planning helps in maintaining a balanced approach to survival in moderately dangerous environments."
+        },
+        {
+            "Routine Maintenance Strategy": "Skill in regularly evaluating and maintaining the effectiveness of shelter fortifications and resource acquisition methods to adapt to environmental changes and predator behavior, ensuring sustained safety and resource stability."
+        },
+        {
+            "Enhanced Shelter Insulation": "Further enhanced skill in using natural materials like leaves and debris to improve insulation of shelters, providing better protection against temperature drops and increasing safety and comfort during colder nights."
+        },
+        {
+            "Strategic Planning for Resource Acquisition": "A new skill developed in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in moderately dangerous environments.",
+            "Improved Strategic Movement Patterns": "Enhanced skill in varying movement patterns and foraging routes to avoid predictable paths that predators might exploit, improving safety and resource acquisition."
+        },
+        {
+            "Strategic Resource Management": "Improved ability to analyze and plan resource acquisition considering predator presence and environmental conditions, optimizing for safety and sustenance in dynamic environments.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Enhanced Shelter Insulation": "Further enhanced skill in using natural materials like leaves and debris to improve insulation of shelters, providing better protection against temperature drops and increasing safety and comfort during colder nights.",
+            "Improved Strategic Movement Patterns": "Enhanced skill in varying movement patterns and foraging routes to avoid predictable paths that predators might exploit, improving safety and resource acquisition.",
+            "Enhanced Shelter Fortification": "Skill in improving insulation and protection of shelters using natural materials like leaves and debris, providing better resistance to predators and harsh weather.",
+            "Reflection and Strategic Planning": "Skill in critically assessing the current environment, health status, and resource conditions to make informed decisions about shelter reinforcement, resource gathering techniques, and predator avoidance. This planning helps in maintaining a balanced approach to survival in moderately dangerous environments.",
+            "Routine Maintenance Strategy": "Skill in regularly evaluating and maintaining the effectiveness of shelter fortifications and resource acquisition methods to adapt to environmental changes and predator behavior, ensuring sustained safety and resource stability."
+        },
+        {
+            "Enhanced Shelter Insulation": "A new skill developed in improving insulation of shelters using natural materials like leaves and debris, enhancing protection against temperature drops and increasing comfort and safety during colder nights.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Unpredictable Movement Strategy": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments.",
+            "Rainwater Collection Optimization": "A new skill developed in optimizing rainwater collection, reducing dependence on potentially dangerous river access and ensuring a sustainable water supply in high-risk environments."
+        },
+        {
+            "Enhanced Shelter Fortification": "Skill in further reinforcing shelters with natural materials to withstand harsh weather and reduce moisture penetration, crucial for maintaining safety and comfort in very high danger environments.",
+            "Unpredictable Movement Strategy": "Skill in maintaining unpredictable movement patterns to avoid detection by predators, enhancing safety in high-risk environments.",
+            "Fishing Technique Optimization": "Skill in refining fishing techniques to increase yield, ensuring a stable food supply even with environmental shifts in wildlife behavior.",
+            "Rainwater Collection Optimization": "Further enhancement in optimizing rainwater collection, reducing dependency on dangerous river access and ensuring a sustainable water supply in high-risk environments.",
+            "Strategic Planning for Resource Acquisition": "Improved ability to analyze and proactively plan resource acquisition, maintaining food and water stability while adapting to environmental changes."
+        },
+        {
+            "Enhanced Resource Management": "Skill in optimizing resource management, balancing the acquisition of food and water while maintaining safety from predators, crucial for survival in dynamic environments.",
+            "Fishing Enhancement": "Improved skill in utilizing the river for fishing as a complementary food source to small game capture, ensuring a consistent and diverse diet in environments with variable wildlife presence.",
+            "Shelter Insulation": "Skill in improving insulation of shelters for colder nights, enhancing protection against temperature drops and increasing comfort and safety.",
+            "Improved Vigilance": "Skill in maintaining heightened awareness and caution, especially near water sources where predator activity might be significant. This aids in ensuring safety while securing resources in moderate danger environments.",
+            "Strategic Planning for Resource Acquisition": "Skill in effectively analyzing environmental conditions and planning resource acquisition strategies to balance safety and sustenance, crucial for survival in moderately dangerous environments."
+        },
+        {
+            "Routine Maintenance Strategy": "Skill in regularly evaluating and maintaining the effectiveness of shelter fortifications and resource acquisition methods to adapt to environmental changes and predator behavior, ensuring sustained safety and resource stability."
+        }
+    ]
+}
