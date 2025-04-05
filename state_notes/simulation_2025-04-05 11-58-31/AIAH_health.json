@@ -7,12 +7,12 @@
         "overall_health": 8,
         "hunger": 1,
         "thirst": 1,
-        "energy": 7,
+        "energy": 8,
         "body_temperature": 36.8,
         "injury_level": 1,
         "illness": 3,
         "immunity": 8,
-        "exposure": 2,
+        "exposure": 1,
         "dead": false
     }
 }

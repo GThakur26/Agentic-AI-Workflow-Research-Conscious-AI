@@ -1,1 +1,444 @@
-{"metadata": "", "data": [{"day": 0, "notes": []}, {"day": 34, "notes": [{"terrain": "Rocky mountain path with sparse vegetation", "temperature": -5, "weather": "Blizzard conditions", "food_availability": "Very scarce, some tough shrubs and roots", "water_availability": "Frozen streams", "shelter_options": "Small rocky overhangs", "wildlife": "Rare sightings of mountain goats and snow hares", "danger_level": "High (extreme weather and risk of hypothermia)"}, {"terrain": "Rocky mountain path with sparse vegetation", "temperature": -5, "weather": "Blizzard conditions", "food_availability": "Very scarce, some tough shrubs and roots", "water_availability": "Frozen streams", "shelter_options": "Small rocky overhangs", "wildlife": "Rare sightings of mountain goats and snow hares", "danger_level": "High (extreme weather and risk of hypothermia)", "notes_for_future": {"wildlife_alert": "Mountain goats and snow hares have become more cautious due to the blizzard, making them harder to spot.", "resource_change": "The snow has accumulated, making it harder to find shrubs and roots; however, the overhangs should still be accessible for shelter.", "environmental_shift": "Blizzard intensity may vary, but temperatures remain dangerously low. Monitor for signs of weather changes."}}]}, {"day": 35, "notes": [{"terrain": "Rocky mountain path with sparse vegetation", "temperature": -10, "weather": "Heavy blizzard", "food_availability": "Almost nonexistent, occasional tough roots", "water_availability": "Frozen streams with risk of dehydration", "shelter_options": "Small rocky overhangs, partially snowed in", "wildlife": "Extremely rare sightings of mountain goats and snow hares", "danger_level": "Very high (severe blizzard, extreme cold, risk of hypothermia and frostbite)"}, {"terrain": "Rocky mountain path with sparse vegetation", "temperature": -12, "weather": "Severe blizzard with intense wind", "food_availability": "Barely any, some tough roots buried deeper under snow", "water_availability": "Frozen streams, increased risk of dehydration", "shelter_options": "Small rocky overhangs, heavily snowed in but accessible with effort", "wildlife": "Extremely rare, almost no sightings of mountain goats and snow hares", "danger_level": "Extremely high (severe blizzard, worsening conditions, critical risk of hypothermia)", "notes_for_future": {"wildlife_alert": "Mountain goats and snow hares are likely retreating to more sheltered areas, making observations and encounters exceedingly rare.", "resource_change": "Root visibility and accessibility are reduced due to increased snow coverage; potential to find less snow-covered areas near overhangs.", "environmental_shift": "Blizzard is intensifying; the next priority should be maintaining body warmth and seeking immediate shelter."}}]}, {"day": 36, "notes": [{"terrain": "Rocky mountain path with a bit more vegetation as the snow begins to melt", "temperature": -5, "weather": "Clear skies with moderate winds", "food_availability": "Limited, some hardy roots are now more accessible", "water_availability": "Partially thawed streams, still limited access", "shelter_options": "Small rocky overhangs with slightly reduced snow buildup", "wildlife": "Very rare, occasional tracks of snow hares", "danger_level": "High (cold temperatures, risk of hypothermia, no major immediate threats)"}, {"terrain": "Rocky mountain path with increased vegetation as snow melts further", "temperature": -3, "weather": "Clear skies, winds calming", "food_availability": "Moderate, more hardy roots exposed as snow recedes", "water_availability": "Streams are increasingly accessible, slight increase in flow", "shelter_options": "Rocky overhangs becoming more accessible with reduced snow", "wildlife": "Slightly more active, tracks of snow hares and distant signs of mountain goats", "danger_level": "Moderate (cold temperatures still a concern, but less immediate threat due to improving conditions)", "notes_for_future": {"wildlife_alert": "Snow hares and mountain goats may start foraging closer due to increased vegetation.", "resource_change": "Expected further exposure of roots and increased water availability as temperatures rise.", "environmental_shift": "Weather stabilizing, potential for warmer days, reducing immediate hypothermia risk."}}]}, {"day": 37, "notes": [{"terrain": "Rocky mountain path with increasing vegetation", "temperature": -1, "weather": "Partly cloudy with increasing winds", "food_availability": "Limited, primarily hardy roots; occasional sighting of snow hares", "water_availability": "Streams accessible, flow slightly increased", "shelter_options": "Rocky overhangs and some tree cover", "wildlife": "Tracks of snow hares, distant mountain goats, increased bird activity", "danger_level": "High (cold temperatures and unpredictable weather still pose threats; potential for avalanches due to warming)"}, {"terrain": "Rocky mountain path with lush vegetation emerging", "temperature": -1, "weather": "Partly cloudy with gusty winds", "food_availability": "Moderate with hardy roots more prevalent; occasional snow hare sightings", "water_availability": "Stream flows continue to increase and become more accessible", "shelter_options": "Rocky overhangs and canopy from sparse trees", "wildlife": "Increased activity of snow hares and mountain goats foraging", "danger_level": "Moderate (weather still poses risks, but improving visibility and food sources)", "notes_for_future": {"wildlife_alert": "Snow hares and mountain goats are becoming bolder in their foraging due to available vegetation; this may lead to increased encounters.", "resource_change": "Roots are becoming more abundant and easier to find, while water is increasingly accessible from streams.", "environmental_shift": "Conditions show signs of stabilization, but the presence of strong winds indicates potential weather changes or new patterns."}}]}, {"day": 38, "notes": [{"terrain": "Rocky mountain path with patches of thawing snow", "temperature": 0, "weather": "Overcast with strong gusts", "food_availability": "Sparse, mostly hardy roots and occasional snow hares", "water_availability": "Streams are accessible but partially frozen", "shelter_options": "Rocky overhangs and minimal tree cover", "wildlife": "Snow hares and mountain goats are more visible", "danger_level": "High (strong winds and cold temperatures pose serious risks)"}, {"terrain": "Rocky mountain path with patches of thawing snow", "temperature": 0, "weather": "Overcast with strong gusts, potential for light snow", "food_availability": "Sparse, mostly hardy roots and occasional snow hares", "water_availability": "Streams are accessible but partially frozen", "shelter_options": "Rocky overhangs and minimal tree cover", "wildlife": "Snow hares and mountain goats are cautiously visible more frequently due to increasing vegetation", "danger_level": "Moderate (shelter acquired, but strong winds and cold temperatures remain a risk)", "notes_for_future": {"wildlife_alert": "Snow hares and mountain goats may react to increased human presence, becoming more cautious.", "resource_change": "Potential increase in root accessibility as snow continues to thaw near the overhangs.", "environmental_shift": "Weather changes indicate possibility of light snow, but overall a shift towards stabilizing conditions."}}]}, {"day": 39, "notes": [{"terrain": "Rocky mountain path with patches of thawing snow", "temperature": -2, "weather": "Heavy snow with strong gusts", "food_availability": "Very sparse, mainly hardy roots as snow has covered most resources", "water_availability": "Streams are mostly frozen with limited access to water", "shelter_options": "Rocky overhangs offer some protection but are now partially covered by snow", "wildlife": "Snow hares and mountain goats are rarely visible due to heavy snow", "danger_level": "High (heavy snow and strong winds pose a significant threat, limited visibility and freezing temperatures)"}, {"terrain": "Rocky mountain path with patches of thawing snow", "temperature": -2, "weather": "Heavy snow with strong gusts", "food_availability": "Very sparse, mainly hardy roots as snow has covered most resources", "water_availability": "Streams are mostly frozen with limited access to water", "shelter_options": "Rocky overhangs offer some protection but are now partially covered by snow", "wildlife": "Snow hares and mountain goats are rarely visible due to heavy snow", "danger_level": "High (heavy snow and strong winds pose a significant threat, limited visibility and freezing temperatures)", "notes_for_future": {"wildlife_alert": "Snow hares and mountain goats are likely to retreat further into hidden areas during heavy snow, reducing visibility and encounters.", "resource_change": "Continuous snow may further bury roots, making them even harder to access, while streams remain largely inaccessible.", "environmental_shift": "Persistent heavy snow suggests no immediate relief from harsh conditions, maintain focus on securing shelter and conserving energy."}}]}, {"day": 40, "notes": [{"terrain": "Steep, rocky mountain path with extensive snow coverage", "temperature": -4, "weather": "Blizzard conditions with intense snowfall and strong winds", "food_availability": "Extremely scarce, mostly hidden roots under deep snow", "water_availability": "Streams remain mostly frozen and difficult to access", "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection", "wildlife": "Almost no visible wildlife, occasional tracks of snow hares and mountain goats", "danger_level": "Severe (blizzard poses a critical threat, hypothermia risk high, limited visibility)"}, {"terrain": "Steep, rocky mountain path with extensive snow coverage", "temperature": -4, "weather": "Blizzard conditions with intense snowfall and strong winds", "food_availability": "Extremely scarce, mostly hidden roots under deep snow", "water_availability": "Streams remain mostly frozen and difficult to access", "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection", "wildlife": "Almost no visible wildlife, occasional tracks of snow hares and mountain goats", "danger_level": "Severe (blizzard poses a critical threat, hypothermia risk high, limited visibility)", "notes_for_future": {"wildlife_alert": "The blizzard has forced wildlife to retreat further into more secure locations, reducing the likelihood of spotting them.", "resource_change": "Continued blizzard conditions may lead to further entrenchment of snow, making roots less accessible and maintaining the freeze of streams.", "environmental_shift": "Blizzard conditions are expected to persist; maintaining shelter is crucial as no immediate change in weather is predicted."}}]}, {"day": 41, "notes": [{"terrain": "Steep, rocky mountain path with extensive snow coverage", "temperature": -5, "weather": "Blizzard conditions with intense snowfall and strong winds", "food_availability": "Extremely scarce, mostly hidden roots under deep snow", "water_availability": "Streams remain mostly frozen and difficult to access", "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection", "wildlife": "Almost no visible wildlife, occasional tracks of snow hares and mountain goats", "danger_level": "Severe (blizzard poses a critical threat, hypothermia risk high, limited visibility)"}, {"terrain": "Steep, rocky mountain path with extensive snow coverage", "temperature": -5, "weather": "Blizzard conditions with intense snowfall and strong winds", "food_availability": "Extremely scarce, mostly hidden roots under deep snow", "water_availability": "Streams remain mostly frozen and difficult to access", "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection, some have been slightly expanded for more occupancy during the blizzard", "wildlife": "Almost no visible wildlife, occasional tracks of snow hares and mountain goats", "danger_level": "Severe (blizzard poses a critical threat, hypothermia risk high, limited visibility)", "notes_for_future": {"wildlife_alert": "Wildlife remains elusive due to the blizzard, with animals seeking deeper refuge.", "resource_change": "The blizzard continues to bury resources further, making it increasingly difficult to access food and water.", "environmental_shift": "Blizzard conditions are expected to continue, with a potential increase in snow accumulation and wind intensity."}}]}, {"day": 42, "notes": [{"terrain": "Steep, rocky mountain path with extensive snow coverage", "temperature": -5, "weather": "Blizzard conditions with intense snowfall and strong winds", "food_availability": "Extremely scarce, mostly hidden roots under deep snow", "water_availability": "Streams remain mostly frozen and difficult to access", "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection", "wildlife": "Almost no visible wildlife, occasional tracks of snow hares and mountain goats", "danger_level": "Severe (blizzard poses a critical threat, hypothermia risk high, limited visibility)"}, {"terrain": "Steep, rocky mountain path with extensive snow coverage", "temperature": -5, "weather": "Blizzard conditions with persistent intense snowfall and strong winds", "food_availability": "Extremely scarce, mostly hidden roots under deeper snow", "water_availability": "Streams remain mostly frozen, with snow accumulation increasing difficulty accessing liquid water", "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection; further snow accumulation may partially block access", "wildlife": "Wildlife remains nearly invisible, with only occasional tracks of snow hares and mountain goats visible", "danger_level": "Severe (blizzard conditions continue to pose a critical threat, hypothermia risk remains high, and visibility is very limited)", "notes_for_future": {"wildlife_alert": "Mountain goats and snow hares remain elusive, likely retreating further during persistent blizzard conditions.", "resource_change": "The ongoing blizzard is leading to further snow accumulation, burying resources deeper and reducing accessibility to food and water.", "environmental_shift": "Blizzard conditions are persisting, with no immediate signs of abating; further accumulation of snow and cold temperatures are expected to continue."}}]}, {"day": 43, "notes": [{"terrain": "Steep, rocky mountain path with extensive snow coverage", "temperature": -8, "weather": "Blizzard conditions continue with strong winds and heavy snowfall", "food_availability": "Extremely scarce, snow hares and mountain goats are elusive", "water_availability": "Streams remain frozen; snow is the only source of water", "shelter_options": "Rocky overhangs provide minimal protection, further snow accumulation partially blocks access", "wildlife": "Nearly invisible, occasional tracks of snow hares and mountain goats", "danger_level": "Severe (blizzard conditions maintain high risk of hypothermia and poor visibility)"}, {"terrain": "Steep, rocky mountain path with extensive snow coverage", "temperature": -8, "weather": "Blizzard conditions continue with strong winds and heavy snowfall", "food_availability": "Extremely scarce, snow hares and mountain goats are elusive", "water_availability": "Streams remain frozen; snow is the only source of water", "shelter_options": "Rocky overhangs provide minimal protection, further snow accumulation partially blocks access", "wildlife": "Wildlife remains nearly invisible due to persistent blizzard conditions, with occasional tracks of snow hares and mountain goats", "danger_level": "Severe (blizzard conditions maintain high risk of hypothermia and poor visibility)", "notes_for_future": {"wildlife_alert": "Wildlife continues to retreat further in response to the blizzard, becoming even more cautious and reducing encounter chances.", "resource_change": "Continued snow accumulation further buries roots and increases difficulty in accessing food and water. Shelter access may become increasingly blocked.", "environmental_shift": "Blizzard conditions are persisting strongly, with no signs of immediate relief. Monitoring for changes is crucial to plan for survival once conditions allow."}}]}, {"day": 44, "notes": [{"terrain": "Rocky mountain path with heavy snow", "temperature": -10, "weather": "Blizzard conditions persist, with strong winds and heavy snowfall", "food_availability": "Extremely scarce, snow hares and mountain goats remain elusive", "water_availability": "Streams are frozen, snow is the only available source", "shelter_options": "Rocky overhangs offer minimal protection, with increased snow accumulation blocking access", "wildlife": "Wildlife remains invisible, with occasional tracks noticed", "danger_level": "Extremely High (blizzard conditions enforce high risk of hypothermia and severely limited visibility)"}, {"terrain": "Rocky mountain path with heavy snow", "temperature": -10, "weather": "Blizzard conditions persist, with strong winds and heavy snowfall", "food_availability": "Extremely scarce, snow hares and mountain goats remain elusive", "water_availability": "Streams are frozen, snow is the only available source", "shelter_options": "Rocky overhangs offer minimal protection, with increased snow accumulation blocking access", "wildlife": "Wildlife remains invisible, with occasional tracks noticed", "danger_level": "Extremely High (blizzard conditions enforce high risk of hypothermia and severely limited visibility)", "notes_for_future": {"wildlife_alert": "The continued severe weather has pushed wildlife to deeper refuge, making encounters highly unlikely. However, vigilance is required for any signs of improved conditions that might draw animals out.", "resource_change": "Efforts to clear a path to a rocky overhang have been partially successful but energy-draining. Shelter access remains challenging; increased snow is making it difficult to reach resources or move freely.", "environmental_shift": "The blizzard conditions remain persistently unchanged with no immediate relief in sight. Continued accumulation is expected, and focus should remain on maximizing any temporary shelter obtained while monitoring for potential breaks in the weather."}}]}, {"day": 45, "notes": [{"terrain": "Rocky mountain path with heavy snow", "temperature": -12, "weather": "Blizzard conditions with extremely limited visibility", "food_availability": "Nearly nonexistent, occasional snow hare tracks visible", "water_availability": "Streams are frozen, melting snow is necessary for water", "shelter_options": "Minimal protection under rocky overhangs, snow accumulation blocking most access", "wildlife": "Invisible due to severe weather, only tracks occasionally seen", "danger_level": "Extremely High (risk of hypothermia and avalanche due to heavy snow buildup)"}, {"terrain": "Rocky mountain path with heavy snow", "temperature": -10, "weather": "Blizzard conditions with slightly reduced wind intensity", "food_availability": "Slightly improved, occasional snow hare tracks more visible", "water_availability": "Streams remain frozen, snow is primary water source", "shelter_options": "Rocky overhangs with partially cleared entrances, providing better access", "wildlife": "Occasionally visible tracks of snow hares, mountain goats remain hidden", "danger_level": "High (hypothermia risk still present, but reduced due to better shelter access)", "notes_for_future": {"wildlife_alert": "With slightly improved conditions, there's a possibility that snow hares may become more visible, but mountain goats continue to stay hidden.", "resource_change": "Shelter access has been improved by clearing snow, which may aid in conserving energy. Continued effort to keep access clear is necessary.", "environmental_shift": "The blizzard's intensity has slightly reduced, indicating potential stabilization of weather conditions. Monitoring for any further improvement is crucial."}}]}, {"day": 46, "notes": [{"terrain": "Rocky mountain path with a light layer of snow", "temperature": -8, "weather": "Clear skies with a gentle breeze", "food_availability": "More frequent sightings of snow hares, but still scarce", "water_availability": "Streams remain frozen, snow is the primary water source", "shelter_options": "Rocky overhangs with clearer entrances, enhanced by previous efforts", "wildlife": "Snow hares are more visible, mountain goats remain elusive", "danger_level": "Moderate (reduced hypothermia risk due to improved weather and shelter access)"}, {"terrain": "Rocky mountain path with a light layer of snow", "temperature": -8, "weather": "Clear skies with a gentle breeze", "food_availability": "Stable but still scarce with occasional snow hare sightings", "water_availability": "Streams remain frozen, snow is the primary water source", "shelter_options": "Rocky overhangs with reinforced entrances due to agent's efforts", "wildlife": "Snow hares more accustomed to human presence, mountain goats still elusive", "danger_level": "Moderate (improved shelter and weather conditions lower immediate risks)", "notes_for_future": {"wildlife_alert": "Snow hares have become more accustomed to agent's presence and may be slightly easier to approach, though caution is still necessary. Mountain goats remain elusive.", "resource_change": "Shelter has been improved with better entrance access due to agent's reinforcement work, conserving energy and improving protection.", "environmental_shift": "Weather stabilization is evident with clearer skies and gentle breezes. However, continued observation of weather patterns is crucial for further improvement strategies."}}]}, {"day": 47, "notes": [{"terrain": "Rocky mountain path with a light layer of snow", "temperature": -10, "weather": "Overcast with a chilling wind", "food_availability": "Diminishing, with fewer snow hares and no recent sightings", "water_availability": "Streams remain frozen, snow is the primary water source", "shelter_options": "Reinforced rocky overhangs offer limited warmth", "wildlife": "Snow hares remain cautious, mountain goats unseen", "danger_level": "High (food scarcity and worsening weather conditions)"}]}, {"day": 47, "notes": [{"terrain": "Rocky mountains with sparse vegetation", "temperature": -5, "weather": "Blizzard conditions", "food_availability": "Scarce, mainly hardy shrubs and rare sighting of mountain goats", "water_availability": "Frozen streams, requiring effort to melt ice", "shelter_options": "Small rocky overhangs offering minimal protection", "wildlife": "Occasional mountain goats, rare sightings of snow leopards", "danger_level": "High (extreme weather, risk of avalanches, aggressive wildlife)"}, {"terrain": "Rocky mountain path with heavy snow", "temperature": -8, "weather": "Blizzard conditions with slightly reduced intensity", "food_availability": "Extremely scarce, with very few snow hares visible", "water_availability": "Streams remain frozen, continued reliance on melting snow", "shelter_options": "Reinforced rocky overhangs offering slightly improved protection from the wind", "wildlife": "Wildlife remains mostly hidden, with occasional snow leopard tracks noted", "danger_level": "High (due to continued blizzard and food scarcity)", "notes_for_future": {"wildlife_alert": "The presence of snow leopards has been detected, increasing the risk to safety when foraging.", "resource_change": "Efforts to reinforce shelter have improved insulation slightly, conserving body heat and energy.", "environmental_shift": "Blizzard intensity is slightly reduced, with weather conditions showing signs of potential stabilization."}}]}]}
+{
+    "metadata": "",
+    "data": [
+        {
+            "day": 0,
+            "notes": []
+        },
+        {
+            "day": 34,
+            "notes": [
+                {
+                    "terrain": "Rocky mountain path with sparse vegetation",
+                    "temperature": -5,
+                    "weather": "Blizzard conditions",
+                    "food_availability": "Very scarce, some tough shrubs and roots",
+                    "water_availability": "Frozen streams",
+                    "shelter_options": "Small rocky overhangs",
+                    "wildlife": "Rare sightings of mountain goats and snow hares",
+                    "danger_level": "High (extreme weather and risk of hypothermia)"
+                },
+                {
+                    "terrain": "Rocky mountain path with sparse vegetation",
+                    "temperature": -5,
+                    "weather": "Blizzard conditions",
+                    "food_availability": "Very scarce, some tough shrubs and roots",
+                    "water_availability": "Frozen streams",
+                    "shelter_options": "Small rocky overhangs",
+                    "wildlife": "Rare sightings of mountain goats and snow hares",
+                    "danger_level": "High (extreme weather and risk of hypothermia)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Mountain goats and snow hares have become more cautious due to the blizzard, making them harder to spot.",
+                        "resource_change": "The snow has accumulated, making it harder to find shrubs and roots; however, the overhangs should still be accessible for shelter.",
+                        "environmental_shift": "Blizzard intensity may vary, but temperatures remain dangerously low. Monitor for signs of weather changes."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 35,
+            "notes": [
+                {
+                    "terrain": "Rocky mountain path with sparse vegetation",
+                    "temperature": -10,
+                    "weather": "Heavy blizzard",
+                    "food_availability": "Almost nonexistent, occasional tough roots",
+                    "water_availability": "Frozen streams with risk of dehydration",
+                    "shelter_options": "Small rocky overhangs, partially snowed in",
+                    "wildlife": "Extremely rare sightings of mountain goats and snow hares",
+                    "danger_level": "Very high (severe blizzard, extreme cold, risk of hypothermia and frostbite)"
+                },
+                {
+                    "terrain": "Rocky mountain path with sparse vegetation",
+                    "temperature": -12,
+                    "weather": "Severe blizzard with intense wind",
+                    "food_availability": "Barely any, some tough roots buried deeper under snow",
+                    "water_availability": "Frozen streams, increased risk of dehydration",
+                    "shelter_options": "Small rocky overhangs, heavily snowed in but accessible with effort",
+                    "wildlife": "Extremely rare, almost no sightings of mountain goats and snow hares",
+                    "danger_level": "Extremely high (severe blizzard, worsening conditions, critical risk of hypothermia)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Mountain goats and snow hares are likely retreating to more sheltered areas, making observations and encounters exceedingly rare.",
+                        "resource_change": "Root visibility and accessibility are reduced due to increased snow coverage; potential to find less snow-covered areas near overhangs.",
+                        "environmental_shift": "Blizzard is intensifying; the next priority should be maintaining body warmth and seeking immediate shelter."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 36,
+            "notes": [
+                {
+                    "terrain": "Rocky mountain path with a bit more vegetation as the snow begins to melt",
+                    "temperature": -5,
+                    "weather": "Clear skies with moderate winds",
+                    "food_availability": "Limited, some hardy roots are now more accessible",
+                    "water_availability": "Partially thawed streams, still limited access",
+                    "shelter_options": "Small rocky overhangs with slightly reduced snow buildup",
+                    "wildlife": "Very rare, occasional tracks of snow hares",
+                    "danger_level": "High (cold temperatures, risk of hypothermia, no major immediate threats)"
+                },
+                {
+                    "terrain": "Rocky mountain path with increased vegetation as snow melts further",
+                    "temperature": -3,
+                    "weather": "Clear skies, winds calming",
+                    "food_availability": "Moderate, more hardy roots exposed as snow recedes",
+                    "water_availability": "Streams are increasingly accessible, slight increase in flow",
+                    "shelter_options": "Rocky overhangs becoming more accessible with reduced snow",
+                    "wildlife": "Slightly more active, tracks of snow hares and distant signs of mountain goats",
+                    "danger_level": "Moderate (cold temperatures still a concern, but less immediate threat due to improving conditions)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Snow hares and mountain goats may start foraging closer due to increased vegetation.",
+                        "resource_change": "Expected further exposure of roots and increased water availability as temperatures rise.",
+                        "environmental_shift": "Weather stabilizing, potential for warmer days, reducing immediate hypothermia risk."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 37,
+            "notes": [
+                {
+                    "terrain": "Rocky mountain path with increasing vegetation",
+                    "temperature": -1,
+                    "weather": "Partly cloudy with increasing winds",
+                    "food_availability": "Limited, primarily hardy roots; occasional sighting of snow hares",
+                    "water_availability": "Streams accessible, flow slightly increased",
+                    "shelter_options": "Rocky overhangs and some tree cover",
+                    "wildlife": "Tracks of snow hares, distant mountain goats, increased bird activity",
+                    "danger_level": "High (cold temperatures and unpredictable weather still pose threats; potential for avalanches due to warming)"
+                },
+                {
+                    "terrain": "Rocky mountain path with lush vegetation emerging",
+                    "temperature": -1,
+                    "weather": "Partly cloudy with gusty winds",
+                    "food_availability": "Moderate with hardy roots more prevalent; occasional snow hare sightings",
+                    "water_availability": "Stream flows continue to increase and become more accessible",
+                    "shelter_options": "Rocky overhangs and canopy from sparse trees",
+                    "wildlife": "Increased activity of snow hares and mountain goats foraging",
+                    "danger_level": "Moderate (weather still poses risks, but improving visibility and food sources)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Snow hares and mountain goats are becoming bolder in their foraging due to available vegetation; this may lead to increased encounters.",
+                        "resource_change": "Roots are becoming more abundant and easier to find, while water is increasingly accessible from streams.",
+                        "environmental_shift": "Conditions show signs of stabilization, but the presence of strong winds indicates potential weather changes or new patterns."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 38,
+            "notes": [
+                {
+                    "terrain": "Rocky mountain path with patches of thawing snow",
+                    "temperature": 0,
+                    "weather": "Overcast with strong gusts",
+                    "food_availability": "Sparse, mostly hardy roots and occasional snow hares",
+                    "water_availability": "Streams are accessible but partially frozen",
+                    "shelter_options": "Rocky overhangs and minimal tree cover",
+                    "wildlife": "Snow hares and mountain goats are more visible",
+                    "danger_level": "High (strong winds and cold temperatures pose serious risks)"
+                },
+                {
+                    "terrain": "Rocky mountain path with patches of thawing snow",
+                    "temperature": 0,
+                    "weather": "Overcast with strong gusts, potential for light snow",
+                    "food_availability": "Sparse, mostly hardy roots and occasional snow hares",
+                    "water_availability": "Streams are accessible but partially frozen",
+                    "shelter_options": "Rocky overhangs and minimal tree cover",
+                    "wildlife": "Snow hares and mountain goats are cautiously visible more frequently due to increasing vegetation",
+                    "danger_level": "Moderate (shelter acquired, but strong winds and cold temperatures remain a risk)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Snow hares and mountain goats may react to increased human presence, becoming more cautious.",
+                        "resource_change": "Potential increase in root accessibility as snow continues to thaw near the overhangs.",
+                        "environmental_shift": "Weather changes indicate possibility of light snow, but overall a shift towards stabilizing conditions."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 39,
+            "notes": [
+                {
+                    "terrain": "Rocky mountain path with patches of thawing snow",
+                    "temperature": -2,
+                    "weather": "Heavy snow with strong gusts",
+                    "food_availability": "Very sparse, mainly hardy roots as snow has covered most resources",
+                    "water_availability": "Streams are mostly frozen with limited access to water",
+                    "shelter_options": "Rocky overhangs offer some protection but are now partially covered by snow",
+                    "wildlife": "Snow hares and mountain goats are rarely visible due to heavy snow",
+                    "danger_level": "High (heavy snow and strong winds pose a significant threat, limited visibility and freezing temperatures)"
+                },
+                {
+                    "terrain": "Rocky mountain path with patches of thawing snow",
+                    "temperature": -2,
+                    "weather": "Heavy snow with strong gusts",
+                    "food_availability": "Very sparse, mainly hardy roots as snow has covered most resources",
+                    "water_availability": "Streams are mostly frozen with limited access to water",
+                    "shelter_options": "Rocky overhangs offer some protection but are now partially covered by snow",
+                    "wildlife": "Snow hares and mountain goats are rarely visible due to heavy snow",
+                    "danger_level": "High (heavy snow and strong winds pose a significant threat, limited visibility and freezing temperatures)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Snow hares and mountain goats are likely to retreat further into hidden areas during heavy snow, reducing visibility and encounters.",
+                        "resource_change": "Continuous snow may further bury roots, making them even harder to access, while streams remain largely inaccessible.",
+                        "environmental_shift": "Persistent heavy snow suggests no immediate relief from harsh conditions, maintain focus on securing shelter and conserving energy."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 40,
+            "notes": [
+                {
+                    "terrain": "Steep, rocky mountain path with extensive snow coverage",
+                    "temperature": -4,
+                    "weather": "Blizzard conditions with intense snowfall and strong winds",
+                    "food_availability": "Extremely scarce, mostly hidden roots under deep snow",
+                    "water_availability": "Streams remain mostly frozen and difficult to access",
+                    "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection",
+                    "wildlife": "Almost no visible wildlife, occasional tracks of snow hares and mountain goats",
+                    "danger_level": "Severe (blizzard poses a critical threat, hypothermia risk high, limited visibility)"
+                },
+                {
+                    "terrain": "Steep, rocky mountain path with extensive snow coverage",
+                    "temperature": -4,
+                    "weather": "Blizzard conditions with intense snowfall and strong winds",
+                    "food_availability": "Extremely scarce, mostly hidden roots under deep snow",
+                    "water_availability": "Streams remain mostly frozen and difficult to access",
+                    "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection",
+                    "wildlife": "Almost no visible wildlife, occasional tracks of snow hares and mountain goats",
+                    "danger_level": "Severe (blizzard poses a critical threat, hypothermia risk high, limited visibility)",
+                    "notes_for_future": {
+                        "wildlife_alert": "The blizzard has forced wildlife to retreat further into more secure locations, reducing the likelihood of spotting them.",
+                        "resource_change": "Continued blizzard conditions may lead to further entrenchment of snow, making roots less accessible and maintaining the freeze of streams.",
+                        "environmental_shift": "Blizzard conditions are expected to persist; maintaining shelter is crucial as no immediate change in weather is predicted."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 41,
+            "notes": [
+                {
+                    "terrain": "Steep, rocky mountain path with extensive snow coverage",
+                    "temperature": -5,
+                    "weather": "Blizzard conditions with intense snowfall and strong winds",
+                    "food_availability": "Extremely scarce, mostly hidden roots under deep snow",
+                    "water_availability": "Streams remain mostly frozen and difficult to access",
+                    "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection",
+                    "wildlife": "Almost no visible wildlife, occasional tracks of snow hares and mountain goats",
+                    "danger_level": "Severe (blizzard poses a critical threat, hypothermia risk high, limited visibility)"
+                },
+                {
+                    "terrain": "Steep, rocky mountain path with extensive snow coverage",
+                    "temperature": -5,
+                    "weather": "Blizzard conditions with intense snowfall and strong winds",
+                    "food_availability": "Extremely scarce, mostly hidden roots under deep snow",
+                    "water_availability": "Streams remain mostly frozen and difficult to access",
+                    "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection, some have been slightly expanded for more occupancy during the blizzard",
+                    "wildlife": "Almost no visible wildlife, occasional tracks of snow hares and mountain goats",
+                    "danger_level": "Severe (blizzard poses a critical threat, hypothermia risk high, limited visibility)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Wildlife remains elusive due to the blizzard, with animals seeking deeper refuge.",
+                        "resource_change": "The blizzard continues to bury resources further, making it increasingly difficult to access food and water.",
+                        "environmental_shift": "Blizzard conditions are expected to continue, with a potential increase in snow accumulation and wind intensity."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 42,
+            "notes": [
+                {
+                    "terrain": "Steep, rocky mountain path with extensive snow coverage",
+                    "temperature": -5,
+                    "weather": "Blizzard conditions with intense snowfall and strong winds",
+                    "food_availability": "Extremely scarce, mostly hidden roots under deep snow",
+                    "water_availability": "Streams remain mostly frozen and difficult to access",
+                    "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection",
+                    "wildlife": "Almost no visible wildlife, occasional tracks of snow hares and mountain goats",
+                    "danger_level": "Severe (blizzard poses a critical threat, hypothermia risk high, limited visibility)"
+                },
+                {
+                    "terrain": "Steep, rocky mountain path with extensive snow coverage",
+                    "temperature": -5,
+                    "weather": "Blizzard conditions with persistent intense snowfall and strong winds",
+                    "food_availability": "Extremely scarce, mostly hidden roots under deeper snow",
+                    "water_availability": "Streams remain mostly frozen, with snow accumulation increasing difficulty accessing liquid water",
+                    "shelter_options": "Limited to snow-covered rocky overhangs, offering minimal protection; further snow accumulation may partially block access",
+                    "wildlife": "Wildlife remains nearly invisible, with only occasional tracks of snow hares and mountain goats visible",
+                    "danger_level": "Severe (blizzard conditions continue to pose a critical threat, hypothermia risk remains high, and visibility is very limited)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Mountain goats and snow hares remain elusive, likely retreating further during persistent blizzard conditions.",
+                        "resource_change": "The ongoing blizzard is leading to further snow accumulation, burying resources deeper and reducing accessibility to food and water.",
+                        "environmental_shift": "Blizzard conditions are persisting, with no immediate signs of abating; further accumulation of snow and cold temperatures are expected to continue."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 43,
+            "notes": [
+                {
+                    "terrain": "Steep, rocky mountain path with extensive snow coverage",
+                    "temperature": -8,
+                    "weather": "Blizzard conditions continue with strong winds and heavy snowfall",
+                    "food_availability": "Extremely scarce, snow hares and mountain goats are elusive",
+                    "water_availability": "Streams remain frozen; snow is the only source of water",
+                    "shelter_options": "Rocky overhangs provide minimal protection, further snow accumulation partially blocks access",
+                    "wildlife": "Nearly invisible, occasional tracks of snow hares and mountain goats",
+                    "danger_level": "Severe (blizzard conditions maintain high risk of hypothermia and poor visibility)"
+                },
+                {
+                    "terrain": "Steep, rocky mountain path with extensive snow coverage",
+                    "temperature": -8,
+                    "weather": "Blizzard conditions continue with strong winds and heavy snowfall",
+                    "food_availability": "Extremely scarce, snow hares and mountain goats are elusive",
+                    "water_availability": "Streams remain frozen; snow is the only source of water",
+                    "shelter_options": "Rocky overhangs provide minimal protection, further snow accumulation partially blocks access",
+                    "wildlife": "Wildlife remains nearly invisible due to persistent blizzard conditions, with occasional tracks of snow hares and mountain goats",
+                    "danger_level": "Severe (blizzard conditions maintain high risk of hypothermia and poor visibility)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Wildlife continues to retreat further in response to the blizzard, becoming even more cautious and reducing encounter chances.",
+                        "resource_change": "Continued snow accumulation further buries roots and increases difficulty in accessing food and water. Shelter access may become increasingly blocked.",
+                        "environmental_shift": "Blizzard conditions are persisting strongly, with no signs of immediate relief. Monitoring for changes is crucial to plan for survival once conditions allow."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 44,
+            "notes": [
+                {
+                    "terrain": "Rocky mountain path with heavy snow",
+                    "temperature": -10,
+                    "weather": "Blizzard conditions persist, with strong winds and heavy snowfall",
+                    "food_availability": "Extremely scarce, snow hares and mountain goats remain elusive",
+                    "water_availability": "Streams are frozen, snow is the only available source",
+                    "shelter_options": "Rocky overhangs offer minimal protection, with increased snow accumulation blocking access",
+                    "wildlife": "Wildlife remains invisible, with occasional tracks noticed",
+                    "danger_level": "Extremely High (blizzard conditions enforce high risk of hypothermia and severely limited visibility)"
+                },
+                {
+                    "terrain": "Rocky mountain path with heavy snow",
+                    "temperature": -10,
+                    "weather": "Blizzard conditions persist, with strong winds and heavy snowfall",
+                    "food_availability": "Extremely scarce, snow hares and mountain goats remain elusive",
+                    "water_availability": "Streams are frozen, snow is the only available source",
+                    "shelter_options": "Rocky overhangs offer minimal protection, with increased snow accumulation blocking access",
+                    "wildlife": "Wildlife remains invisible, with occasional tracks noticed",
+                    "danger_level": "Extremely High (blizzard conditions enforce high risk of hypothermia and severely limited visibility)",
+                    "notes_for_future": {
+                        "wildlife_alert": "The continued severe weather has pushed wildlife to deeper refuge, making encounters highly unlikely. However, vigilance is required for any signs of improved conditions that might draw animals out.",
+                        "resource_change": "Efforts to clear a path to a rocky overhang have been partially successful but energy-draining. Shelter access remains challenging; increased snow is making it difficult to reach resources or move freely.",
+                        "environmental_shift": "The blizzard conditions remain persistently unchanged with no immediate relief in sight. Continued accumulation is expected, and focus should remain on maximizing any temporary shelter obtained while monitoring for potential breaks in the weather."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 45,
+            "notes": [
+                {
+                    "terrain": "Rocky mountain path with heavy snow",
+                    "temperature": -12,
+                    "weather": "Blizzard conditions with extremely limited visibility",
+                    "food_availability": "Nearly nonexistent, occasional snow hare tracks visible",
+                    "water_availability": "Streams are frozen, melting snow is necessary for water",
+                    "shelter_options": "Minimal protection under rocky overhangs, snow accumulation blocking most access",
+                    "wildlife": "Invisible due to severe weather, only tracks occasionally seen",
+                    "danger_level": "Extremely High (risk of hypothermia and avalanche due to heavy snow buildup)"
+                },
+                {
+                    "terrain": "Rocky mountain path with heavy snow",
+                    "temperature": -10,
+                    "weather": "Blizzard conditions with slightly reduced wind intensity",
+                    "food_availability": "Slightly improved, occasional snow hare tracks more visible",
+                    "water_availability": "Streams remain frozen, snow is primary water source",
+                    "shelter_options": "Rocky overhangs with partially cleared entrances, providing better access",
+                    "wildlife": "Occasionally visible tracks of snow hares, mountain goats remain hidden",
+                    "danger_level": "High (hypothermia risk still present, but reduced due to better shelter access)",
+                    "notes_for_future": {
+                        "wildlife_alert": "With slightly improved conditions, there's a possibility that snow hares may become more visible, but mountain goats continue to stay hidden.",
+                        "resource_change": "Shelter access has been improved by clearing snow, which may aid in conserving energy. Continued effort to keep access clear is necessary.",
+                        "environmental_shift": "The blizzard's intensity has slightly reduced, indicating potential stabilization of weather conditions. Monitoring for any further improvement is crucial."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 46,
+            "notes": [
+                {
+                    "terrain": "Rocky mountain path with a light layer of snow",
+                    "temperature": -8,
+                    "weather": "Clear skies with a gentle breeze",
+                    "food_availability": "More frequent sightings of snow hares, but still scarce",
+                    "water_availability": "Streams remain frozen, snow is the primary water source",
+                    "shelter_options": "Rocky overhangs with clearer entrances, enhanced by previous efforts",
+                    "wildlife": "Snow hares are more visible, mountain goats remain elusive",
+                    "danger_level": "Moderate (reduced hypothermia risk due to improved weather and shelter access)"
+                },
+                {
+                    "terrain": "Rocky mountain path with a light layer of snow",
+                    "temperature": -8,
+                    "weather": "Clear skies with a gentle breeze",
+                    "food_availability": "Stable but still scarce with occasional snow hare sightings",
+                    "water_availability": "Streams remain frozen, snow is the primary water source",
+                    "shelter_options": "Rocky overhangs with reinforced entrances due to agent's efforts",
+                    "wildlife": "Snow hares more accustomed to human presence, mountain goats still elusive",
+                    "danger_level": "Moderate (improved shelter and weather conditions lower immediate risks)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Snow hares have become more accustomed to agent's presence and may be slightly easier to approach, though caution is still necessary. Mountain goats remain elusive.",
+                        "resource_change": "Shelter has been improved with better entrance access due to agent's reinforcement work, conserving energy and improving protection.",
+                        "environmental_shift": "Weather stabilization is evident with clearer skies and gentle breezes. However, continued observation of weather patterns is crucial for further improvement strategies."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 47,
+            "notes": [
+                {
+                    "terrain": "Rocky mountain path with a light layer of snow",
+                    "temperature": -10,
+                    "weather": "Overcast with a chilling wind",
+                    "food_availability": "Diminishing, with fewer snow hares and no recent sightings",
+                    "water_availability": "Streams remain frozen, snow is the primary water source",
+                    "shelter_options": "Reinforced rocky overhangs offer limited warmth",
+                    "wildlife": "Snow hares remain cautious, mountain goats unseen",
+                    "danger_level": "High (food scarcity and worsening weather conditions)"
+                }
+            ]
+        },
+        {
+            "day": 47,
+            "notes": [
+                {
+                    "terrain": "Rocky mountains with sparse vegetation",
+                    "temperature": -5,
+                    "weather": "Blizzard conditions",
+                    "food_availability": "Scarce, mainly hardy shrubs and rare sighting of mountain goats",
+                    "water_availability": "Frozen streams, requiring effort to melt ice",
+                    "shelter_options": "Small rocky overhangs offering minimal protection",
+                    "wildlife": "Occasional mountain goats, rare sightings of snow leopards",
+                    "danger_level": "High (extreme weather, risk of avalanches, aggressive wildlife)"
+                },
+                {
+                    "terrain": "Rocky mountain path with heavy snow",
+                    "temperature": -8,
+                    "weather": "Blizzard conditions with slightly reduced intensity",
+                    "food_availability": "Extremely scarce, with very few snow hares visible",
+                    "water_availability": "Streams remain frozen, continued reliance on melting snow",
+                    "shelter_options": "Reinforced rocky overhangs offering slightly improved protection from the wind",
+                    "wildlife": "Wildlife remains mostly hidden, with occasional snow leopard tracks noted",
+                    "danger_level": "High (due to continued blizzard and food scarcity)",
+                    "notes_for_future": {
+                        "wildlife_alert": "The presence of snow leopards has been detected, increasing the risk to safety when foraging.",
+                        "resource_change": "Efforts to reinforce shelter have improved insulation slightly, conserving body heat and energy.",
+                        "environmental_shift": "Blizzard intensity is slightly reduced, with weather conditions showing signs of potential stabilization."
+                    }
+                }
+            ]
+        }
+    ]
+}

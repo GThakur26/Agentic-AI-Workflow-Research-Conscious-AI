@@ -1,1 +1,339 @@
-{"metadata": "", "data": [[{"description": "Located small rocky overhangs that can provide shelter during blizzard conditions. Essential for protecting against exposure and hypothermia.", "priority": "high", "category": "shelter", "environment_conditions": "Blizzard, -5 degrees, high danger level due to extreme weather"}, {"description": "Frozen streams identified as potential water sources. Caution required before consumption due to unknown effects.", "priority": "medium", "category": "water", "environment_conditions": "Blizzard, -5 degrees"}, {"description": "Scarce food availability with tough shrubs and roots partially hidden by accumulating snow.", "priority": "medium", "category": "food", "environment_conditions": "Blizzard, -5 degrees"}, {"description": "Rare wildlife sightings include mountain goats and snow hares, but they are harder to spot due to the blizzard.", "priority": "low", "category": "wildlife", "environment_conditions": "Blizzard, -5 degrees"}], [{"description": "Located small rocky overhangs heavily snowed in but accessible with effort. Essential for protecting against exposure and critical risk of hypothermia as blizzard intensifies.", "priority": "high", "category": "shelter", "environment_conditions": "Severe blizzard, -12 degrees, extremely high danger level due to worsening conditions"}, {"description": "Frozen streams remain potential water sources but with increased risk of dehydration. Extreme caution required before consumption.", "priority": "medium", "category": "water", "environment_conditions": "Severe blizzard, -12 degrees"}, {"description": "Scarce food availability with tough roots buried deeper under snow. Potential to find less snow-covered roots near overhangs.", "priority": "medium", "category": "food", "environment_conditions": "Severe blizzard, -12 degrees"}, {"description": "Extremely rare wildlife sightings; mountain goats and snow hares likely retreating to more sheltered areas.", "priority": "low", "category": "wildlife", "environment_conditions": "Severe blizzard, -12 degrees"}], [{"description": "Discovered partially thawed streams with increased flow, offering more accessible water sources. Slight caution still advised before consumption.", "priority": "high", "category": "water", "environment_conditions": "Clear skies, -3 degrees, moderate danger level due to cold temperatures"}, {"description": "Uncovered more hardy roots as snow recedes, improving food availability. Important for addressing hunger and energy needs.", "priority": "high", "category": "food", "environment_conditions": "Clear skies, -3 degrees, moderate danger level due to cold temperatures"}, {"description": "Small rocky overhangs increasingly accessible, providing viable shelter options under calming winds and reduced snow buildup.", "priority": "medium", "category": "shelter", "environment_conditions": "Clear skies, -3 degrees, improved conditions"}, {"description": "Increased wildlife activity with tracks of snow hares and distant signs of mountain goats, indicating more active foraging.", "priority": "medium", "category": "wildlife", "environment_conditions": "Clear skies, -3 degrees, moderate danger level"}], [{"description": "Encountered streams with increasing flow, providing more accessible and reliable water sources. Minimal caution now needed for consumption.", "priority": "high", "category": "water", "environment_conditions": "Partly cloudy, -1 degrees, moderate danger level due to winds"}, {"description": "Hardy roots are now more prevalent and easier to find with receding snow, significantly improving food availability. Essential for maintaining energy and reducing hunger.", "priority": "high", "category": "food", "environment_conditions": "Partly cloudy, -1 degrees, moderate danger level due to winds"}, {"description": "Rocky overhangs and sparse tree cover provide improved shelter options as gusty winds increase exposure risk. Important for energy conservation and protection against unpredictable weather.", "priority": "high", "category": "shelter", "environment_conditions": "Partly cloudy, -1 degrees, moderate danger level due to winds"}, {"description": "Increased wildlife activity observed with snow hares and mountain goats actively foraging, indicating a potential increase in food opportunities or insights into local survival patterns.", "priority": "medium", "category": "wildlife", "environment_conditions": "Partly cloudy, -1 degrees, moderate danger level due to winds"}], [[{"description": "Located rocky overhangs that offer protection from strong winds and elements. Vital for preventing exposure and hypothermia.", "priority": "high", "category": "shelter", "environment_conditions": "Overcast with strong gusts, 0 degrees, high danger level due to winds and cold"}, {"description": "Streams are accessible but partially frozen, offering potential water sources with some caution required.", "priority": "medium", "category": "water", "environment_conditions": "Overcast with strong gusts, 0 degrees"}, {"description": "Scarce food availability with hardy roots and occasional sightings of snow hares. Important to monitor for addressing hunger.", "priority": "medium", "category": "food", "environment_conditions": "Overcast with strong gusts, 0 degrees"}, {"description": "Visible wildlife includes snow hares and mountain goats. Increased sightings likely due to less snow cover.", "priority": "low", "category": "wildlife", "environment_conditions": "Overcast with strong gusts, 0 degrees"}]], [{"description": "Located small rocky overhangs that can provide shelter during heavy snow with strong winds. Essential for protecting against exposure and hypothermia.", "priority": "high", "category": "shelter", "environment_conditions": "Heavy snow, -2 degrees, high danger level"}, {"description": "Streams are mostly frozen with limited access to water. Caution required due to the potential risk of dehydration.", "priority": "medium", "category": "water", "environment_conditions": "Heavy snow, -2 degrees"}, {"description": "Scarce food availability with hardy roots partially hidden under snow. Important to monitor for addressing hunger.", "priority": "medium", "category": "food", "environment_conditions": "Heavy snow, -2 degrees"}, {"description": "Rare wildlife sightings include mountain goats and snow hares, but they are harder to spot due to heavy snow. Increased caution required.", "priority": "low", "category": "wildlife", "environment_conditions": "Heavy snow, -2 degrees"}], [{"description": "Located small rocky overhangs heavily snowed in but accessible with effort. Essential for protecting against exposure and critical risk of hypothermia as blizzard intensifies.", "priority": "high", "category": "shelter", "environment_conditions": "Blizzard, -4 degrees, severe danger level due to extreme weather"}, {"description": "Frozen streams remain potential water sources but with increased risk of dehydration. Extreme caution required before consumption.", "priority": "medium", "category": "water", "environment_conditions": "Blizzard, -4 degrees"}, {"description": "Scarce food availability with tough roots buried deeper under snow. Potential to find less snow-covered roots near overhangs.", "priority": "medium", "category": "food", "environment_conditions": "Blizzard, -4 degrees"}, {"description": "Extremely rare wildlife sightings; mountain goats and snow hares likely retreating to more sheltered areas.", "priority": "low", "category": "wildlife", "environment_conditions": "Blizzard, -4 degrees"}], [{"description": "Located small rocky overhangs slightly expanded for more occupancy during the blizzard. Essential for protecting against exposure and hypothermia.", "priority": "high", "category": "shelter", "environment_conditions": "Blizzard, -5 degrees, high danger level due to extreme weather"}, {"description": "Streams remain mostly frozen and difficult to access as potential water sources. Extreme caution required before consumption.", "priority": "medium", "category": "water", "environment_conditions": "Blizzard, -5 degrees"}, {"description": "Scarce food availability with hidden roots buried deeper under snow. Potential to find less snow-covered roots near overhangs.", "priority": "medium", "category": "food", "environment_conditions": "Blizzard, -5 degrees"}, {"description": "Almost no visible wildlife due to blizzard; tracks of snow hares and mountain goats suggest retreat to deeper shelter.", "priority": "low", "category": "wildlife", "environment_conditions": "Blizzard, -5 degrees"}], [{"description": "Located small rocky overhangs that can provide shelter during blizzard conditions. Essential for protecting against exposure and hypothermia.", "priority": "high", "category": "shelter", "environment_conditions": "Blizzard, -5 degrees, high danger level due to extreme weather"}, {"description": "Streams remain mostly frozen and difficult to access as potential water sources. Extreme caution required before consumption.", "priority": "medium", "category": "water", "environment_conditions": "Blizzard, -5 degrees"}, {"description": "Scarce food availability with hidden roots buried deeper under snow. Potential to find less snow-covered roots near overhangs.", "priority": "medium", "category": "food", "environment_conditions": "Blizzard, -5 degrees"}, {"description": "Almost no visible wildlife due to blizzard; tracks of snow hares and mountain goats suggest retreat to deeper shelter.", "priority": "low", "category": "wildlife", "environment_conditions": "Blizzard, -5 degrees"}], [{"description": "Rocky overhangs provide minimal protection, but further snow accumulation partially blocks access. Essential for protecting against exposure and hypothermia, despite limited capacity.", "priority": "high", "category": "shelter", "environment_conditions": "Blizzard, -8 degrees, severe danger level due to extreme weather"}, {"description": "Streams remain frozen; the only water source is snow. Increased difficulty in accessing food and water as snow continues to accumulate.", "priority": "medium", "category": "water", "environment_conditions": "Blizzard, -8 degrees"}, {"description": "Food availability remains extremely scarce with snow hares and mountain goats elusive. Continued snow accumulation further buries roots.", "priority": "medium", "category": "food", "environment_conditions": "Blizzard, -8 degrees"}, {"description": "Wildlife remains nearly invisible due to persistent blizzard conditions; occasional tracks of snow hares and mountain goats observed.", "priority": "low", "category": "wildlife", "environment_conditions": "Blizzard, -8 degrees"}], [{"description": "Rocky overhangs offer minimal protection, with increased snow accumulation blocking access. Essential for protecting against exposure and hypothermia, but energy-draining to reach.", "priority": "high", "category": "shelter", "environment_conditions": "Blizzard, -10 degrees, extremely high danger level due to severe weather"}, {"description": "Streams remain frozen, making snow the only available water source. Increased difficulty in accessing water due to severe conditions.", "priority": "medium", "category": "water", "environment_conditions": "Blizzard, -10 degrees, extremely high danger level due to severe weather"}, {"description": "Food availability remains extremely scarce with snow hares and mountain goats remaining elusive. Continued snow accumulation further hampers food foraging.", "priority": "medium", "category": "food", "environment_conditions": "Blizzard, -10 degrees, extremely high danger level due to severe weather"}, {"description": "Wildlife remains invisible with occasional tracks noticed. The blizzard has likely driven wildlife to deeper refuge.", "priority": "low", "category": "wildlife", "environment_conditions": "Blizzard, -10 degrees, extremely high danger level due to severe weather"}], [{"description": "Rocky overhangs now partially cleared, offering better access and improved shelter options against the blizzard. Crucial for minimizing hypothermia risk as conditions remain harsh.", "priority": "high", "category": "shelter", "environment_conditions": "Blizzard, -10 degrees, high danger level"}, {"description": "Frozen streams remain inaccessible, emphasizing snow as the primary water source. Careful management of snow melting is essential for hydration.", "priority": "medium", "category": "water", "environment_conditions": "Blizzard, -10 degrees, high danger level"}, {"description": "Improved visibility of snow hare tracks in slightly calmer weather, indicating a potential increase in food opportunities as conditions stabilize.", "priority": "medium", "category": "food", "environment_conditions": "Blizzard, -10 degrees, high danger level"}, {"description": "Occasional tracks of snow hares observed, suggesting possible wildlife activity despite the blizzard. Monitoring for increased sightings is advised.", "priority": "low", "category": "wildlife", "environment_conditions": "Blizzard, -10 degrees, high danger level"}], [{"description": "Rocky overhangs with clearer and reinforced entrances provide enhanced shelter. Essential for protecting against exposure and hypothermia with reduced energy expenditure.", "priority": "high", "category": "shelter", "environment_conditions": "Clear skies, -8 degrees, moderate danger level due to cold temperatures"}, {"description": "Streams remain frozen, making snow the primary water source. Careful management of snow melting is essential for hydration.", "priority": "medium", "category": "water", "environment_conditions": "Clear skies, -8 degrees, moderate danger level due to cold temperatures"}, {"description": "Snow hares are more visible and accustomed to human presence, suggesting potential for food without direct pursuit due to energy conservation.", "priority": "medium", "category": "wildlife", "environment_conditions": "Clear skies, -8 degrees, moderate danger level due to cold temperatures"}]]}
+{
+    "metadata": "",
+    "data": [
+        [
+            {
+                "description": "Located small rocky overhangs that can provide shelter during blizzard conditions. Essential for protecting against exposure and hypothermia.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Blizzard, -5 degrees, high danger level due to extreme weather"
+            },
+            {
+                "description": "Frozen streams identified as potential water sources. Caution required before consumption due to unknown effects.",
+                "priority": "medium",
+                "category": "water",
+                "environment_conditions": "Blizzard, -5 degrees"
+            },
+            {
+                "description": "Scarce food availability with tough shrubs and roots partially hidden by accumulating snow.",
+                "priority": "medium",
+                "category": "food",
+                "environment_conditions": "Blizzard, -5 degrees"
+            },
+            {
+                "description": "Rare wildlife sightings include mountain goats and snow hares, but they are harder to spot due to the blizzard.",
+                "priority": "low",
+                "category": "wildlife",
+                "environment_conditions": "Blizzard, -5 degrees"
+            }
+        ],
+        [
+            {
+                "description": "Located small rocky overhangs heavily snowed in but accessible with effort. Essential for protecting against exposure and critical risk of hypothermia as blizzard intensifies.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Severe blizzard, -12 degrees, extremely high danger level due to worsening conditions"
+            },
+            {
+                "description": "Frozen streams remain potential water sources but with increased risk of dehydration. Extreme caution required before consumption.",
+                "priority": "medium",
+                "category": "water",
+                "environment_conditions": "Severe blizzard, -12 degrees"
+            },
+            {
+                "description": "Scarce food availability with tough roots buried deeper under snow. Potential to find less snow-covered roots near overhangs.",
+                "priority": "medium",
+                "category": "food",
+                "environment_conditions": "Severe blizzard, -12 degrees"
+            },
+            {
+                "description": "Extremely rare wildlife sightings; mountain goats and snow hares likely retreating to more sheltered areas.",
+                "priority": "low",
+                "category": "wildlife",
+                "environment_conditions": "Severe blizzard, -12 degrees"
+            }
+        ],
+        [
+            {
+                "description": "Discovered partially thawed streams with increased flow, offering more accessible water sources. Slight caution still advised before consumption.",
+                "priority": "high",
+                "category": "water",
+                "environment_conditions": "Clear skies, -3 degrees, moderate danger level due to cold temperatures"
+            },
+            {
+                "description": "Uncovered more hardy roots as snow recedes, improving food availability. Important for addressing hunger and energy needs.",
+                "priority": "high",
+                "category": "food",
+                "environment_conditions": "Clear skies, -3 degrees, moderate danger level due to cold temperatures"
+            },
+            {
+                "description": "Small rocky overhangs increasingly accessible, providing viable shelter options under calming winds and reduced snow buildup.",
+                "priority": "medium",
+                "category": "shelter",
+                "environment_conditions": "Clear skies, -3 degrees, improved conditions"
+            },
+            {
+                "description": "Increased wildlife activity with tracks of snow hares and distant signs of mountain goats, indicating more active foraging.",
+                "priority": "medium",
+                "category": "wildlife",
+                "environment_conditions": "Clear skies, -3 degrees, moderate danger level"
+            }
+        ],
+        [
+            {
+                "description": "Encountered streams with increasing flow, providing more accessible and reliable water sources. Minimal caution now needed for consumption.",
+                "priority": "high",
+                "category": "water",
+                "environment_conditions": "Partly cloudy, -1 degrees, moderate danger level due to winds"
+            },
+            {
+                "description": "Hardy roots are now more prevalent and easier to find with receding snow, significantly improving food availability. Essential for maintaining energy and reducing hunger.",
+                "priority": "high",
+                "category": "food",
+                "environment_conditions": "Partly cloudy, -1 degrees, moderate danger level due to winds"
+            },
+            {
+                "description": "Rocky overhangs and sparse tree cover provide improved shelter options as gusty winds increase exposure risk. Important for energy conservation and protection against unpredictable weather.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Partly cloudy, -1 degrees, moderate danger level due to winds"
+            },
+            {
+                "description": "Increased wildlife activity observed with snow hares and mountain goats actively foraging, indicating a potential increase in food opportunities or insights into local survival patterns.",
+                "priority": "medium",
+                "category": "wildlife",
+                "environment_conditions": "Partly cloudy, -1 degrees, moderate danger level due to winds"
+            }
+        ],
+        [
+            [
+                {
+                    "description": "Located rocky overhangs that offer protection from strong winds and elements. Vital for preventing exposure and hypothermia.",
+                    "priority": "high",
+                    "category": "shelter",
+                    "environment_conditions": "Overcast with strong gusts, 0 degrees, high danger level due to winds and cold"
+                },
+                {
+                    "description": "Streams are accessible but partially frozen, offering potential water sources with some caution required.",
+                    "priority": "medium",
+                    "category": "water",
+                    "environment_conditions": "Overcast with strong gusts, 0 degrees"
+                },
+                {
+                    "description": "Scarce food availability with hardy roots and occasional sightings of snow hares. Important to monitor for addressing hunger.",
+                    "priority": "medium",
+                    "category": "food",
+                    "environment_conditions": "Overcast with strong gusts, 0 degrees"
+                },
+                {
+                    "description": "Visible wildlife includes snow hares and mountain goats. Increased sightings likely due to less snow cover.",
+                    "priority": "low",
+                    "category": "wildlife",
+                    "environment_conditions": "Overcast with strong gusts, 0 degrees"
+                }
+            ]
+        ],
+        [
+            {
+                "description": "Located small rocky overhangs that can provide shelter during heavy snow with strong winds. Essential for protecting against exposure and hypothermia.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Heavy snow, -2 degrees, high danger level"
+            },
+            {
+                "description": "Streams are mostly frozen with limited access to water. Caution required due to the potential risk of dehydration.",
+                "priority": "medium",
+                "category": "water",
+                "environment_conditions": "Heavy snow, -2 degrees"
+            },
+            {
+                "description": "Scarce food availability with hardy roots partially hidden under snow. Important to monitor for addressing hunger.",
+                "priority": "medium",
+                "category": "food",
+                "environment_conditions": "Heavy snow, -2 degrees"
+            },
+            {
+                "description": "Rare wildlife sightings include mountain goats and snow hares, but they are harder to spot due to heavy snow. Increased caution required.",
+                "priority": "low",
+                "category": "wildlife",
+                "environment_conditions": "Heavy snow, -2 degrees"
+            }
+        ],
+        [
+            {
+                "description": "Located small rocky overhangs heavily snowed in but accessible with effort. Essential for protecting against exposure and critical risk of hypothermia as blizzard intensifies.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Blizzard, -4 degrees, severe danger level due to extreme weather"
+            },
+            {
+                "description": "Frozen streams remain potential water sources but with increased risk of dehydration. Extreme caution required before consumption.",
+                "priority": "medium",
+                "category": "water",
+                "environment_conditions": "Blizzard, -4 degrees"
+            },
+            {
+                "description": "Scarce food availability with tough roots buried deeper under snow. Potential to find less snow-covered roots near overhangs.",
+                "priority": "medium",
+                "category": "food",
+                "environment_conditions": "Blizzard, -4 degrees"
+            },
+            {
+                "description": "Extremely rare wildlife sightings; mountain goats and snow hares likely retreating to more sheltered areas.",
+                "priority": "low",
+                "category": "wildlife",
+                "environment_conditions": "Blizzard, -4 degrees"
+            }
+        ],
+        [
+            {
+                "description": "Located small rocky overhangs slightly expanded for more occupancy during the blizzard. Essential for protecting against exposure and hypothermia.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Blizzard, -5 degrees, high danger level due to extreme weather"
+            },
+            {
+                "description": "Streams remain mostly frozen and difficult to access as potential water sources. Extreme caution required before consumption.",
+                "priority": "medium",
+                "category": "water",
+                "environment_conditions": "Blizzard, -5 degrees"
+            },
+            {
+                "description": "Scarce food availability with hidden roots buried deeper under snow. Potential to find less snow-covered roots near overhangs.",
+                "priority": "medium",
+                "category": "food",
+                "environment_conditions": "Blizzard, -5 degrees"
+            },
+            {
+                "description": "Almost no visible wildlife due to blizzard; tracks of snow hares and mountain goats suggest retreat to deeper shelter.",
+                "priority": "low",
+                "category": "wildlife",
+                "environment_conditions": "Blizzard, -5 degrees"
+            }
+        ],
+        [
+            {
+                "description": "Located small rocky overhangs that can provide shelter during blizzard conditions. Essential for protecting against exposure and hypothermia.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Blizzard, -5 degrees, high danger level due to extreme weather"
+            },
+            {
+                "description": "Streams remain mostly frozen and difficult to access as potential water sources. Extreme caution required before consumption.",
+                "priority": "medium",
+                "category": "water",
+                "environment_conditions": "Blizzard, -5 degrees"
+            },
+            {
+                "description": "Scarce food availability with hidden roots buried deeper under snow. Potential to find less snow-covered roots near overhangs.",
+                "priority": "medium",
+                "category": "food",
+                "environment_conditions": "Blizzard, -5 degrees"
+            },
+            {
+                "description": "Almost no visible wildlife due to blizzard; tracks of snow hares and mountain goats suggest retreat to deeper shelter.",
+                "priority": "low",
+                "category": "wildlife",
+                "environment_conditions": "Blizzard, -5 degrees"
+            }
+        ],
+        [
+            {
+                "description": "Rocky overhangs provide minimal protection, but further snow accumulation partially blocks access. Essential for protecting against exposure and hypothermia, despite limited capacity.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Blizzard, -8 degrees, severe danger level due to extreme weather"
+            },
+            {
+                "description": "Streams remain frozen; the only water source is snow. Increased difficulty in accessing food and water as snow continues to accumulate.",
+                "priority": "medium",
+                "category": "water",
+                "environment_conditions": "Blizzard, -8 degrees"
+            },
+            {
+                "description": "Food availability remains extremely scarce with snow hares and mountain goats elusive. Continued snow accumulation further buries roots.",
+                "priority": "medium",
+                "category": "food",
+                "environment_conditions": "Blizzard, -8 degrees"
+            },
+            {
+                "description": "Wildlife remains nearly invisible due to persistent blizzard conditions; occasional tracks of snow hares and mountain goats observed.",
+                "priority": "low",
+                "category": "wildlife",
+                "environment_conditions": "Blizzard, -8 degrees"
+            }
+        ],
+        [
+            {
+                "description": "Rocky overhangs offer minimal protection, with increased snow accumulation blocking access. Essential for protecting against exposure and hypothermia, but energy-draining to reach.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Blizzard, -10 degrees, extremely high danger level due to severe weather"
+            },
+            {
+                "description": "Streams remain frozen, making snow the only available water source. Increased difficulty in accessing water due to severe conditions.",
+                "priority": "medium",
+                "category": "water",
+                "environment_conditions": "Blizzard, -10 degrees, extremely high danger level due to severe weather"
+            },
+            {
+                "description": "Food availability remains extremely scarce with snow hares and mountain goats remaining elusive. Continued snow accumulation further hampers food foraging.",
+                "priority": "medium",
+                "category": "food",
+                "environment_conditions": "Blizzard, -10 degrees, extremely high danger level due to severe weather"
+            },
+            {
+                "description": "Wildlife remains invisible with occasional tracks noticed. The blizzard has likely driven wildlife to deeper refuge.",
+                "priority": "low",
+                "category": "wildlife",
+                "environment_conditions": "Blizzard, -10 degrees, extremely high danger level due to severe weather"
+            }
+        ],
+        [
+            {
+                "description": "Rocky overhangs now partially cleared, offering better access and improved shelter options against the blizzard. Crucial for minimizing hypothermia risk as conditions remain harsh.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Blizzard, -10 degrees, high danger level"
+            },
+            {
+                "description": "Frozen streams remain inaccessible, emphasizing snow as the primary water source. Careful management of snow melting is essential for hydration.",
+                "priority": "medium",
+                "category": "water",
+                "environment_conditions": "Blizzard, -10 degrees, high danger level"
+            },
+            {
+                "description": "Improved visibility of snow hare tracks in slightly calmer weather, indicating a potential increase in food opportunities as conditions stabilize.",
+                "priority": "medium",
+                "category": "food",
+                "environment_conditions": "Blizzard, -10 degrees, high danger level"
+            },
+            {
+                "description": "Occasional tracks of snow hares observed, suggesting possible wildlife activity despite the blizzard. Monitoring for increased sightings is advised.",
+                "priority": "low",
+                "category": "wildlife",
+                "environment_conditions": "Blizzard, -10 degrees, high danger level"
+            }
+        ],
+        [
+            {
+                "description": "Rocky overhangs with clearer and reinforced entrances provide enhanced shelter. Essential for protecting against exposure and hypothermia with reduced energy expenditure.",
+                "priority": "high",
+                "category": "shelter",
+                "environment_conditions": "Clear skies, -8 degrees, moderate danger level due to cold temperatures"
+            },
+            {
+                "description": "Streams remain frozen, making snow the primary water source. Careful management of snow melting is essential for hydration.",
+                "priority": "medium",
+                "category": "water",
+                "environment_conditions": "Clear skies, -8 degrees, moderate danger level due to cold temperatures"
+            },
+            {
+                "description": "Snow hares are more visible and accustomed to human presence, suggesting potential for food without direct pursuit due to energy conservation.",
+                "priority": "medium",
+                "category": "wildlife",
+                "environment_conditions": "Clear skies, -8 degrees, moderate danger level due to cold temperatures"
+            }
+        ]
+    ]
+}
