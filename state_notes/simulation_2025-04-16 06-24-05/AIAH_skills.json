@@ -1,0 +1,58 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "survival_assessment": "Basic skill of evaluating immediate environment, resources, potential risks, and personal needs in a wilderness setting",
+            "terrain_navigation": "Initial understanding of moving through mixed temperate forest with uneven ground and diverse landscape features",
+            "environmental_observation": "Ability to note subtle changes in environment, wildlife movement, and resource availability during early morning hours"
+        },
+        {
+            "systematic_resource_gathering": "Methodical approach to collecting and organizing survival resources, including wood, potential tools, and establishing an initial survival kit",
+            "wilderness_resource_management": "Skill of identifying, cataloging, and preparing resources in a temperate forest environment with high potential for survival preparation",
+            "environmental_adaptation": "Enhanced ability to adjust to changing environmental conditions, tracking shifts in temperature, wildlife activity, and resource availability",
+            "foraging_strategy": "Developing skill in identifying and collecting edible plants during early spring, understanding seasonal food availability patterns"
+        },
+        {
+            "comprehensive_survival_assessment": "Advanced skill of systematically evaluating entire wilderness environment, including terrain features, resource potential, wildlife patterns, shelter options, and personal survival preparedness",
+            "resource_mapping": "Skill of creating detailed mental or physical inventory of available resources, precise location tracking, and strategic planning for future utilization",
+            "wilderness_survey_technique": "Methodical approach to exploring and documenting environmental characteristics, movement patterns of wildlife, and potential survival opportunities in a temperate forest setting"
+        },
+        {
+            "water_procurement": "Direct collection of clean river water using hands or improvised containers, understanding potable water sources in wilderness environments",
+            "shelter_construction": "Basic shelter creation using natural elements like tree clusters and rock overhangs, understanding protective positioning",
+            "foraging_technique": "Identifying and collecting spring shoots and wild berries, with careful verification of edibility",
+            "tool_creation": "Crafting basic defensive and utility tools from wood, such as walking sticks and simple spears",
+            "wildlife_awareness": "Developing skill in observing and understanding animal behavior and movement patterns, maintaining low-impact presence",
+            "resource_conservation": "Systematic approach to gathering resources while minimizing environmental disruption, tracking changes in resource availability"
+        },
+        {
+            "water_management": "Advanced skill of proactively collecting water from a clean river source, understanding water quality and accessibility",
+            "strategic_foraging": "Refined ability to carefully gather emerging spring shoots and sparse wild berries, adapting to changing food availability",
+            "shelter_reinforcement": "Improved technique for maintaining and strengthening existing natural shelter, particularly near rock overhangs",
+            "resource_conservation_advanced": "Enhanced skill of strategic resource collection, balancing immediate needs with long-term survival preparedness",
+            "wildlife_observation_refined": "Developed more nuanced approach to observing wildlife, maintaining low-impact presence while tracking animal behavior changes"
+        },
+        {
+            "resource_depletion_awareness": "Emerging skill of recognizing and anticipating resource exhaustion in a specific wilderness environment, understanding ecosystem limitations and necessary adaptation strategies",
+            "long_term_survival_planning": "Advanced understanding of tracking environmental changes, predicting resource scarcity, and developing proactive strategies for continued wilderness survival",
+            "ecosystem_impact_assessment": "Developing skill in recognizing how sustained human presence affects local wildlife behavior and resource availability"
+        },
+        {
+            "resource_depletion_strategy": "Advanced understanding of how continuous resource extraction impacts a localized ecosystem, recognizing the need to modify survival approach when resources become critically scarce",
+            "high_tension_environment_navigation": "Skill of maintaining survival preparedness in an increasingly dangerous wilderness setting with heightened wildlife alert and minimal resources",
+            "adaptive_survival_planning": "Ability to rapidly reassess and modify survival strategy when environmental conditions become increasingly challenging, focusing on conservation and minimal ecosystem disruption"
+        },
+        {
+            "extreme_environment_survival": "Advanced skill of maintaining survival capabilities in critically depleted landscape with maximum survival threat, focusing on comprehensive adaptation strategies",
+            "ecosystem_collapse_response": "Emerging skill of recognizing and responding to total ecological shutdown, developing immediate migration and survival tactics",
+            "resource_exhaustion_management": "Critical skill of maintaining survival preparedness when all resources are completely depleted, requiring rapid strategic recalibration",
+            "high_risk_environment_assessment": "Advanced ability to rapidly evaluate maximum danger level environments, tracking immediate survival threats and potential migration paths"
+        },
+        {
+            "extreme_environment_survival_advanced": "Critical skill of maintaining survival capabilities in a catastrophically depleted landscape with maximum existential threat, requiring comprehensive adaptive strategies and immediate migration planning",
+            "survival_migration_strategy": "Developed skill of executing emergency relocation in an environment with absolute resource depletion, focusing on minimizing exposure and preserving remaining physical capabilities",
+            "ecosystem_collapse_navigation": "Advanced ability to recognize and navigate through a completely terminated ecological system, understanding total resource extinction and implementing emergency survival protocols",
+            "critical_resource_assessment": "Refined skill of rapidly evaluating environmental conditions where all survival resources have been completely exhausted, enabling quick strategic decision-making"
+        }
+    ]
+}

@@ -1,0 +1,657 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "day": 0,
+            "notes": []
+        },
+        {
+            "day": 1,
+            "notes": [
+                {
+                    "terrain": "Mixed temperate forest with rolling hills and a clear river meandering through",
+                    "temperature": 12,
+                    "weather": "Clear morning, slight morning mist",
+                    "food_availability": "Early spring vegetation, some wild onions, sparse berry bushes",
+                    "water_availability": "Clean, flowing river with good drinking water",
+                    "shelter_options": "Dense tree clusters, potential rock overhangs",
+                    "wildlife": "Deer tracks, small rodents, occasional hawk overhead",
+                    "danger_level": "Low, but potential predators like wolves or mountain lions exist",
+                    "season": "Early spring",
+                    "time_of_day": "Early morning",
+                    "resources": {
+                        "wood": "Abundant",
+                        "edible_plants": "Limited",
+                        "potential_hunting": "Moderate"
+                    },
+                    "terrain_challenges": "Uneven ground, some rocky areas, dense undergrowth"
+                },
+                {
+                    "day": 1,
+                    "terrain": "Mixed temperate forest with rolling hills and a clear river meandering through",
+                    "temperature": 13,
+                    "weather": "Clear morning, mist starting to dissipate",
+                    "food_availability": "Early spring vegetation becoming slightly more visible",
+                    "water_availability": "Clean river water, slightly warmed by morning sun",
+                    "shelter_options": "Tree clusters and rock overhangs remain accessible",
+                    "wildlife": "Deer tracks more pronounced, rodents becoming active",
+                    "danger_level": "Low to moderate",
+                    "season": "Early spring",
+                    "time_of_day": "Mid-morning",
+                    "resources": {
+                        "wood": "Abundant",
+                        "edible_plants": "Slightly increased",
+                        "potential_hunting": "Moderate"
+                    },
+                    "terrain_challenges": "Uneven ground, rocky areas becoming more visible",
+                    "notes_for_future": {
+                        "wildlife_alert": "Increased animal movement as morning progresses",
+                        "resource_change": "Natural progression of early spring vegetation growth",
+                        "environmental_shift": "Temperature gradually rising, mist clearing"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "notes": [
+                {
+                    "terrain": "Mixed temperate forest with rolling hills and a clear river",
+                    "temperature": 15,
+                    "weather": "Clear sky, slight morning breeze",
+                    "season": "Early spring",
+                    "time_of_day": "Late morning",
+                    "food_availability": {
+                        "edible_plants": "Young spring shoots emerging",
+                        "wild_game": "Deer and small rodents becoming more active",
+                        "foraging_potential": "Moderate"
+                    },
+                    "water_availability": {
+                        "river_status": "Clear, flowing steadily",
+                        "water_quality": "Clean and accessible"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Tree clusters, rock overhangs",
+                        "protection_level": "Good"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer, small rodents",
+                        "birds": "Active morning chirping",
+                        "predator_presence": "Low"
+                    },
+                    "danger_level": "Low",
+                    "resources": {
+                        "wood": "Abundant",
+                        "potential_tools": "Moderate",
+                        "potential_fire_making": "High"
+                    }
+                },
+                {
+                    "day": 2,
+                    "terrain": "Mixed temperate forest with rolling hills and a clear river",
+                    "temperature": 16,
+                    "weather": "Clear sky, increasing afternoon warmth",
+                    "season": "Early spring",
+                    "time_of_day": "Early afternoon",
+                    "food_availability": {
+                        "edible_plants": "More spring shoots visible, increased variety",
+                        "wild_game": "Deer becoming more predictable, small rodents abundant",
+                        "foraging_potential": "High"
+                    },
+                    "water_availability": {
+                        "river_status": "Clear, steady flow",
+                        "water_quality": "Clean, slightly warmer",
+                        "accessibility": "Excellent"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Tree clusters, rock overhangs, more areas explored",
+                        "protection_level": "Very good"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds more visible, increased rodent activity",
+                        "birds": "Midday chirping, some predatory birds circling",
+                        "predator_presence": "Low to moderate"
+                    },
+                    "danger_level": "Low",
+                    "resources": {
+                        "wood": "Well-organized wood collection",
+                        "potential_tools": "High",
+                        "potential_fire_making": "Very high",
+                        "gathered_materials": "Initial survival kit established"
+                    },
+                    "notes_for_future": {
+                        "wildlife_alert": "Increasing animal movement, potential hunting opportunities",
+                        "resource_change": "Resources systematically cataloged and prepared",
+                        "environmental_shift": "Gradual warming, more daylight hours",
+                        "agent_preparedness": "High survival readiness"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "notes": [
+                {
+                    "terrain": "Mixed temperate forest with rolling hills, dense tree clusters and a clear river nearby",
+                    "temperature": 17,
+                    "weather": "Sunny with light afternoon breeze",
+                    "season": "Early spring, increasing warmth",
+                    "time_of_day": "Mid-afternoon",
+                    "food_availability": {
+                        "edible_plants": "Spring shoots abundant, wild berries emerging",
+                        "wild_game": "Deer herds visible, small rodents active",
+                        "foraging_potential": "High"
+                    },
+                    "water_availability": {
+                        "river_status": "Clear, steady flow, easily accessible",
+                        "water_quality": "Clean and potable",
+                        "accessibility": "Excellent"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Multiple tree clusters, rock overhangs, cave-like formations",
+                        "protection_level": "Very good"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds, small rodents, occasional rabbit movement",
+                        "birds": "Active midday chirping, some predatory birds overhead",
+                        "predator_presence": "Low"
+                    },
+                    "danger_level": "Low",
+                    "resources": {
+                        "wood": "Abundant, easy to collect",
+                        "potential_tools": "High",
+                        "potential_fire_making": "Very high"
+                    }
+                },
+                {
+                    "day": 3,
+                    "terrain": "Mixed temperate forest with rolling hills, dense tree clusters and a clear river nearby",
+                    "temperature": 17,
+                    "weather": "Sunny with light afternoon breeze",
+                    "season": "Early spring, increasing warmth",
+                    "time_of_day": "Mid-afternoon",
+                    "food_availability": {
+                        "edible_plants": "Spring shoots abundant, wild berries emerging",
+                        "wild_game": "Deer herds visible, small rodents active",
+                        "foraging_potential": "High",
+                        "assessment_impact": "Comprehensive survey completed, resource mapping initiated"
+                    },
+                    "water_availability": {
+                        "river_status": "Clear, steady flow, easily accessible",
+                        "water_quality": "Clean and potable",
+                        "accessibility": "Excellent",
+                        "initial_survey_effect": "Water sources precisely located and evaluated"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Multiple tree clusters, rock overhangs, cave-like formations",
+                        "protection_level": "Very good",
+                        "survey_outcome": "Potential shelter locations systematically mapped"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds, small rodents, occasional rabbit movement",
+                        "birds": "Active midday chirping, some predatory birds overhead",
+                        "predator_presence": "Low",
+                        "movement_pattern": "Slightly more cautious due to human presence"
+                    },
+                    "danger_level": "Low",
+                    "resources": {
+                        "wood": "Abundant, easy to collect",
+                        "potential_tools": "High",
+                        "potential_fire_making": "Very high",
+                        "survey_result": "Comprehensive resource inventory initiated"
+                    },
+                    "notes_for_future": {
+                        "wildlife_alert": "Animals becoming aware of human exploration, slight behavioral adjustment",
+                        "resource_change": "Initial systematic resource mapping completed",
+                        "environmental_shift": "Continued gradual warming, increasing daylight",
+                        "agent_preparedness": "Strategic assessment phase completed, ready for next survival stage"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "notes": [
+                {
+                    "terrain": "Dense temperate forest with rolling hills, river nearby",
+                    "temperature": 18,
+                    "weather": "Partly sunny, light morning breeze",
+                    "season": "Early spring, warming trend continuing",
+                    "time_of_day": "Early morning",
+                    "food_availability": {
+                        "edible_plants": "Spring shoots, emerging wild berries",
+                        "wild_game": "Deer herds, small rodents active",
+                        "foraging_potential": "High"
+                    },
+                    "water_availability": {
+                        "river_status": "Clear, steady flow, easily accessible",
+                        "water_quality": "Clean and potable"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Multiple tree clusters, rock overhangs, cave-like formations",
+                        "protection_level": "Very good"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds, small rodents, rabbits",
+                        "birds": "Active morning chirping, some predatory birds",
+                        "predator_presence": "Low"
+                    },
+                    "danger_level": "Low",
+                    "resources": {
+                        "wood": "Abundant, easy to collect",
+                        "potential_tools": "High",
+                        "potential_fire_making": "Very high"
+                    }
+                },
+                {
+                    "terrain": "Dense temperate forest with rolling hills, river nearby",
+                    "temperature": 18,
+                    "weather": "Partly sunny, light morning breeze",
+                    "season": "Early spring, warming trend continuing",
+                    "food_availability": {
+                        "edible_plants": "Spring shoots partially foraged, fewer wild berries remaining",
+                        "wild_game": "Deer herds slightly more cautious, rodent activity reduced",
+                        "foraging_potential": "Moderate"
+                    },
+                    "water_availability": {
+                        "river_status": "Clear, steady flow, water level slightly lowered from collection",
+                        "water_quality": "Clean, minimal human impact"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Tree cluster near rock overhang now partially modified for basic shelter",
+                        "protection_level": "Good"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds maintaining distance, rodents more alert",
+                        "birds": "Reduced morning chirping, increased wariness",
+                        "predator_presence": "Low, but heightened awareness"
+                    },
+                    "danger_level": "Low to Moderate",
+                    "resources": {
+                        "wood": "Reduced in immediate area, some collected for tools",
+                        "potential_tools": "Moderate",
+                        "potential_fire_making": "High"
+                    },
+                    "notes_for_future": {
+                        "wildlife_alert": "Animals becoming more cautious of human presence",
+                        "resource_change": "Initial resource gathering has begun, slight ecosystem disruption",
+                        "environmental_shift": "Continued gradual warming, human impact beginning to show"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "notes": [
+                {
+                    "terrain": "Dense temperate forest with rolling hills, river nearby",
+                    "temperature": 19,
+                    "weather": "Clear sky, mild morning with gentle breeze",
+                    "season": "Early spring, warming continuing",
+                    "food_availability": {
+                        "edible_plants": "Emerging spring shoots, sparse wild berries",
+                        "wild_game": "Cautious deer herds, reduced rodent activity",
+                        "foraging_potential": "Moderate"
+                    },
+                    "water_availability": {
+                        "river_status": "Clear, steady flow, water level slightly lower",
+                        "water_quality": "Clean, potable"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Improved tree cluster shelter near rock overhang",
+                        "protection_level": "Good"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds maintaining cautious distance",
+                        "birds": "Reduced morning activity, increased alertness",
+                        "predator_presence": "Low"
+                    },
+                    "danger_level": "Low",
+                    "resources": {
+                        "wood": "Limited in immediate area, some previously collected",
+                        "potential_tools": "Moderate",
+                        "potential_fire_making": "High"
+                    }
+                },
+                {
+                    "day": 6,
+                    "terrain": "Dense temperate forest with rolling hills, river nearby",
+                    "temperature": 20,
+                    "weather": "Clear sky, slight increase in morning warmth",
+                    "season": "Early spring, continuing warming trend",
+                    "food_availability": {
+                        "edible_plants": "Slightly reduced spring shoots, fewer wild berries",
+                        "wild_game": "Deer herds becoming more cautious, minimal rodent activity",
+                        "foraging_potential": "Moderate to Low"
+                    },
+                    "water_availability": {
+                        "river_status": "Clear flow, noticeably lower water level",
+                        "water_quality": "Clean, potable, but showing signs of recent collection",
+                        "accessibility": "Good"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Reinforced tree cluster shelter near rock overhang",
+                        "protection_level": "Good, with improved structural integrity"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds increasingly wary, maintaining significant distance",
+                        "birds": "Minimal morning activity, heightened alertness",
+                        "predator_presence": "Low, but increasing environmental tension"
+                    },
+                    "danger_level": "Low to Moderate",
+                    "resources": {
+                        "wood": "Reduced, strategic collection evident",
+                        "potential_tools": "Moderate",
+                        "potential_fire_making": "Moderate"
+                    },
+                    "notes_for_future": {
+                        "wildlife_alert": "Increasing animal wariness due to human presence",
+                        "resource_change": "Gradual depletion of immediate resources, need for broader foraging",
+                        "environmental_shift": "Continued warming, slight ecosystem disruption from human activity"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 6,
+            "notes": [
+                {
+                    "terrain": "Dense temperate forest with rolling hills, river cutting through landscape",
+                    "temperature": 22,
+                    "weather": "Clear sky, mild morning with gentle breeze",
+                    "season": "Early spring, warming trend continuing",
+                    "food_availability": {
+                        "wild_plants": "Sparse spring shoots, limited wild berry patches",
+                        "game": "Deer herds becoming increasingly cautious",
+                        "foraging_potential": "Low to Moderate"
+                    },
+                    "water_availability": {
+                        "river_condition": "Clear flow, water level slightly reduced",
+                        "water_quality": "Clean and potable",
+                        "accessibility": "Good"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Reinforced tree cluster shelter near rock overhang",
+                        "protection_level": "Good, structurally sound"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds maintaining significant distance",
+                        "birds": "Minimal morning activity, heightened alertness",
+                        "predator_presence": "Low, but environmental tension increasing"
+                    },
+                    "danger_level": "Low to Moderate",
+                    "resources": {
+                        "wood": "Limited, strategically collected",
+                        "tool_potential": "Moderate",
+                        "fire_making_potential": "Moderate"
+                    }
+                },
+                {
+                    "day": 7,
+                    "terrain": "Dense temperate forest with rolling hills, river cutting through landscape",
+                    "temperature": 23,
+                    "weather": "Clear sky, warming trend continues",
+                    "season": "Early spring, progressing",
+                    "food_availability": {
+                        "wild_plants": "Very sparse spring shoots, extremely limited wild berry patches",
+                        "game": "Deer herds becoming extremely cautious, actively avoiding human presence",
+                        "foraging_potential": "Low"
+                    },
+                    "water_availability": {
+                        "river_condition": "Clear flow, water level noticeably reduced",
+                        "water_quality": "Clean but showing signs of repeated collection",
+                        "accessibility": "Moderate"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Reinforced tree cluster shelter near rock overhang",
+                        "protection_level": "Good, but resources for maintenance becoming scarce"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds significantly distanced, minimal movement",
+                        "birds": "Extremely minimal activity, high alert state",
+                        "predator_presence": "Increasing tension, potential predatory interest"
+                    },
+                    "danger_level": "Moderate",
+                    "resources": {
+                        "wood": "Critically limited, most accessible sources depleted",
+                        "tool_potential": "Declining",
+                        "fire_making_potential": "Reduced"
+                    },
+                    "notes_for_future": {
+                        "wildlife_alert": "Animals showing significant behavioral changes due to sustained human presence",
+                        "resource_change": "Immediate area resources nearly exhausted, urgent need for expanded foraging range",
+                        "environmental_shift": "Ecosystem showing early signs of human impact, resources becoming scarce"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 7,
+            "notes": [
+                {
+                    "terrain": "Dense temperate forest with rolling hills, river cutting through landscape",
+                    "temperature": 24,
+                    "weather": "Clear sky, slight breeze",
+                    "season": "Early spring, progressing",
+                    "food_availability": {
+                        "wild_plants": "Very sparse spring shoots, extremely limited wild berry patches",
+                        "game": "Deer herds extremely cautious, avoiding human presence",
+                        "foraging_potential": "Low"
+                    },
+                    "water_availability": {
+                        "river_condition": "Clear flow, water level reduced",
+                        "water_quality": "Clean but showing signs of repeated collection",
+                        "accessibility": "Moderate"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Reinforced tree cluster shelter near rock overhang",
+                        "protection_level": "Good, but maintenance resources becoming scarce"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds significantly distanced, minimal movement",
+                        "birds": "Extremely minimal activity, high alert state",
+                        "predator_presence": "Increasing tension, potential predatory interest"
+                    },
+                    "danger_level": "Moderate to High",
+                    "resources": {
+                        "wood": "Critically limited, most accessible sources depleted",
+                        "tool_potential": "Declining",
+                        "fire_making_potential": "Reduced"
+                    }
+                },
+                {
+                    "terrain": "Dense temperate forest with rolling hills, river cutting through landscape",
+                    "temperature": 24,
+                    "weather": "Clear sky, slight breeze",
+                    "food_availability": {
+                        "wild_plants": "Extremely sparse spring shoots, minimal berry patches",
+                        "game": "Deer herds becoming even more cautious and distant",
+                        "foraging_potential": "Very Low"
+                    },
+                    "water_availability": {
+                        "river_condition": "Water level further reduced",
+                        "water_quality": "Clean but showing increased signs of collection",
+                        "accessibility": "Moderate to Challenging"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Tree cluster shelter near rock overhang, showing early signs of resource strain",
+                        "protection_level": "Good, but maintenance becoming increasingly difficult"
+                    },
+                    "wildlife": {
+                        "mammals": "Deer herds now extremely distant, almost completely avoiding area",
+                        "birds": "Near-complete cessation of activity, extreme alert state",
+                        "predator_presence": "High tension, increased potential for predatory movement"
+                    },
+                    "danger_level": "High",
+                    "resources": {
+                        "wood": "Critically depleted, almost no accessible sources",
+                        "tool_potential": "Severely declining",
+                        "fire_making_potential": "Very Low"
+                    },
+                    "notes_for_future": {
+                        "wildlife_alert": "Ecosystem showing significant stress from sustained human presence",
+                        "resource_change": "Immediate environment nearly resource-exhausted",
+                        "environmental_shift": "Ecosystem entering critical resource scarcity phase",
+                        "survival_recommendation": "Urgent need to explore new territory or dramatically change survival strategy"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 8,
+            "notes": [
+                {
+                    "terrain": "Transitional forest landscape with diminishing resources, rolling hills becoming more sparse",
+                    "temperature": 22,
+                    "weather": "Clear sky, dry conditions with increasing heat stress",
+                    "food_availability": {
+                        "wild_plants": "Extremely limited spring shoots, near-total depletion",
+                        "game": "Virtually no accessible wildlife, herds completely withdrawn",
+                        "foraging_potential": "Critical Low"
+                    },
+                    "water_availability": {
+                        "river_condition": "Significantly reduced water level, becoming stagnant",
+                        "water_quality": "Marginal, requiring intense purification",
+                        "accessibility": "Challenging and increasingly risky"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Deteriorating tree cluster near rock overhang, structural integrity compromised",
+                        "protection_level": "Minimal, urgent relocation recommended"
+                    },
+                    "wildlife": {
+                        "mammals": "Complete absence of deer herds",
+                        "birds": "Total ecological silence, extreme environmental stress",
+                        "predator_presence": "High potential for opportunistic predation"
+                    },
+                    "danger_level": "Extreme",
+                    "resources": {
+                        "wood": "Completely exhausted",
+                        "tool_potential": "None",
+                        "fire_making_potential": "Zero"
+                    }
+                },
+                {
+                    "terrain": "Critically depleted transitional landscape with severe resource scarcity",
+                    "temperature": 23,
+                    "weather": "Extremely dry, heat stress intensifying",
+                    "food_availability": {
+                        "wild_plants": "Near-total depletion, zero viable foraging potential",
+                        "game": "Complete wildlife withdrawal, zero accessible food sources",
+                        "foraging_potential": "Critically Catastrophic"
+                    },
+                    "water_availability": {
+                        "river_condition": "Water level critically low, approaching complete stagnation",
+                        "water_quality": "Extremely marginal, potential contamination",
+                        "accessibility": "Extremely high risk"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Total structural failure of previous shelter, zero protection",
+                        "protection_level": "Absolute Minimum"
+                    },
+                    "wildlife": {
+                        "mammals": "Total ecosystem collapse",
+                        "birds": "Complete ecological silence",
+                        "predator_presence": "Extreme opportunistic predation risk"
+                    },
+                    "danger_level": "Maximum Survival Threat",
+                    "notes_for_future": {
+                        "wildlife_alert": "Ecosystem has entered complete survival shutdown",
+                        "resource_change": "Absolute resource exhaustion, immediate migration critical",
+                        "environmental_shift": "Transitioning from resource scarcity to potential total environmental collapse"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 9,
+            "notes": [
+                {
+                    "terrain": "Arid transitional landscape with sparse vegetation, showing signs of severe ecological stress",
+                    "temperature": 35,
+                    "weather": "Extremely hot, dry, with intense solar radiation",
+                    "food_availability": {
+                        "wild_plants": "Extremely limited, only sparse, dried vegetation",
+                        "game": "No visible wildlife, ecosystem critically depleted",
+                        "foraging_potential": "Near-zero"
+                    },
+                    "water_availability": {
+                        "river_condition": "Reduced to a small, muddy stream with stagnant pools",
+                        "water_quality": "Highly contaminated, potential bacterial growth",
+                        "accessibility": "Extremely dangerous, risk of dehydration high"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Minimal rock formations, no tree cover, extreme exposure",
+                        "protection_level": "Critical vulnerability"
+                    },
+                    "wildlife": {
+                        "mammals": "Complete absence of observable wildlife",
+                        "birds": "No avian activity detected",
+                        "predator_presence": "Potential opportunistic predation due to resource scarcity"
+                    },
+                    "danger_level": "Extreme Survival Emergency",
+                    "survival_priority": "Immediate water and shelter acquisition"
+                },
+                {
+                    "terrain": "Arid transitional landscape with near-total ecological collapse",
+                    "temperature": 38,
+                    "weather": "Extreme heat, scorching solar radiation, zero cloud cover",
+                    "food_availability": {
+                        "wild_plants": "Completely dried, crumbling vegetation",
+                        "game": "Zero observable wildlife",
+                        "foraging_potential": "Absolute Zero"
+                    },
+                    "water_availability": {
+                        "river_condition": "Muddy stagnant pools rapidly evaporating",
+                        "water_quality": "Critically contaminated, high bacterial risk",
+                        "accessibility": "Extreme survival threat"
+                    },
+                    "shelter_options": {
+                        "natural_cover": "Minimal rock formations, total solar exposure",
+                        "protection_level": "Catastrophic vulnerability"
+                    },
+                    "wildlife": {
+                        "mammals": "Complete ecosystem extinction",
+                        "birds": "No detectable life signs",
+                        "predator_presence": "Zero, ecosystem dead"
+                    },
+                    "danger_level": "Maximum Existential Threat",
+                    "notes_for_future": {
+                        "wildlife_alert": "Total ecological system failure",
+                        "resource_change": "Absolute resource depletion, migration imperative",
+                        "environmental_shift": "Transitioning from survival zone to potential death landscape"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 10,
+            "notes": [
+                {
+                    "terrain": "Extreme arid landscape with minimal geological features",
+                    "temperature": 42,
+                    "weather": "Extreme heat wave, direct intense solar radiation",
+                    "food_availability": "No viable food sources detected",
+                    "water_availability": "Critical water scarcity, contaminated stagnant pools",
+                    "shelter_options": "Minimal rock formations offering negligible protection",
+                    "wildlife": "Complete ecosystem collapse, zero life signs",
+                    "danger_level": "Extreme Existential Risk - Immediate Survival Threat"
+                },
+                {
+                    "terrain": "Extreme arid landscape with minimal geological features",
+                    "temperature": 45,
+                    "weather": "Extreme heat wave, direct intense solar radiation",
+                    "food_availability": "Zero viable food sources",
+                    "water_availability": "Critical water scarcity, contaminated stagnant pools completely evaporated",
+                    "shelter_options": "No protective geological formations remaining",
+                    "wildlife": "Total ecosystem extinction confirmed",
+                    "danger_level": "Maximum Existential Threat",
+                    "notes_for_future": {
+                        "wildlife_alert": "Complete ecological death, zero survival potential in current location",
+                        "resource_change": "Absolute resource depletion, migration becomes survival-critical",
+                        "environmental_shift": "Transitioning from survival landscape to potential complete environmental collapse"
+                    }
+                }
+            ]
+        }
+    ]
+}
