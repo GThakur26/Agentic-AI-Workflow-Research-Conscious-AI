@@ -1,1 +1,186 @@
-{"metadata": "", "data": [{"visual_observations": [{"description": "Barren plains with scattered rocks under overcast skies and strong winds. Sparse vegetation observed, offering little nutritional value. No immediate water sources visible. Wildlife is scarce, though occasional insects are present. Danger level is high due to exposure to elements and lack of resources.", "priority": "High", "categories": ["Environment", "Threat"]}, {"description": "Improvised shelter created using scattered rocks for minimal cover against wind and cold.", "priority": "High", "categories": ["Shelter"]}, {"description": "Presence of insects suggesting potential underground moisture, despite no visible water sources.", "priority": "Medium", "categories": ["Food", "Water"]}]}, {"visual_observations": [{"description": "Barren plains with scattered rocks under overcast skies and strong winds. Sparse vegetation observed, offering little nutritional value. No immediate water sources visible. Wildlife is scarce, though occasional insects are present. Danger level is high due to exposure to elements and lack of resources.", "priority": "High", "categories": ["Environment", "Threat"]}, {"description": "Improvised shelter created using scattered rocks for minimal cover against wind and cold.", "priority": "High", "categories": ["Shelter"]}, {"description": "Presence of insects suggesting potential underground moisture, despite no visible water sources.", "priority": "Medium", "categories": ["Food", "Water"]}, {"description": "Improvised shelter with scattered rocks now provides some wind protection, though still not fully secure. Consider additional fortification if materials become available.", "priority": "High", "categories": ["Shelter"]}, {"description": "Continued strong winds and overcast conditions observed, possible further temperature drop expected. Monitor for signs of environmental shift.", "priority": "High", "categories": ["Environment", "Weather"]}]}, {"visual_observations": [{"description": "Barren plains with scattered rocks under overcast skies and strong winds. Sparse vegetation observed, offering little nutritional value. No immediate water sources visible. Wildlife is scarce, though occasional insects are present. Danger level is high due to exposure to elements and lack of resources.", "priority": "High", "categories": ["Environment", "Threat"]}, {"description": "Enhanced rock shelter now provides moderate protection from wind, improving survival prospects.", "priority": "High", "categories": ["Shelter"]}, {"description": "Limited underground moisture found in areas with insect activity, but not sufficient for long-term survival. Presence of birds suggests a water source might be nearby.", "priority": "High", "categories": ["Water"]}, {"description": "Frequent snow flurries observed, worsening weather conditions. Slight drop in temperature noted.", "priority": "High", "categories": ["Environment", "Weather"]}]}, [{"visual_observations": [{"description": "Barren plains with rocky outcrops under overcast skies and strong winds. Sparse vegetation present, offering minimal nutritional value. Increased bird and insect activity noted, suggesting proximity to a potential water source. Danger level remains high due to exposure risks.", "priority": "High", "categories": ["Environment", "Threat", "Water"]}, {"description": "Enhanced rocky outcrop shelter with additional fortification using gathered materials, now providing improved protection against strong winds and snow flurries.", "priority": "High", "categories": ["Shelter"]}, {"description": "Bird and insect activity indicates potential nearby water source. Limited moisture traces on rocks, signaling possible underground water presence.", "priority": "High", "categories": ["Water"]}, {"description": "Continued overcast conditions with strong winds and snow flurries. Temperature remains low, with potential for further weather deterioration.", "priority": "High", "categories": ["Environment", "Weather"]}]}], {"visual_observations": [{"description": "Barren plains with rocky outcrops under intensified snowstorm and stronger winds, further increasing exposure risk.", "priority": "High", "categories": ["Environment", "Threat"]}, {"description": "Enhanced rocky shelter now offers improved protection against the intensified snowstorm, utilizing additional rocks and dry grass for insulation.", "priority": "High", "categories": ["Shelter"]}, {"description": "Increased bird and insect activity near the shelter suggests potential access to underground water sources, despite snow accumulation.", "priority": "High", "categories": ["Water"]}, {"description": "Minimal food availability with slightly increased insect activity due to the proximity of the shelter.", "priority": "Medium", "categories": ["Food"]}, {"description": "Notes for future: Enhanced shelter fortification reduces exposure risk, though food and water remain scarce. Be alert to environmental shifts as snow accumulation may impact mobility and resource accessibility.", "priority": "Critical", "categories": ["Environment", "Strategy"]}]}]}
+{
+    "metadata": "",
+    "data": [
+        {
+            "visual_observations": [
+                {
+                    "description": "Barren plains with scattered rocks under overcast skies and strong winds. Sparse vegetation observed, offering little nutritional value. No immediate water sources visible. Wildlife is scarce, though occasional insects are present. Danger level is high due to exposure to elements and lack of resources.",
+                    "priority": "High",
+                    "categories": [
+                        "Environment",
+                        "Threat"
+                    ]
+                },
+                {
+                    "description": "Improvised shelter created using scattered rocks for minimal cover against wind and cold.",
+                    "priority": "High",
+                    "categories": [
+                        "Shelter"
+                    ]
+                },
+                {
+                    "description": "Presence of insects suggesting potential underground moisture, despite no visible water sources.",
+                    "priority": "Medium",
+                    "categories": [
+                        "Food",
+                        "Water"
+                    ]
+                }
+            ]
+        },
+        {
+            "visual_observations": [
+                {
+                    "description": "Barren plains with scattered rocks under overcast skies and strong winds. Sparse vegetation observed, offering little nutritional value. No immediate water sources visible. Wildlife is scarce, though occasional insects are present. Danger level is high due to exposure to elements and lack of resources.",
+                    "priority": "High",
+                    "categories": [
+                        "Environment",
+                        "Threat"
+                    ]
+                },
+                {
+                    "description": "Improvised shelter created using scattered rocks for minimal cover against wind and cold.",
+                    "priority": "High",
+                    "categories": [
+                        "Shelter"
+                    ]
+                },
+                {
+                    "description": "Presence of insects suggesting potential underground moisture, despite no visible water sources.",
+                    "priority": "Medium",
+                    "categories": [
+                        "Food",
+                        "Water"
+                    ]
+                },
+                {
+                    "description": "Improvised shelter with scattered rocks now provides some wind protection, though still not fully secure. Consider additional fortification if materials become available.",
+                    "priority": "High",
+                    "categories": [
+                        "Shelter"
+                    ]
+                },
+                {
+                    "description": "Continued strong winds and overcast conditions observed, possible further temperature drop expected. Monitor for signs of environmental shift.",
+                    "priority": "High",
+                    "categories": [
+                        "Environment",
+                        "Weather"
+                    ]
+                }
+            ]
+        },
+        {
+            "visual_observations": [
+                {
+                    "description": "Barren plains with scattered rocks under overcast skies and strong winds. Sparse vegetation observed, offering little nutritional value. No immediate water sources visible. Wildlife is scarce, though occasional insects are present. Danger level is high due to exposure to elements and lack of resources.",
+                    "priority": "High",
+                    "categories": [
+                        "Environment",
+                        "Threat"
+                    ]
+                },
+                {
+                    "description": "Enhanced rock shelter now provides moderate protection from wind, improving survival prospects.",
+                    "priority": "High",
+                    "categories": [
+                        "Shelter"
+                    ]
+                },
+                {
+                    "description": "Limited underground moisture found in areas with insect activity, but not sufficient for long-term survival. Presence of birds suggests a water source might be nearby.",
+                    "priority": "High",
+                    "categories": [
+                        "Water"
+                    ]
+                },
+                {
+                    "description": "Frequent snow flurries observed, worsening weather conditions. Slight drop in temperature noted.",
+                    "priority": "High",
+                    "categories": [
+                        "Environment",
+                        "Weather"
+                    ]
+                }
+            ]
+        },
+        [
+            {
+                "visual_observations": [
+                    {
+                        "description": "Barren plains with rocky outcrops under overcast skies and strong winds. Sparse vegetation present, offering minimal nutritional value. Increased bird and insect activity noted, suggesting proximity to a potential water source. Danger level remains high due to exposure risks.",
+                        "priority": "High",
+                        "categories": [
+                            "Environment",
+                            "Threat",
+                            "Water"
+                        ]
+                    },
+                    {
+                        "description": "Enhanced rocky outcrop shelter with additional fortification using gathered materials, now providing improved protection against strong winds and snow flurries.",
+                        "priority": "High",
+                        "categories": [
+                            "Shelter"
+                        ]
+                    },
+                    {
+                        "description": "Bird and insect activity indicates potential nearby water source. Limited moisture traces on rocks, signaling possible underground water presence.",
+                        "priority": "High",
+                        "categories": [
+                            "Water"
+                        ]
+                    },
+                    {
+                        "description": "Continued overcast conditions with strong winds and snow flurries. Temperature remains low, with potential for further weather deterioration.",
+                        "priority": "High",
+                        "categories": [
+                            "Environment",
+                            "Weather"
+                        ]
+                    }
+                ]
+            }
+        ],
+        {
+            "visual_observations": [
+                {
+                    "description": "Barren plains with rocky outcrops under intensified snowstorm and stronger winds, further increasing exposure risk.",
+                    "priority": "High",
+                    "categories": [
+                        "Environment",
+                        "Threat"
+                    ]
+                },
+                {
+                    "description": "Enhanced rocky shelter now offers improved protection against the intensified snowstorm, utilizing additional rocks and dry grass for insulation.",
+                    "priority": "High",
+                    "categories": [
+                        "Shelter"
+                    ]
+                },
+                {
+                    "description": "Increased bird and insect activity near the shelter suggests potential access to underground water sources, despite snow accumulation.",
+                    "priority": "High",
+                    "categories": [
+                        "Water"
+                    ]
+                },
+                {
+                    "description": "Minimal food availability with slightly increased insect activity due to the proximity of the shelter.",
+                    "priority": "Medium",
+                    "categories": [
+                        "Food"
+                    ]
+                },
+                {
+                    "description": "Notes for future: Enhanced shelter fortification reduces exposure risk, though food and water remain scarce. Be alert to environmental shifts as snow accumulation may impact mobility and resource accessibility.",
+                    "priority": "Critical",
+                    "categories": [
+                        "Environment",
+                        "Strategy"
+                    ]
+                }
+            ]
+        }
+    ]
+}

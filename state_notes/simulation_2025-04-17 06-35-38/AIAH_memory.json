@@ -1,1 +1,388 @@
-{"metadata": "", "data": [{"observation_1": {"description": "Rolling hills covered in patches of green grass and sparse woodlands with thin, scattered trees. The terrain rises and falls gently, offering a wide view of the surrounding area under a clear, sunny sky with a gentle breeze.", "location": "Starting area in rolling hills", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_2": {"description": "A small stream with clear, flowing water, producing a faint trickling sound. It cuts through the hills, visible from a short distance, and appears clean and accessible.", "location": "Near starting area in rolling hills", "priority": "Water source", "last_seen": "Current moment"}, "observation_3": {"description": "Scattered wild fruits on low branches and shrubs, some colorful and distinct in shape, though their edibility is uncertain. The quantity appears slightly reduced after foraging.", "location": "Throughout rolling hills", "priority": "Food source", "last_seen": "Current moment"}, "observation_4": {"description": "Natural overhangs in the hills and dense shrubs that could provide cover or temporary shelter. They look sturdy enough to protect against mild weather or hide from wildlife.", "location": "Scattered across rolling hills", "priority": "Shelter option", "last_seen": "Current moment"}, "observation_5": {"description": "Small herbivores like rabbits or deer and various birds moving through the area. They seem slightly disturbed by human presence, occasionally pausing or fleeing at sudden movements.", "location": "Throughout rolling hills and woodlands", "priority": "Wildlife", "last_seen": "Current moment"}}, {"observation_1": {"description": "Rolling hills covered in patches of green grass and sparse woodlands with thin, scattered trees. The terrain rises and falls gently, offering a wide view of the surrounding area under a clear, sunny sky with a gentle breeze.", "location": "Starting area in rolling hills", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_2": {"description": "A small stream with clear, flowing water, producing a faint trickling sound. It cuts through the hills, visible from a short distance, and appears mostly clean but slightly muddied near the banks due to recent activity.", "location": "Near starting area in rolling hills", "priority": "Water source", "last_seen": "Current moment"}, "observation_3": {"description": "Scattered wild fruits on low branches and shrubs, some colorful and distinct in shape, though their edibility is uncertain. The quantity is now very limited, almost fully depleted due to recent foraging.", "location": "Throughout rolling hills", "priority": "Food source", "last_seen": "Current moment"}, "observation_4": {"description": "Natural overhangs in the hills and dense shrubs that could provide cover or temporary shelter. One overhang is now occupied as a resting spot, appearing sturdy enough to protect against mild weather or hide from wildlife.", "location": "Scattered across rolling hills", "priority": "Shelter option", "last_seen": "Current moment"}, "observation_5": {"description": "Small herbivores like rabbits or deer and various birds moving through the area. They appear more wary due to continued human presence and movement near the stream, often pausing or fleeing at sudden movements.", "location": "Throughout rolling hills and woodlands", "priority": "Wildlife", "last_seen": "Current moment"}, "observation_6": {"description": "Signs of potential medium-sized predators in the area, though not directly visible. Their presence is sensed through heightened wariness of smaller animals and the possibility of being drawn to human scent near the stream.", "location": "Near stream and woodlands", "priority": "Threat", "last_seen": "Current moment"}}, {"observation_1": {"description": "Rolling hills covered in patches of green grass and sparse woodlands with thin, scattered trees. The terrain rises and falls gently, offering a wide view of the surrounding area under a clear, sunny sky with a gentle breeze.", "location": "Starting area in rolling hills", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_2": {"description": "A small stream with clear, flowing water, producing a faint trickling sound. It cuts through the hills, visible from a short distance, and appears mostly clean but increasingly muddied near the banks due to repeated activity.", "location": "Near starting area in rolling hills", "priority": "Water source", "last_seen": "Current moment"}, "observation_3": {"description": "Scattered wild fruits on low branches and shrubs, some colorful and distinct in shape, though their edibility is uncertain. The quantity is now fully depleted in the immediate vicinity due to prior foraging.", "location": "Throughout rolling hills", "priority": "Food source", "last_seen": "Current moment"}, "observation_4": {"description": "Natural overhangs in the hills and dense shrubs that could provide cover or temporary shelter. One overhang is occupied as a resting spot, appearing sturdy enough to protect against mild weather or hide from wildlife.", "location": "Scattered across rolling hills", "priority": "Shelter option", "last_seen": "Current moment"}, "observation_5": {"description": "Small herbivores like rabbits or deer and various birds moving through the area. They appear highly wary due to continued human presence near the stream, often pausing or fleeing at sudden movements.", "location": "Throughout rolling hills and woodlands", "priority": "Wildlife", "last_seen": "Current moment"}, "observation_6": {"description": "Signs of medium-sized predators near the stream, including fresh tracks indicating increased curiosity and proximity. Their presence is sensed through heightened wariness of smaller animals and the growing risk of encounter due to repeated human activity.", "location": "Near stream and woodlands", "priority": "Threat", "last_seen": "Current moment"}, "observation_7": {"description": "Occasional fish visible in the stream, slightly disturbed by human activity but still present. They move quickly in the clear water, potentially catchable with effort and the right approach.", "location": "Stream near starting area in rolling hills", "priority": "Food source", "last_seen": "Current moment"}}, {"observation_1": {"description": "Rolling hills covered in patches"}}, {"observation_1": {"description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.", "location": "Current area in dense woodlands", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_2": {"description": "Potential edible plants and insects in the small clearing, partially depleted due to recent foraging. Future searches in this specific area will yield less unless new spots are explored.", "location": "Small clearing in dense woodlands", "priority": "Food source", "last_seen": "Current moment"}, "observation_3": {"description": "Limited water availability with small puddles from recent dew scattered around. No major water source is visible nearby.", "location": "Dense woodlands", "priority": "Water source", "last_seen": "Current moment"}, "observation_4": {"description": "Thick tree cover and shrubs offering natural concealment and the possibility to build a hidden shelter using branches and leaves.", "location": "Dense woodlands", "priority": "Shelter option", "last_seen": "Current moment"}, "observation_5": {"description": "Small herbivores and birds present but slightly more wary due to foraging activity in the clearing. Rare sightings of medium-sized predators in the distance, with no immediate change in behavior.", "location": "Dense woodlands", "priority": "Wildlife", "last_seen": "Current moment"}, "observation_6": {"description": "Signs of potential medium-sized predators in the distance. Their presence remains distant for now, but slight disturbance in the clearing may draw attention over time if activity persists.", "location": "Dense woodlands", "priority": "Threat", "last_seen": "Current moment"}}, {"observation_1": {"description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.", "location": "Current area in dense woodlands", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_2": {"description": "Scarce edible plants and insects in the small clearing, further depleted due to repeated foraging. Exploration of new areas is critical for better yield.", "location": "Small clearing in dense woodlands", "priority": "Food source", "last_seen": "Current moment"}, "observation_3": {"description": "Limited water availability with small puddles from recent dew almost dried up in the clearing. A small trickle of water discovered in a nearby ravine, appearing clear and seemingly safe for now.", "location": "Dense woodlands and nearby ravine", "priority": "Water source", "last_seen": "Current moment"}, "observation_4": {"description": "Thick tree cover and shrubs offering natural concealment and the possibility to build a hidden shelter using branches and leaves, viable near the ravine.", "location": "Dense woodlands near ravine", "priority": "Shelter option", "last_seen": "Current moment"}, "observation_5": {"description": "Small herbivores and birds present but highly wary due to movement through woodlands and prior activity in the clearing. They react to subtle disturbances.", "location": "Dense woodlands", "priority": "Wildlife", "last_seen": "Current moment"}, "observation_6": {"description": "Signs of medium-sized predators in the distance, slightly more alert to subtle noises from exploration beyond the clearing. Their presence remains distant but poses a growing risk if activity persists.", "location": "Dense woodlands", "priority": "Threat", "last_seen": "Current moment"}}, {"observation_1": {"description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.", "location": "Current area in dense woodlands", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_2": {"description": "Scarce edible plants and insects in the small clearing, further depleted due to repeated foraging. Exploration of new areas is critical for better yield.", "location": "Small clearing in dense woodlands", "priority": "Food source", "last_seen": "Current moment"}, "observation_3": {"description": "Limited water availability with small puddles from recent dew fully dried up in the clearing. A small trickle of water in a nearby ravine, appearing clear and seemingly safe for now.", "location": "Dense woodlands and nearby ravine", "priority": "Water source", "last_seen": "Current moment"}, "observation_4": {"description": "Thick tree cover and shrubs offering natural concealment. A hidden shelter constructed near the ravine using branches and leaves, providing a secure resting spot.", "location": "Dense woodlands near ravine", "priority": "Shelter option", "last_seen": "Current moment"}, "observation_5": {"description": "Small herbivores and birds present but extremely wary due to prior activity and recent shelter construction near the ravine. They react strongly to subtle disturbances.", "location": "Dense woodlands", "priority": "Wildlife", "last_seen": "Current moment"}, "observation_6": {"description": "Signs of medium-sized predators in the distance, slightly more alert due to subtle noises and movement during shelter construction near the ravine. Their presence remains distant but poses a growing risk if activity persists.", "location": "Dense woodlands", "priority": "Threat", "last_seen": "Current moment"}, "observation_7": {"description": "Minor signs of disturbance near the ravine from shelter construction, including broken twigs and trampled undergrowth, slightly reducing natural concealment in the immediate area.", "location": "Near ravine in dense woodlands", "priority": "Key landmark", "last_seen": "Current moment"}}, {"observation_1": {"description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.", "location": "Current area in dense woodlands", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_2": {"description": "Scarce edible plants and insects in the small clearing, nearly depleted due to repeated foraging. Exploration of new areas is critical for better yield.", "location": "Small clearing in dense woodlands", "priority": "Food source", "last_seen": "Current moment"}, "observation_3": {"description": "A small trickle of water in a nearby ravine, appearing clear and seemingly safe for now. No other immediate water sources in the clearing.", "location": "Dense woodlands and nearby ravine", "priority": "Water source", "last_seen": "Current moment"}, "observation_4": {"description": "Thick tree cover and shrubs offering natural concealment. A hidden shelter constructed near the ravine using branches and leaves, providing a secure resting spot under dense cover.", "location": "Dense woodlands near ravine", "priority": "Shelter option", "last_seen": "Current moment"}, "observation_5": {"description": "Small herbivores and birds present but extremely wary due to prior activity and shelter construction near the ravine. They react strongly to subtle disturbances.", "location": "Dense woodlands", "priority": "Wildlife", "last_seen": "Current moment"}, "observation_6": {"description": "Signs of medium-sized predators in the distance, remaining distant with no significant increase in alertness due to minimal disturbance during rest. Their presence still poses a potential risk if activity increases.", "location": "Dense woodlands", "priority": "Threat", "last_seen": "Current moment"}, "observation_7": {"description": "Minor signs of disturbance near the ravine from shelter construction, including broken twigs and trampled undergrowth, slightly reducing natural concealment in the immediate area. No new disturbances observed during rest.", "location": "Near ravine in dense woodlands", "priority": "Key landmark", "last_seen": "Current moment"}}, {"observation_1": {"description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.", "location": "Current area in dense woodlands", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_2": {"description": "Scarce edible plants and insects in the small clearing, nearly depleted due to repeated foraging. Exploration of new areas is critical for better yield.", "location": "Small clearing in dense woodlands", "priority": "Food source", "last_seen": "Current moment"}, "observation_3": {"description": "A small trickle of water in a nearby ravine, appearing clear and seemingly safe for now. No other immediate water sources in the clearing.", "location": "Dense woodlands and nearby ravine", "priority": "Water source", "last_seen": "Current moment"}, "observation_4": {"description": "Thick tree cover and shrubs offering natural concealment. A hidden shelter constructed near the ravine using branches and leaves, providing a secure resting spot under dense cover.", "location": "Dense woodlands near ravine", "priority": "Shelter option", "last_seen": "Current moment"}, "observation_5": {"description": "Small herbivores and birds present but highly wary due to foraging activity in new areas beyond the ravine. They react strongly to subtle disturbances.", "location": "Dense woodlands", "priority": "Wildlife", "last_seen": "Current moment"}, "observation_6": {"description": "Signs of medium-sized predators in the distance, slightly more alert due to subtle disturbances during exploration beyond the ravine. Their presence remains distant but poses a growing risk if activity persists.", "location": "Dense woodlands", "priority": "Threat", "last_seen": "Current moment"}, "observation_7": {"description": "Minor signs of disturbance near the ravine from shelter construction, including broken twigs and trampled undergrowth, slightly reducing natural concealment in the immediate area. Additional minor disturbances observed beyond the ravine from cautious foraging.", "location": "Near ravine in dense woodlands", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_8": {"description": "Unexplored areas beyond the ravine with dense woodlands, showing minor signs of disturbance from cautious foraging. Moderate yield of edible plants and small rodents observed, though partially foraged and requiring continued caution for sustainability.", "location": "Beyond ravine in dense woodlands", "priority": "Food source", "last_seen": "Current moment"}}, {"observation_1": {"description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.", "location": "Current area in dense woodlands", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_2": {"description": "Scarce edible plants and insects in the small clearing, nearly depleted due to repeated foraging. Exploration of new areas is critical for better yield.", "location": "Small clearing in dense woodlands", "priority": "Food source", "last_seen": "Current moment"}, "observation_3": {"description": "A small trickle of water in a nearby ravine, appearing clear and seemingly safe for now. Slight disturbance near the water source from recent visit, with minor signs of trampled undergrowth.", "location": "Dense woodlands and nearby ravine", "priority": "Water source", "last_seen": "Current moment"}, "observation_4": {"description": "Thick tree cover and shrubs offering natural concealment. A hidden shelter constructed near the ravine using branches and leaves, providing a secure resting spot under dense cover.", "location": "Dense woodlands near ravine", "priority": "Shelter option", "last_seen": "Current moment"}, "observation_5": {"description": "Small herbivores and birds present but extremely wary due to recent foraging and movement near the ravine. They react strongly to subtle disturbances.", "location": "Dense woodlands", "priority": "Wildlife", "last_seen": "Current moment"}, "observation_6": {"description": "Signs of medium-sized predators in the distance, slightly more alert due to subtle disturbances near the ravine from recent activity. Their presence remains distant but poses a growing risk if activity persists.", "location": "Dense woodlands", "priority": "Threat", "last_seen": "Current moment"}, "observation_7": {"description": "Minor signs of disturbance near the ravine from shelter construction and recent activity, including broken twigs and trampled undergrowth, slightly reducing natural concealment in the immediate area.", "location": "Near ravine in dense woodlands", "priority": "Key landmark", "last_seen": "Current moment"}, "observation_8": {"description": "Unexplored areas beyond the ravine with dense woodlands, showing minor signs of disturbance from cautious foraging. Reduced yield of edible plants and small rodents observed due to recent foraging, requiring caution to avoid depletion.", "location": "Beyond ravine in dense woodlands", "priority": "Food source", "last_seen": "Current moment"}}]}
+{
+    "metadata": "",
+    "data": [
+        {
+            "observation_1": {
+                "description": "Rolling hills covered in patches of green grass and sparse woodlands with thin, scattered trees. The terrain rises and falls gently, offering a wide view of the surrounding area under a clear, sunny sky with a gentle breeze.",
+                "location": "Starting area in rolling hills",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_2": {
+                "description": "A small stream with clear, flowing water, producing a faint trickling sound. It cuts through the hills, visible from a short distance, and appears clean and accessible.",
+                "location": "Near starting area in rolling hills",
+                "priority": "Water source",
+                "last_seen": "Current moment"
+            },
+            "observation_3": {
+                "description": "Scattered wild fruits on low branches and shrubs, some colorful and distinct in shape, though their edibility is uncertain. The quantity appears slightly reduced after foraging.",
+                "location": "Throughout rolling hills",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the hills and dense shrubs that could provide cover or temporary shelter. They look sturdy enough to protect against mild weather or hide from wildlife.",
+                "location": "Scattered across rolling hills",
+                "priority": "Shelter option",
+                "last_seen": "Current moment"
+            },
+            "observation_5": {
+                "description": "Small herbivores like rabbits or deer and various birds moving through the area. They seem slightly disturbed by human presence, occasionally pausing or fleeing at sudden movements.",
+                "location": "Throughout rolling hills and woodlands",
+                "priority": "Wildlife",
+                "last_seen": "Current moment"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills covered in patches of green grass and sparse woodlands with thin, scattered trees. The terrain rises and falls gently, offering a wide view of the surrounding area under a clear, sunny sky with a gentle breeze.",
+                "location": "Starting area in rolling hills",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_2": {
+                "description": "A small stream with clear, flowing water, producing a faint trickling sound. It cuts through the hills, visible from a short distance, and appears mostly clean but slightly muddied near the banks due to recent activity.",
+                "location": "Near starting area in rolling hills",
+                "priority": "Water source",
+                "last_seen": "Current moment"
+            },
+            "observation_3": {
+                "description": "Scattered wild fruits on low branches and shrubs, some colorful and distinct in shape, though their edibility is uncertain. The quantity is now very limited, almost fully depleted due to recent foraging.",
+                "location": "Throughout rolling hills",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the hills and dense shrubs that could provide cover or temporary shelter. One overhang is now occupied as a resting spot, appearing sturdy enough to protect against mild weather or hide from wildlife.",
+                "location": "Scattered across rolling hills",
+                "priority": "Shelter option",
+                "last_seen": "Current moment"
+            },
+            "observation_5": {
+                "description": "Small herbivores like rabbits or deer and various birds moving through the area. They appear more wary due to continued human presence and movement near the stream, often pausing or fleeing at sudden movements.",
+                "location": "Throughout rolling hills and woodlands",
+                "priority": "Wildlife",
+                "last_seen": "Current moment"
+            },
+            "observation_6": {
+                "description": "Signs of potential medium-sized predators in the area, though not directly visible. Their presence is sensed through heightened wariness of smaller animals and the possibility of being drawn to human scent near the stream.",
+                "location": "Near stream and woodlands",
+                "priority": "Threat",
+                "last_seen": "Current moment"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills covered in patches of green grass and sparse woodlands with thin, scattered trees. The terrain rises and falls gently, offering a wide view of the surrounding area under a clear, sunny sky with a gentle breeze.",
+                "location": "Starting area in rolling hills",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_2": {
+                "description": "A small stream with clear, flowing water, producing a faint trickling sound. It cuts through the hills, visible from a short distance, and appears mostly clean but increasingly muddied near the banks due to repeated activity.",
+                "location": "Near starting area in rolling hills",
+                "priority": "Water source",
+                "last_seen": "Current moment"
+            },
+            "observation_3": {
+                "description": "Scattered wild fruits on low branches and shrubs, some colorful and distinct in shape, though their edibility is uncertain. The quantity is now fully depleted in the immediate vicinity due to prior foraging.",
+                "location": "Throughout rolling hills",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the hills and dense shrubs that could provide cover or temporary shelter. One overhang is occupied as a resting spot, appearing sturdy enough to protect against mild weather or hide from wildlife.",
+                "location": "Scattered across rolling hills",
+                "priority": "Shelter option",
+                "last_seen": "Current moment"
+            },
+            "observation_5": {
+                "description": "Small herbivores like rabbits or deer and various birds moving through the area. They appear highly wary due to continued human presence near the stream, often pausing or fleeing at sudden movements.",
+                "location": "Throughout rolling hills and woodlands",
+                "priority": "Wildlife",
+                "last_seen": "Current moment"
+            },
+            "observation_6": {
+                "description": "Signs of medium-sized predators near the stream, including fresh tracks indicating increased curiosity and proximity. Their presence is sensed through heightened wariness of smaller animals and the growing risk of encounter due to repeated human activity.",
+                "location": "Near stream and woodlands",
+                "priority": "Threat",
+                "last_seen": "Current moment"
+            },
+            "observation_7": {
+                "description": "Occasional fish visible in the stream, slightly disturbed by human activity but still present. They move quickly in the clear water, potentially catchable with effort and the right approach.",
+                "location": "Stream near starting area in rolling hills",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills covered in patches"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.",
+                "location": "Current area in dense woodlands",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_2": {
+                "description": "Potential edible plants and insects in the small clearing, partially depleted due to recent foraging. Future searches in this specific area will yield less unless new spots are explored.",
+                "location": "Small clearing in dense woodlands",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            },
+            "observation_3": {
+                "description": "Limited water availability with small puddles from recent dew scattered around. No major water source is visible nearby.",
+                "location": "Dense woodlands",
+                "priority": "Water source",
+                "last_seen": "Current moment"
+            },
+            "observation_4": {
+                "description": "Thick tree cover and shrubs offering natural concealment and the possibility to build a hidden shelter using branches and leaves.",
+                "location": "Dense woodlands",
+                "priority": "Shelter option",
+                "last_seen": "Current moment"
+            },
+            "observation_5": {
+                "description": "Small herbivores and birds present but slightly more wary due to foraging activity in the clearing. Rare sightings of medium-sized predators in the distance, with no immediate change in behavior.",
+                "location": "Dense woodlands",
+                "priority": "Wildlife",
+                "last_seen": "Current moment"
+            },
+            "observation_6": {
+                "description": "Signs of potential medium-sized predators in the distance. Their presence remains distant for now, but slight disturbance in the clearing may draw attention over time if activity persists.",
+                "location": "Dense woodlands",
+                "priority": "Threat",
+                "last_seen": "Current moment"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.",
+                "location": "Current area in dense woodlands",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_2": {
+                "description": "Scarce edible plants and insects in the small clearing, further depleted due to repeated foraging. Exploration of new areas is critical for better yield.",
+                "location": "Small clearing in dense woodlands",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            },
+            "observation_3": {
+                "description": "Limited water availability with small puddles from recent dew almost dried up in the clearing. A small trickle of water discovered in a nearby ravine, appearing clear and seemingly safe for now.",
+                "location": "Dense woodlands and nearby ravine",
+                "priority": "Water source",
+                "last_seen": "Current moment"
+            },
+            "observation_4": {
+                "description": "Thick tree cover and shrubs offering natural concealment and the possibility to build a hidden shelter using branches and leaves, viable near the ravine.",
+                "location": "Dense woodlands near ravine",
+                "priority": "Shelter option",
+                "last_seen": "Current moment"
+            },
+            "observation_5": {
+                "description": "Small herbivores and birds present but highly wary due to movement through woodlands and prior activity in the clearing. They react to subtle disturbances.",
+                "location": "Dense woodlands",
+                "priority": "Wildlife",
+                "last_seen": "Current moment"
+            },
+            "observation_6": {
+                "description": "Signs of medium-sized predators in the distance, slightly more alert to subtle noises from exploration beyond the clearing. Their presence remains distant but poses a growing risk if activity persists.",
+                "location": "Dense woodlands",
+                "priority": "Threat",
+                "last_seen": "Current moment"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.",
+                "location": "Current area in dense woodlands",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_2": {
+                "description": "Scarce edible plants and insects in the small clearing, further depleted due to repeated foraging. Exploration of new areas is critical for better yield.",
+                "location": "Small clearing in dense woodlands",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            },
+            "observation_3": {
+                "description": "Limited water availability with small puddles from recent dew fully dried up in the clearing. A small trickle of water in a nearby ravine, appearing clear and seemingly safe for now.",
+                "location": "Dense woodlands and nearby ravine",
+                "priority": "Water source",
+                "last_seen": "Current moment"
+            },
+            "observation_4": {
+                "description": "Thick tree cover and shrubs offering natural concealment. A hidden shelter constructed near the ravine using branches and leaves, providing a secure resting spot.",
+                "location": "Dense woodlands near ravine",
+                "priority": "Shelter option",
+                "last_seen": "Current moment"
+            },
+            "observation_5": {
+                "description": "Small herbivores and birds present but extremely wary due to prior activity and recent shelter construction near the ravine. They react strongly to subtle disturbances.",
+                "location": "Dense woodlands",
+                "priority": "Wildlife",
+                "last_seen": "Current moment"
+            },
+            "observation_6": {
+                "description": "Signs of medium-sized predators in the distance, slightly more alert due to subtle noises and movement during shelter construction near the ravine. Their presence remains distant but poses a growing risk if activity persists.",
+                "location": "Dense woodlands",
+                "priority": "Threat",
+                "last_seen": "Current moment"
+            },
+            "observation_7": {
+                "description": "Minor signs of disturbance near the ravine from shelter construction, including broken twigs and trampled undergrowth, slightly reducing natural concealment in the immediate area.",
+                "location": "Near ravine in dense woodlands",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.",
+                "location": "Current area in dense woodlands",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_2": {
+                "description": "Scarce edible plants and insects in the small clearing, nearly depleted due to repeated foraging. Exploration of new areas is critical for better yield.",
+                "location": "Small clearing in dense woodlands",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            },
+            "observation_3": {
+                "description": "A small trickle of water in a nearby ravine, appearing clear and seemingly safe for now. No other immediate water sources in the clearing.",
+                "location": "Dense woodlands and nearby ravine",
+                "priority": "Water source",
+                "last_seen": "Current moment"
+            },
+            "observation_4": {
+                "description": "Thick tree cover and shrubs offering natural concealment. A hidden shelter constructed near the ravine using branches and leaves, providing a secure resting spot under dense cover.",
+                "location": "Dense woodlands near ravine",
+                "priority": "Shelter option",
+                "last_seen": "Current moment"
+            },
+            "observation_5": {
+                "description": "Small herbivores and birds present but extremely wary due to prior activity and shelter construction near the ravine. They react strongly to subtle disturbances.",
+                "location": "Dense woodlands",
+                "priority": "Wildlife",
+                "last_seen": "Current moment"
+            },
+            "observation_6": {
+                "description": "Signs of medium-sized predators in the distance, remaining distant with no significant increase in alertness due to minimal disturbance during rest. Their presence still poses a potential risk if activity increases.",
+                "location": "Dense woodlands",
+                "priority": "Threat",
+                "last_seen": "Current moment"
+            },
+            "observation_7": {
+                "description": "Minor signs of disturbance near the ravine from shelter construction, including broken twigs and trampled undergrowth, slightly reducing natural concealment in the immediate area. No new disturbances observed during rest.",
+                "location": "Near ravine in dense woodlands",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.",
+                "location": "Current area in dense woodlands",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_2": {
+                "description": "Scarce edible plants and insects in the small clearing, nearly depleted due to repeated foraging. Exploration of new areas is critical for better yield.",
+                "location": "Small clearing in dense woodlands",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            },
+            "observation_3": {
+                "description": "A small trickle of water in a nearby ravine, appearing clear and seemingly safe for now. No other immediate water sources in the clearing.",
+                "location": "Dense woodlands and nearby ravine",
+                "priority": "Water source",
+                "last_seen": "Current moment"
+            },
+            "observation_4": {
+                "description": "Thick tree cover and shrubs offering natural concealment. A hidden shelter constructed near the ravine using branches and leaves, providing a secure resting spot under dense cover.",
+                "location": "Dense woodlands near ravine",
+                "priority": "Shelter option",
+                "last_seen": "Current moment"
+            },
+            "observation_5": {
+                "description": "Small herbivores and birds present but highly wary due to foraging activity in new areas beyond the ravine. They react strongly to subtle disturbances.",
+                "location": "Dense woodlands",
+                "priority": "Wildlife",
+                "last_seen": "Current moment"
+            },
+            "observation_6": {
+                "description": "Signs of medium-sized predators in the distance, slightly more alert due to subtle disturbances during exploration beyond the ravine. Their presence remains distant but poses a growing risk if activity persists.",
+                "location": "Dense woodlands",
+                "priority": "Threat",
+                "last_seen": "Current moment"
+            },
+            "observation_7": {
+                "description": "Minor signs of disturbance near the ravine from shelter construction, including broken twigs and trampled undergrowth, slightly reducing natural concealment in the immediate area. Additional minor disturbances observed beyond the ravine from cautious foraging.",
+                "location": "Near ravine in dense woodlands",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_8": {
+                "description": "Unexplored areas beyond the ravine with dense woodlands, showing minor signs of disturbance from cautious foraging. Moderate yield of edible plants and small rodents observed, though partially foraged and requiring continued caution for sustainability.",
+                "location": "Beyond ravine in dense woodlands",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Dense woodlands with thick undergrowth and towering trees, providing significant natural cover. A small clearing nearby shows minor signs of disturbance from foraging, with trampled undergrowth slightly reducing concealment.",
+                "location": "Current area in dense woodlands",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_2": {
+                "description": "Scarce edible plants and insects in the small clearing, nearly depleted due to repeated foraging. Exploration of new areas is critical for better yield.",
+                "location": "Small clearing in dense woodlands",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            },
+            "observation_3": {
+                "description": "A small trickle of water in a nearby ravine, appearing clear and seemingly safe for now. Slight disturbance near the water source from recent visit, with minor signs of trampled undergrowth.",
+                "location": "Dense woodlands and nearby ravine",
+                "priority": "Water source",
+                "last_seen": "Current moment"
+            },
+            "observation_4": {
+                "description": "Thick tree cover and shrubs offering natural concealment. A hidden shelter constructed near the ravine using branches and leaves, providing a secure resting spot under dense cover.",
+                "location": "Dense woodlands near ravine",
+                "priority": "Shelter option",
+                "last_seen": "Current moment"
+            },
+            "observation_5": {
+                "description": "Small herbivores and birds present but extremely wary due to recent foraging and movement near the ravine. They react strongly to subtle disturbances.",
+                "location": "Dense woodlands",
+                "priority": "Wildlife",
+                "last_seen": "Current moment"
+            },
+            "observation_6": {
+                "description": "Signs of medium-sized predators in the distance, slightly more alert due to subtle disturbances near the ravine from recent activity. Their presence remains distant but poses a growing risk if activity persists.",
+                "location": "Dense woodlands",
+                "priority": "Threat",
+                "last_seen": "Current moment"
+            },
+            "observation_7": {
+                "description": "Minor signs of disturbance near the ravine from shelter construction and recent activity, including broken twigs and trampled undergrowth, slightly reducing natural concealment in the immediate area.",
+                "location": "Near ravine in dense woodlands",
+                "priority": "Key landmark",
+                "last_seen": "Current moment"
+            },
+            "observation_8": {
+                "description": "Unexplored areas beyond the ravine with dense woodlands, showing minor signs of disturbance from cautious foraging. Reduced yield of edible plants and small rodents observed due to recent foraging, requiring caution to avoid depletion.",
+                "location": "Beyond ravine in dense woodlands",
+                "priority": "Food source",
+                "last_seen": "Current moment"
+            }
+        }
+    ]
+}

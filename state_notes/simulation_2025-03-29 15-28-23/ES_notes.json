@@ -1,1 +1,159 @@
-{"metadata": "", "data": [{"day": 0, "notes": []}, {"day": 1, "notes": [{"terrain": "Barren plains with scattered rocks", "temperature": 5, "weather": "Overcast with strong winds", "food_availability": "Sparse vegetation with little nutritional value", "water_availability": "No immediate water sources visible", "shelter_options": "Few scattered rocks offering minimal cover", "wildlife": "Barely any signs of life, occasional insects", "danger_level": "High (exposure to elements and lack of resources)"}, {"terrain": "Barren plains with scattered rocks", "temperature": 3, "weather": "Overcast with occasional gusts of strong winds", "food_availability": "Sparse vegetation with little nutritional value", "water_availability": "No immediate water sources visible", "shelter_options": "Improvised shelter using scattered rocks offers minimal cover", "wildlife": "Barely any signs of life, occasional insects", "danger_level": "High (exposure to elements and lack of resources)", "notes_for_future": {"wildlife_alert": "Minimal activity, but presence of insects indicates possible underground moisture.", "resource_change": "Improvised shelter provides slight protection from elements but is not fully secure.", "environmental_shift": "Temperature slightly decreased due to wind; potential for worsening weather conditions."}}]}, {"day": 2, "notes": [{"terrain": "Barren plains with scattered rocks", "temperature": 2, "weather": "Overcast with strong winds", "food_availability": "Sparse vegetation with little nutritional value", "water_availability": "No immediate water sources visible", "shelter_options": "Improvised shelter using scattered rocks offers minimal cover", "wildlife": "Minimal activity, presence of insects", "danger_level": "High (severe exposure risk, lack of resources)"}, {"terrain": "Barren plains with scattered rocks", "temperature": 2, "weather": "Overcast with strong winds", "food_availability": "Sparse vegetation with little nutritional value", "water_availability": "No immediate water sources visible", "shelter_options": "Improvised shelter with scattered rocks provides some cover from wind", "wildlife": "Minimal activity, presence of insects", "danger_level": "High (severe exposure risk, lack of resources)", "notes_for_future": {"wildlife_alert": "Minimal activity, presence of insects indicates possible underground moisture.", "resource_change": "Constructed shelter with rocks provides some protection from wind but not fully secure.", "environmental_shift": "Continued strong winds and overcast conditions may lead to further temperature drop."}}]}, {"day": 3, "notes": [{"terrain": "Barren plains with scattered rocks", "temperature": 1, "weather": "Overcast with strong winds, occasional snow flurries", "food_availability": "Sparse vegetation with little nutritional value", "water_availability": "No immediate water sources visible, potential underground moisture indicated by insect activity", "shelter_options": "Improvised rock shelter provides minimal protection from wind", "wildlife": "Minimal activity, mostly insects", "danger_level": "Very High (severe exposure risk, lack of resources, potential hypothermia due to cold)"}, {"terrain": "Barren plains with scattered rocks", "temperature": 0, "weather": "Overcast with strong winds, frequent snow flurries", "food_availability": "Sparse vegetation with little nutritional value", "water_availability": "Limited underground moisture found, but not enough for long-term survival", "shelter_options": "Enhanced rock shelter provides moderate protection from wind", "wildlife": "Minimal activity, mostly insects; some birds spotted indicating nearby water", "danger_level": "High (severe exposure risk due to cold, but minor hydration improvement)", "notes_for_future": {"wildlife_alert": "Presence of birds suggests water source might be nearby.", "resource_change": "Slight improvement in shelter reduces wind exposure; limited moisture found.", "environmental_shift": "Frequent snow flurries may worsen conditions; slight temperature drop."}}]}, {"day": 4, "notes": [{"terrain": "Barren plains transitioning to rocky hills", "temperature": -5, "weather": "Overcast with strong winds and heavy snow flurries", "food_availability": "Almost nonexistent, just sparse dry grass", "water_availability": "Traces of moisture on some rocks, but insufficient", "shelter_options": "Rocky outcrops provide minimal wind protection", "wildlife": "Few insects, occasional birds suggesting distant water", "danger_level": "High (severe exposure risk due to cold and lack of resources)"}, {"terrain": "Barren plains with rocky outcrops", "temperature": -6, "weather": "Overcast with strong winds and snow flurries", "food_availability": "Minimal, sparse dry grass and few insects", "water_availability": "Traces of moisture on rocks, potential underground sources", "shelter_options": "Improved rocky outcrops with additional fortification from gathered materials", "wildlife": "Increased activity of birds and insects near potential water", "danger_level": "High (severe exposure risk due to cold, but improved shelter)", "notes_for_future": {"wildlife_alert": "Increased bird activity suggests closer proximity to water sources.", "resource_change": "Fortification of shelter with available materials partially reduces exposure.", "environmental_shift": "Continued cold with potential for further snow flurries."}}]}, {"day": 5, "notes": [{"terrain": "Barren plains with rocky outcrops", "temperature": -8, "weather": "Heavy snow with strong winds", "food_availability": "Minimal, sparse dry grass and few insects", "water_availability": "Potential underground sources but challenging to access", "shelter_options": "Improved rocky outcrops with additional fortification from gathered materials", "wildlife": "Increased activity of birds and insects near potential water", "danger_level": "Very high (severe exposure risk due to cold and worsening weather conditions)"}, {"terrain": "Barren plains with rocky outcrops", "temperature": -10, "weather": "Intensified snowstorm with stronger winds", "food_availability": "Minimal, slightly increased insect activity due to shelter proximity", "water_availability": "Potential underground sources possibly blocked by snow accumulation", "shelter_options": "Further fortified rocky outcrops, providing improved wind and snow protection", "wildlife": "Increased bird and insect activity near shelter and potential water", "danger_level": "Very high (critically high due to intensified storm and continued cold)", "notes_for_future": {"wildlife_alert": "Birds and insects increasingly active near shelter, indicating potential access to underground water sources.", "resource_change": "Enhanced shelter fortification reduces exposure risk, but food and water remain scarce.", "environmental_shift": "Weather has worsened significantly; large snow accumulation possible, impacting mobility and resource accessibility."}}]}]}
+{
+    "metadata": "",
+    "data": [
+        {
+            "day": 0,
+            "notes": []
+        },
+        {
+            "day": 1,
+            "notes": [
+                {
+                    "terrain": "Barren plains with scattered rocks",
+                    "temperature": 5,
+                    "weather": "Overcast with strong winds",
+                    "food_availability": "Sparse vegetation with little nutritional value",
+                    "water_availability": "No immediate water sources visible",
+                    "shelter_options": "Few scattered rocks offering minimal cover",
+                    "wildlife": "Barely any signs of life, occasional insects",
+                    "danger_level": "High (exposure to elements and lack of resources)"
+                },
+                {
+                    "terrain": "Barren plains with scattered rocks",
+                    "temperature": 3,
+                    "weather": "Overcast with occasional gusts of strong winds",
+                    "food_availability": "Sparse vegetation with little nutritional value",
+                    "water_availability": "No immediate water sources visible",
+                    "shelter_options": "Improvised shelter using scattered rocks offers minimal cover",
+                    "wildlife": "Barely any signs of life, occasional insects",
+                    "danger_level": "High (exposure to elements and lack of resources)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Minimal activity, but presence of insects indicates possible underground moisture.",
+                        "resource_change": "Improvised shelter provides slight protection from elements but is not fully secure.",
+                        "environmental_shift": "Temperature slightly decreased due to wind; potential for worsening weather conditions."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "notes": [
+                {
+                    "terrain": "Barren plains with scattered rocks",
+                    "temperature": 2,
+                    "weather": "Overcast with strong winds",
+                    "food_availability": "Sparse vegetation with little nutritional value",
+                    "water_availability": "No immediate water sources visible",
+                    "shelter_options": "Improvised shelter using scattered rocks offers minimal cover",
+                    "wildlife": "Minimal activity, presence of insects",
+                    "danger_level": "High (severe exposure risk, lack of resources)"
+                },
+                {
+                    "terrain": "Barren plains with scattered rocks",
+                    "temperature": 2,
+                    "weather": "Overcast with strong winds",
+                    "food_availability": "Sparse vegetation with little nutritional value",
+                    "water_availability": "No immediate water sources visible",
+                    "shelter_options": "Improvised shelter with scattered rocks provides some cover from wind",
+                    "wildlife": "Minimal activity, presence of insects",
+                    "danger_level": "High (severe exposure risk, lack of resources)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Minimal activity, presence of insects indicates possible underground moisture.",
+                        "resource_change": "Constructed shelter with rocks provides some protection from wind but not fully secure.",
+                        "environmental_shift": "Continued strong winds and overcast conditions may lead to further temperature drop."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "notes": [
+                {
+                    "terrain": "Barren plains with scattered rocks",
+                    "temperature": 1,
+                    "weather": "Overcast with strong winds, occasional snow flurries",
+                    "food_availability": "Sparse vegetation with little nutritional value",
+                    "water_availability": "No immediate water sources visible, potential underground moisture indicated by insect activity",
+                    "shelter_options": "Improvised rock shelter provides minimal protection from wind",
+                    "wildlife": "Minimal activity, mostly insects",
+                    "danger_level": "Very High (severe exposure risk, lack of resources, potential hypothermia due to cold)"
+                },
+                {
+                    "terrain": "Barren plains with scattered rocks",
+                    "temperature": 0,
+                    "weather": "Overcast with strong winds, frequent snow flurries",
+                    "food_availability": "Sparse vegetation with little nutritional value",
+                    "water_availability": "Limited underground moisture found, but not enough for long-term survival",
+                    "shelter_options": "Enhanced rock shelter provides moderate protection from wind",
+                    "wildlife": "Minimal activity, mostly insects; some birds spotted indicating nearby water",
+                    "danger_level": "High (severe exposure risk due to cold, but minor hydration improvement)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Presence of birds suggests water source might be nearby.",
+                        "resource_change": "Slight improvement in shelter reduces wind exposure; limited moisture found.",
+                        "environmental_shift": "Frequent snow flurries may worsen conditions; slight temperature drop."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "notes": [
+                {
+                    "terrain": "Barren plains transitioning to rocky hills",
+                    "temperature": -5,
+                    "weather": "Overcast with strong winds and heavy snow flurries",
+                    "food_availability": "Almost nonexistent, just sparse dry grass",
+                    "water_availability": "Traces of moisture on some rocks, but insufficient",
+                    "shelter_options": "Rocky outcrops provide minimal wind protection",
+                    "wildlife": "Few insects, occasional birds suggesting distant water",
+                    "danger_level": "High (severe exposure risk due to cold and lack of resources)"
+                },
+                {
+                    "terrain": "Barren plains with rocky outcrops",
+                    "temperature": -6,
+                    "weather": "Overcast with strong winds and snow flurries",
+                    "food_availability": "Minimal, sparse dry grass and few insects",
+                    "water_availability": "Traces of moisture on rocks, potential underground sources",
+                    "shelter_options": "Improved rocky outcrops with additional fortification from gathered materials",
+                    "wildlife": "Increased activity of birds and insects near potential water",
+                    "danger_level": "High (severe exposure risk due to cold, but improved shelter)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Increased bird activity suggests closer proximity to water sources.",
+                        "resource_change": "Fortification of shelter with available materials partially reduces exposure.",
+                        "environmental_shift": "Continued cold with potential for further snow flurries."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "notes": [
+                {
+                    "terrain": "Barren plains with rocky outcrops",
+                    "temperature": -8,
+                    "weather": "Heavy snow with strong winds",
+                    "food_availability": "Minimal, sparse dry grass and few insects",
+                    "water_availability": "Potential underground sources but challenging to access",
+                    "shelter_options": "Improved rocky outcrops with additional fortification from gathered materials",
+                    "wildlife": "Increased activity of birds and insects near potential water",
+                    "danger_level": "Very high (severe exposure risk due to cold and worsening weather conditions)"
+                },
+                {
+                    "terrain": "Barren plains with rocky outcrops",
+                    "temperature": -10,
+                    "weather": "Intensified snowstorm with stronger winds",
+                    "food_availability": "Minimal, slightly increased insect activity due to shelter proximity",
+                    "water_availability": "Potential underground sources possibly blocked by snow accumulation",
+                    "shelter_options": "Further fortified rocky outcrops, providing improved wind and snow protection",
+                    "wildlife": "Increased bird and insect activity near shelter and potential water",
+                    "danger_level": "Very high (critically high due to intensified storm and continued cold)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Birds and insects increasingly active near shelter, indicating potential access to underground water sources.",
+                        "resource_change": "Enhanced shelter fortification reduces exposure risk, but food and water remain scarce.",
+                        "environmental_shift": "Weather has worsened significantly; large snow accumulation possible, impacting mobility and resource accessibility."
+                    }
+                }
+            ]
+        }
+    ]
+}

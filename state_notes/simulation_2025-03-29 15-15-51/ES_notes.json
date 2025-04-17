@@ -1,1 +1,84 @@
-{"metadata": "", "data": [{"day": 0, "notes": []}, {"day": 1, "notes": [{"terrain": "Rocky mountains with sparse vegetation", "temperature": -5, "weather": "Snowy and windy", "food_availability": "Scarce, with only sparse lichens and some small rodents", "water_availability": "Limited snow melting from rocks", "shelter_options": "Minimal, some rocky overhangs", "wildlife": "Hardy mountain goats, occasional predatory birds", "danger_level": "High (harsh weather and limited resources)"}, {"terrain": "Rocky mountains with sparse vegetation", "temperature": -6, "weather": "Snowy and windy with slight clearing", "food_availability": "Scarce, with only sparse lichens and some small rodents", "water_availability": "Limited but slightly improved due to increased snow melting", "shelter_options": "Minimal, some rocky overhangs, one of which provides adequate shelter", "wildlife": "Hardy mountain goats, occasional predatory birds are slightly more active", "danger_level": "Moderately High (weather slightly better but resources still scarce)", "notes_for_future": {"wildlife_alert": "Predatory birds more active due to clearing skies and hunger.", "resource_change": "Slightly increased water availability from melting snow.", "environmental_shift": "Weather showing signs of slight improvement, potential for clearer skies in the following days."}}]}, {"day": 2, "notes": [{"terrain": "Rocky mountains transitioning to a sparse forest", "temperature": -2, "weather": "Overcast with occasional snow flurries", "food_availability": "Limited, with some tough plants and rare sightings of small rodents", "water_availability": "Small streams formed from melting snow, but not abundant", "shelter_options": "Few rocky overhangs, some fallen trees offer partial protection", "wildlife": "More active predatory birds, sparse sightings of mountain goats", "danger_level": "High (active predators and low resource availability)"}, {"terrain": "Sparse forest with rocky clearings", "temperature": -1, "weather": "Overcast with light snow flurries", "food_availability": "Slightly improved with more sightings of small rodents and some edible roots", "water_availability": "Moderate, streams are more accessible due to melting snow", "shelter_options": "Rocky overhangs and fallen trees provide better protection", "wildlife": "Increased activity of predatory birds due to hunger, mountain goats more visible", "danger_level": "Moderate (improved resources but active predators)", "notes_for_future": {"wildlife_alert": "Predatory birds are increasingly active and may pose a threat", "resource_change": "Water sources are more accessible, potential for increased food sightings", "environmental_shift": "Weather might clear slightly, with potential reduction in snow flurries"}}]}, {"day": 3, "notes": [{"terrain": "Sparse forest transitioning to rocky hills", "temperature": 0, "weather": "Cloudy with intermittent snow flurries", "food_availability": "Scattered sightings of small rodents and some edible roots", "water_availability": "Accessible, streams are flowing more freely due to recent snowmelt", "shelter_options": "Crude shelter from rocky overhangs and fallen trees", "wildlife": "Predatory birds are active, occasional sighting of mountain goats and small rodents", "danger_level": "Moderate (predatory birds are a notable concern)"}]}]}
+{
+    "metadata": "",
+    "data": [
+        {
+            "day": 0,
+            "notes": []
+        },
+        {
+            "day": 1,
+            "notes": [
+                {
+                    "terrain": "Rocky mountains with sparse vegetation",
+                    "temperature": -5,
+                    "weather": "Snowy and windy",
+                    "food_availability": "Scarce, with only sparse lichens and some small rodents",
+                    "water_availability": "Limited snow melting from rocks",
+                    "shelter_options": "Minimal, some rocky overhangs",
+                    "wildlife": "Hardy mountain goats, occasional predatory birds",
+                    "danger_level": "High (harsh weather and limited resources)"
+                },
+                {
+                    "terrain": "Rocky mountains with sparse vegetation",
+                    "temperature": -6,
+                    "weather": "Snowy and windy with slight clearing",
+                    "food_availability": "Scarce, with only sparse lichens and some small rodents",
+                    "water_availability": "Limited but slightly improved due to increased snow melting",
+                    "shelter_options": "Minimal, some rocky overhangs, one of which provides adequate shelter",
+                    "wildlife": "Hardy mountain goats, occasional predatory birds are slightly more active",
+                    "danger_level": "Moderately High (weather slightly better but resources still scarce)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Predatory birds more active due to clearing skies and hunger.",
+                        "resource_change": "Slightly increased water availability from melting snow.",
+                        "environmental_shift": "Weather showing signs of slight improvement, potential for clearer skies in the following days."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "notes": [
+                {
+                    "terrain": "Rocky mountains transitioning to a sparse forest",
+                    "temperature": -2,
+                    "weather": "Overcast with occasional snow flurries",
+                    "food_availability": "Limited, with some tough plants and rare sightings of small rodents",
+                    "water_availability": "Small streams formed from melting snow, but not abundant",
+                    "shelter_options": "Few rocky overhangs, some fallen trees offer partial protection",
+                    "wildlife": "More active predatory birds, sparse sightings of mountain goats",
+                    "danger_level": "High (active predators and low resource availability)"
+                },
+                {
+                    "terrain": "Sparse forest with rocky clearings",
+                    "temperature": -1,
+                    "weather": "Overcast with light snow flurries",
+                    "food_availability": "Slightly improved with more sightings of small rodents and some edible roots",
+                    "water_availability": "Moderate, streams are more accessible due to melting snow",
+                    "shelter_options": "Rocky overhangs and fallen trees provide better protection",
+                    "wildlife": "Increased activity of predatory birds due to hunger, mountain goats more visible",
+                    "danger_level": "Moderate (improved resources but active predators)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Predatory birds are increasingly active and may pose a threat",
+                        "resource_change": "Water sources are more accessible, potential for increased food sightings",
+                        "environmental_shift": "Weather might clear slightly, with potential reduction in snow flurries"
+                    }
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "notes": [
+                {
+                    "terrain": "Sparse forest transitioning to rocky hills",
+                    "temperature": 0,
+                    "weather": "Cloudy with intermittent snow flurries",
+                    "food_availability": "Scattered sightings of small rodents and some edible roots",
+                    "water_availability": "Accessible, streams are flowing more freely due to recent snowmelt",
+                    "shelter_options": "Crude shelter from rocky overhangs and fallen trees",
+                    "wildlife": "Predatory birds are active, occasional sighting of mountain goats and small rodents",
+                    "danger_level": "Moderate (predatory birds are a notable concern)"
+                }
+            ]
+        }
+    ]
+}
