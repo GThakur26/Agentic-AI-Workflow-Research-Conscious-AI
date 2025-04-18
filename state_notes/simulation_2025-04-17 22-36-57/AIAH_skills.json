@@ -1,0 +1,197 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "Interpreting Needs": "Recognizing and prioritizing internal bodily signals like hunger and thirst.",
+            "Basic Navigation": "Using environmental descriptions and observation to move towards a desired location.",
+            "Environmental Observation": "Actively scanning the surroundings to identify resources, dangers, and landmarks.",
+            "Resource Identification (Water)": "Locating sources of drinkable water in the environment.",
+            "Resource Identification (Plants)": "Identifying potentially edible plants (like berries) based on descriptions or visual cues."
+        },
+        {
+            "Plant Edibility Testing": "Performing a cautious sequence of checks (observation, smell, small taste test) before consuming potentially edible plants like berries."
+        },
+        {},
+        {
+            "Foraging (Edible Shoots)": "Ability to locate, identify based on description, cautiously test (smell, taste small amount), and gather specific edible plants like green shoots.",
+            "Water Consumption Strategy": "Recognizing thirst and drinking from a known safe water source (stream) to alleviate it."
+        },
+        {
+            "Foraging (Wild Onions)": "Ability to locate, identify based on description/smell, cautiously harvest, and confirm edibility (via taste test) of wild onions.",
+            "Wildlife Observation (Fish)": "Systematically observing fish behavior in the stream to learn their reactions to stimuli (presence, shadows) and identify patterns relevant for future hunting/fishing attempts."
+        },
+        {
+            "Foraging (Wood Sorrel)": "Ability to locate (under dense cover), identify (small, clover-like leaves, tangy taste), cautiously test using a systematic method, and safely gather Wood Sorrel."
+        },
+        {},
+        {
+            "Resource Assessment (Potential Food)": "Ability to locate specific, potentially developing resources (like hinted-at ripening berries) based on subtle environmental cues, assess their current state (e.g., ripeness), and evaluate their future potential."
+        },
+        {},
+        {
+            "Foraging (Berries)": "Successfully identifying specific ripe berries based on visual cues (color, appearance), confirming safety through prior knowledge/observation, and consuming them to satisfy hunger.",
+            "Mindful Harvesting": "Consciously choosing to gather only a portion of an abundant resource (like berries) to ensure its continued availability for the future, balancing immediate needs with long-term sustainability."
+        },
+        {
+            "Energy-Efficient Foraging Strategy": "Developing and executing a plan to gather food that prioritizes known, easily accessible resources requiring minimal energy expenditure, especially when current energy levels are low."
+        },
+        {
+            "Following Trails": "Ability to recognize and follow faint paths created by animal movement (game trails) to navigate terrain or find areas frequented by wildlife.",
+            "Cautious Movement": "Ability to move through the environment quietly and deliberately to avoid startling wildlife or drawing unwanted attention, potentially increasing observation opportunities."
+        },
+        {
+            "Shelter Assessment": "Actively inspecting and confirming the suitability (e.g., dryness, safety) of potential natural shelters like rock overhangs.",
+            "Gathering Fire Materials": "Recognizing and collecting specific dry materials (e.g., tinder, small twigs) potentially useful for starting a fire."
+        },
+        {
+            "Resource Regeneration Assessment": "Ability to revisit a previously harvested resource location (e.g., edible plants) and assess its state of recovery or regrowth to determine future foraging potential."
+        },
+        {
+            "Prioritized Resource Management (Energy Conservation)": "Ability to assess current energy levels and prioritize actions (like hydration and foraging known, low-effort resources) that provide necessary sustenance while minimizing energy expenditure, consciously avoiding higher-effort activities like hunting wary game."
+        },
+        {
+            "Memory-Based Resource Targeting": "Using specific, recent memory of a resource's exact location and state (e.g., ripeness observed the previous day) to guide immediate, targeted foraging attempts.",
+            "Scavenging Depleted Resources": "Ability to meticulously search a known resource location that has already been harvested, successfully finding minimal overlooked remnants."
+        },
+        {
+            "Observing Anomalous Wildlife Behavior": "Paying specific attention to wildlife when environmental conditions or descriptions suggest unusual behavior patterns (e.g., reduced wariness due to high luck), confirming and noting the specific nature of the anomaly observed."
+        },
+        {
+            "Improvised Weapon Use (Blunt Force)": "Selecting and using readily available objects (like heavy rocks) to strike targets, demonstrated initially for hunting small, less wary game.",
+            "Rudimentary Hunting (Small Game)": "Successfully stalking and killing small game (like rabbits) using observation, cautious movement, and an improvised blunt weapon, capitalizing on favorable conditions (e.g., reduced animal wariness)."
+        },
+        {
+            "Animal Carcass Assessment": "Examining a hunted animal's body to understand its structure (e.g., skin, muscle) and identify potential methods for accessing edible parts (skinning, butchering)."
+        },
+        {
+            "Tool Selection (Cutting Edge)": "Identifying and selecting natural objects (like specific stones) with sharp edges suitable for cutting or scraping tasks, differentiating from tools needed for blunt force.",
+            "Improvised Tool Use (Cutting/Skinning)": "Utilizing a found object with a cutting edge (like a sharp stone) to perform tasks such as skinning an animal or cutting through hide/muscle.",
+            "Basic Butchering": "Processing an animal carcass by removing the hide and separating usable meat from unusable parts using basic cutting/tearing techniques, often with improvised tools.",
+            "Rudimentary Waste Management (Scent Control)": "Attempting to minimize the lingering scent of processed animal remains by strategically disposing of or washing away waste materials, such as near running water, to reduce potential attraction of predators."
+        },
+        {
+            "Fire Starting (Friction/Percussion)": "Ability to successfully create fire through experimentation (e.g., rubbing wood, striking stones) using prepared tinder and gathered fuel, despite lacking prior explicit knowledge. Success may be influenced by environmental conditions or luck.",
+            "Cooking (Over Fire)": "Ability to utilize a controlled fire to cook raw food items (e.g., meat, vegetables), improving their quality or safety for consumption."
+        },
+        {
+            "Stockpiling Resources": "Gathering essential materials (like firewood) beyond immediate need and storing them strategically at a base location for future use.",
+            "Sequential Task Planning": "Developing and executing a multi-step plan that addresses different needs or goals (e.g., hydration, resource gathering, future preparation) in an efficient order, considering current status and environmental factors."
+        },
+        {
+            "Fire Starting": "Ability to successfully create fire using prepared tinder and fuel, potentially through methods like friction or percussion. Success may depend on materials, conditions, and luck.",
+            "Cooking (Over Fire)": "Using a controlled fire to heat raw food (like meat) to make it edible, safer, or more palatable.",
+            "Firewood Gathering": "Locating and collecting suitable deadwood for fuel, including traveling further from base camp when local sources are scarce."
+        },
+        {},
+        {},
+        {
+            "Tinder Preparation": "Ability to identify, gather, and process suitable dry natural materials (e.g., fine grasses, inner bark shavings) into a compact, easily ignitable bundle for fire starting."
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "Systematic Resource Monitoring": "Ability to conduct a planned, multi-point check of known essential resources (water, food patches, stored materials) around a base location to assess their current status and availability without necessarily harvesting or using them."
+        },
+        {},
+        {},
+        {
+            "Tool Identification (Flint)": "Recognizing flint specifically as a material suitable for creating sparks, likely for fire-starting.",
+            "Resource Acquisition (Tool Material)": "Identifying and deliberately securing non-consumable natural materials (like flint) recognized as valuable for tool use."
+        },
+        {},
+        {
+            "Animal Tracking (Basic Sign Interpretation)": "Ability to identify and interpret animal signs (like tracks) to confirm recent presence and gather information about wildlife activity in an area."
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "Efficient Multi-Objective Trip Planning": "Combining multiple tasks (e.g., resource assessment, hydration, observation, light trail maintenance) into a single, efficient excursion based on current needs, energy levels, and environmental conditions."
+        },
+        {},
+        {
+            "Strategic Inaction": "Consciously choosing to remain inactive (e.g., resting at shelter) when current needs are low, resources are stable or recovering, and environmental conditions are favorable, thereby conserving energy and minimizing unnecessary impact on the surroundings (like resource depletion or wildlife disturbance)."
+        },
+        {},
+        {},
+        {},
+        {
+            "Footprint Analysis (Self-Identification & Temporal Differentiation)": "Ability to examine footprints closely to determine if they likely belong to oneself and differentiate tracks made at different recent times (e.g., today vs. yesterday)."
+        },
+        {},
+        {},
+        {},
+        {
+            "Targeted Resource Assessment (Non-Harvesting)": "Ability to deliberately check the status (e.g., abundance, condition) of a specific, known resource location without harvesting, often integrated efficiently into trips made for other primary purposes."
+        },
+        {},
+        {
+            "Mindful Non-Harvesting": "The deliberate practice of choosing not to gather available resources when immediate needs are low, prioritizing resource preservation and regeneration over acquisition based on learned principles."
+        },
+        {},
+        {},
+        {},
+        {
+            "Synthesizing Learned Principles": "Ability to recall, integrate, and apply multiple distinct past experiences and learned concepts (e.g., energy conservation, minimizing environmental impact, resource sustainability) to make complex, strategic decisions, such as choosing inaction despite favorable conditions."
+        },
+        {},
+        {
+            "Strategic Reconnaissance (Low-Impact Exploration)": "Conducting careful, quiet exploration of areas away from established activity zones (shelter, trails, harvested patches) specifically to gather information (e.g., signs of less wary wildlife, alternative resources) while minimizing environmental disturbance and avoiding negatively impacted locations."
+        },
+        {},
+        {},
+        {
+            "Trail Maintenance (Passive/Usage-Based)": "Recognizing that regularly and carefully using faint trails helps prevent them from becoming completely overgrown or indistinct.",
+            "Strategic Resource Selection (Minimizing Disturbance)": "Choosing which resource location to utilize based not only on abundance or proximity but also considering the localized impact on wildlife wariness and resource recovery rates, aiming to distribute harvesting pressure."
+        },
+        {},
+        {
+            "Verifying Environmental Response": "Ability to systematically assess dynamic changes in the local environment (e.g., resource recovery rates, wildlife wariness levels) specifically to evaluate the consequences of previous actions or strategic periods (like deliberate inaction or rest)."
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "Exploiting Temporary Wildlife Wariness Reduction": "Leveraging knowledge of recent personal inactivity and its effect on local wildlife behavior to choose foraging locations/times when animal wariness is temporarily lower, increasing efficiency and success chances compared to foraging in the same area when wariness is high."
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "Threat Assessment (Specific Location)": "Ability to evaluate a specific area for immediate danger by actively searching for fresh signs of threats, especially when prior information (like old scents or tracks) indicates potential past risk, before committing to actions like resource gathering in that location."
+        },
+        {
+            "Remote Resource Assessment (Low Impact)": "Visually evaluating the status of known resource locations from a distance (e.g., shelter entrance) to gather information while minimizing environmental disturbance and avoiding alerting wildlife."
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}
