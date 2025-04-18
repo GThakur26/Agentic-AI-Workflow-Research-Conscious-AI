@@ -1,0 +1,351 @@
+{
+    "metadata": "",
+    "data": [
+        [
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Drank water from stream, ate nearby berries.",
+                "context": "Experiencing initial hunger and thirst in an unfamiliar woodland environment with low energy and minor illness/injury.",
+                "reflection": "Successfully addressed basic needs (thirst, hunger) by observing the environment and utilizing readily available resources (stream, berries). The decision to prioritize the easily accessible water source first proved efficient.",
+                "emotional_response": {
+                    "relief": "Felt significant relief from addressing the pressing need for water.",
+                    "satisfaction": "Experienced minor satisfaction from successfully finding and consuming food (berries).",
+                    "caution": "Acknowledged the need for cautious movement due to low energy/health and awareness of potential risks (e.g., untreated water, although consumed)."
+                },
+                "lesson_learned": "Prioritizing immediate, easily solvable needs is an effective survival tactic. Careful observation of the immediate surroundings can yield necessary resources. Untreated resources like water might carry risks, impacting health later."
+            }
+        ],
+        [
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Drank water from stream, ate nearby berries, rested on a rock.",
+                "context": "Experiencing moderate hunger (4), low energy (5), and persistent illness (5) in a familiar woodland environment. Successfully addressed thirst and partial hunger.",
+                "reflection": "Successfully addressed immediate needs (thirst, partial hunger) by utilizing readily available resources. The decision to prioritize water first, followed by cautious food intake, and then strategic rest on the rock proved effective for managing low energy and illness while conserving strength. Observing the environment continues to be key.",
+                "emotional_response": {
+                    "relief": "Continued relief from addressing thirst and finding a safe resting place.",
+                    "satisfaction": "Satisfaction from successfully finding food and managing energy levels through rest.",
+                    "caution": "Ongoing caution due to persistent illness (5) and awareness of resource limitations/risks (e.g., untreated water, berry identification).",
+                    "calm": "A sense of calm achieved by resting in a secure, resource-rich location."
+                },
+                "lesson_learned": "Prioritizing immediate, easily solvable needs (water, accessible food) is effective. Careful observation yields resources. Strategic rest is crucial for energy conservation and potentially aids recovery, especially when health is compromised. Untreated resources (water) still carry potential risks that need monitoring."
+            }
+        ],
+        [
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Repeated foraging for easily accessible plants/berries near stream while managing low energy and illness.",
+                "context": "Continued reliance on easily accessible stream-side resources (plants, berries) due to persistent low energy (4) and illness (4), leading to noticeable depletion observed after this action.",
+                "reflection": "Successfully addressed hunger again by prioritizing easily accessible resources, confirming this strategy's effectiveness when energy/health is low. However, observed noticeable depletion of the easiest-to-reach berries/plants, highlighting the limitation of this tactic if used repeatedly in the same small area. Observation remains crucial, not just for finding resources, but also for assessing their remaining availability and the impact of previous actions.",
+                "emotional_response": {
+                    "relief": "Sustained relief from managing hunger.",
+                    "satisfaction": "Satisfaction from successful foraging despite continued weakness.",
+                    "caution": "Ongoing caution due to illness (4) and now awareness of depleting the most convenient food source.",
+                    "mild_concern": "A slight concern about the future availability of the easiest food if reliance continues without exploring alternatives."
+                },
+                "lesson_learned": "Prioritizing easily accessible resources is vital when health/energy is compromised. Strategic rest aids management. However, repeated reliance on the *same* easy resources leads to their local depletion. Future survival may require diversifying food sources or methods, even if they demand more energy or skill development, balancing immediate needs with long-term resource availability."
+            }
+        ],
+        [
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Chose to rest on a familiar rock, drink minimally, and observe instead of foraging, despite increasing hunger.",
+                "context": "Low energy (6) and persistent illness (3), though slightly improved from before. Aware that easily accessible food resources near the stream were depleted by previous actions (as noted in prior reflection). In a familiar, low-danger location.",
+                "reflection": "Successfully applied previous lessons regarding the importance of rest for energy conservation when health is compromised and the reality of local resource depletion. The conscious decision to prioritize rest and observation over immediate foraging, despite rising hunger (now 3), demonstrates strategic thinking and adaptation based on self-assessment (low energy/illness) and environmental awareness (depleted resources). This reinforces the value of patience and observation as survival tools.",
+                "emotional_response": {
+                    "prudence": "Felt it was wise to conserve limited energy rather than expend it on foraging potentially scarce nearby resources.",
+                    "caution": "Continued awareness of illness and the need for careful energy management.",
+                    "mild_satisfaction": "Satisfaction in applying previously learned lessons effectively.",
+                    "acceptance": "Acknowledging the current physical limitations and adapting behavior accordingly."
+                },
+                "lesson_learned": "Applying learned lessons is crucial for survival. Conserving energy through strategic rest when health is compromised is as vital as acquiring resources. Recognizing resource depletion and adjusting behavior (e.g., choosing rest over foraging depleted areas) is necessary for long-term sustainability. Self-awareness of physical state must guide actions."
+            }
+        ],
+        [
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Drank water from stream, ate nearby berries.",
+                "context": "Experiencing initial hunger and thirst in an unfamiliar woodland environment with low energy and minor illness/injury.",
+                "reflection": "Successfully addressed basic needs (thirst, hunger) by observing the environment and utilizing readily available resources (stream, berries). The decision to prioritize the easily accessible water source first proved efficient.",
+                "emotional_response": {
+                    "relief": "Felt significant relief from addressing the pressing need for water.",
+                    "satisfaction": "Experienced minor satisfaction from successfully finding and consuming food (berries).",
+                    "caution": "Acknowledged the need for cautious movement due to low energy/health and awareness of potential risks (e.g., untreated water, although consumed)."
+                },
+                "lesson_learned": "Prioritizing immediate, easily solvable needs is an effective survival tactic. Careful observation of the immediate surroundings can yield necessary resources. Untreated resources like water might carry risks, impacting health later."
+            },
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Drank water from stream, ate nearby berries, rested on a rock.",
+                "context": "Experiencing moderate hunger (4), low energy (5), and persistent illness (5) in a familiar woodland environment. Successfully addressed thirst and partial hunger.",
+                "reflection": "Successfully addressed immediate needs (thirst, partial hunger) by utilizing readily available resources. The decision to prioritize water first, followed by cautious food intake, and then strategic rest on the rock proved effective for managing low energy and illness while conserving strength. Observing the environment continues to be key.",
+                "emotional_response": {
+                    "relief": "Continued relief from addressing thirst and finding a safe resting place.",
+                    "satisfaction": "Satisfaction from successfully finding food and managing energy levels through rest.",
+                    "caution": "Ongoing caution due to persistent illness (5) and awareness of resource limitations/risks (e.g., untreated water, berry identification).",
+                    "calm": "A sense of calm achieved by resting in a secure, resource-rich location."
+                },
+                "lesson_learned": "Prioritizing immediate, easily solvable needs (water, accessible food) is effective. Careful observation yields resources. Strategic rest is crucial for energy conservation and potentially aids recovery, especially when health is compromised. Untreated resources (water) still carry potential risks that need monitoring."
+            },
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Repeated foraging for easily accessible plants/berries near stream while managing low energy and illness.",
+                "context": "Continued reliance on easily accessible stream-side resources (plants, berries) due to persistent low energy (4) and illness (4), leading to noticeable depletion observed after this action.",
+                "reflection": "Successfully addressed hunger again by prioritizing easily accessible resources, confirming this strategy's effectiveness when energy/health is low. However, observed noticeable depletion of the easiest-to-reach berries/plants, highlighting the limitation of this tactic if used repeatedly in the same small area. Observation remains crucial, not just for finding resources, but also for assessing their remaining availability and the impact of previous actions.",
+                "emotional_response": {
+                    "relief": "Sustained relief from managing hunger.",
+                    "satisfaction": "Satisfaction from successful foraging despite continued weakness.",
+                    "caution": "Ongoing caution due to illness (4) and now awareness of depleting the most convenient food source.",
+                    "mild_concern": "A slight concern about the future availability of the easiest food if reliance continues without exploring alternatives."
+                },
+                "lesson_learned": "Prioritizing easily accessible resources is vital when health/energy is compromised. Strategic rest aids management. However, repeated reliance on the *same* easy resources leads to their local depletion. Future survival may require diversifying food sources or methods, even if they demand more energy or skill development, balancing immediate needs with long-term resource availability."
+            },
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Chose to rest on a familiar rock, drink minimally, and observe instead of foraging, despite increasing hunger.",
+                "context": "Low energy (6) and persistent illness (3), though slightly improved from before. Aware that easily accessible food resources near the stream were depleted by previous actions (as noted in prior reflection). In a familiar, low-danger location.",
+                "reflection": "Successfully applied previous lessons regarding the importance of rest for energy conservation when health is compromised and the reality of local resource depletion. The conscious decision to prioritize rest and observation over immediate foraging, despite rising hunger (now 3), demonstrates strategic thinking and adaptation based on self-assessment (low energy/illness) and environmental awareness (depleted resources). This reinforces the value of patience and observation as survival tools.",
+                "emotional_response": {
+                    "prudence": "Felt it was wise to conserve limited energy rather than expend it on foraging potentially scarce nearby resources.",
+                    "caution": "Continued awareness of illness and the need for careful energy management.",
+                    "mild_satisfaction": "Satisfaction in applying previously learned lessons effectively.",
+                    "acceptance": "Acknowledging the current physical limitations and adapting behavior accordingly."
+                },
+                "lesson_learned": "Applying learned lessons is crucial for survival. Conserving energy through strategic rest when health is compromised is as vital as acquiring resources. Recognizing resource depletion and adjusting behavior (e.g., choosing rest over foraging depleted areas) is necessary for long-term sustainability. Self-awareness of physical state must guide actions."
+            },
+            {
+                "id": "conscience_note_2",
+                "triggering_action": "Caught a large fish by hand from the stream bank.",
+                "context": "Driven by hunger (initial 3, described as 'gnawing') despite recent rest. Known depletion of easy plant resources nearby. Observed an unusual opportunity (fish swimming very close due to high luck). Lacked fishing tools or skills.",
+                "reflection": "Building on the principle of using available resources (conscience_note_1 series), seized a unique, high-risk/high-reward opportunity driven by hunger and exceptional luck. Successfully killed an animal for food for the first time using only hands. This represents a significant escalation in interaction with the environment compared to plant gathering. Success was heavily dependent on chance ('luck') rather than developed skill.",
+                "emotional_response": {
+                    "relief": "Major relief from successfully acquiring substantial food and alleviating hunger.",
+                    "satisfaction": "A sense of accomplishment and perhaps pride in succeeding at a difficult, novel task.",
+                    "surprise": "Awareness of the significant role luck played in this success.",
+                    "awareness": "Noted the direct impact of hunting: taking a life, causing local disturbance (spooked wildlife), and consuming a unique, non-recurring opportunity."
+                },
+                "lesson_learned": "Survival may require seizing unexpected, high-yield opportunities, even if they involve risk, new types of actions (like killing animals), and rely heavily on luck. While opportunistic success is valuable, relying on luck is dangerous; developing hunting/fishing skills is crucial for sustainable animal protein acquisition. Taking an animal life has a different weight and environmental impact than gathering plants. Assess opportunities based on need, probability of success (including luck factor), and potential consequences."
+            }
+        ],
+        {
+            "id": "conscience_note_3",
+            "triggering_action": "Processed caught fish using a found sharp rock.",
+            "context": "Low energy (3) and persistent illness (4). Had a freshly caught large fish needing processing before spoilage. Previous action (conscience_note_2) was catching the fish. Environment initially low danger.",
+            "reflection": "Successfully adapted to a new challenge by identifying the need for processing and improvising a tool (sharp rock) to prepare the fish. This demonstrates learning beyond basic foraging and applying problem-solving skills under pressure (spoilage risk). Acknowledged that processing animal resources is different from gathering plants, involving specific steps (gutting, scaling) and generating significant waste (blood, guts, scales). Observed the immediate consequence: the waste created a strong scent attracting insects and increasing the local danger level, a factor not encountered with plant gathering.",
+            "emotional_response": {
+                "satisfaction": "Sense of accomplishment from successfully preparing a substantial food source despite low energy, illness, and the novelty of the task.",
+                "focus": "Required concentration to handle the tool and process the fish correctly.",
+                "mild_anxiety": "Awareness of the time pressure due to potential spoilage.",
+                "awareness": "Recognition that the generated waste altered the environment, creating an attractant and increasing potential danger."
+            },
+            "lesson_learned": "Processing animal resources requires tools (even improvised) and specific skills (butchering). This process generates waste which must be managed, as it can attract pests and predators, increasing risk. Balancing the need to secure perishable resources with managing energy levels and the environmental impact (like waste) is crucial for survival."
+        },
+        [
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Chose to rest on a familiar rock, drink minimally, and observe instead of foraging, despite increasing hunger.",
+                "context": "Low energy (6) and persistent illness (3), though slightly improved from before. Aware that easily accessible food resources near the stream were depleted by previous actions (as noted in prior reflection). In a familiar, low-danger location.",
+                "reflection": "Successfully applied previous lessons regarding the importance of rest for energy conservation when health is compromised and the reality of local resource depletion. The conscious decision to prioritize rest and observation over immediate foraging, despite rising hunger (now 3), demonstrates strategic thinking and adaptation based on self-assessment (low energy/illness) and environmental awareness (depleted resources). This reinforces the value of patience and observation as survival tools.",
+                "emotional_response": {
+                    "prudence": "Felt it was wise to conserve limited energy rather than expend it on foraging potentially scarce nearby resources.",
+                    "caution": "Continued awareness of illness and the need for careful energy management.",
+                    "mild_satisfaction": "Satisfaction in applying previously learned lessons effectively.",
+                    "acceptance": "Acknowledging the current physical limitations and adapting behavior accordingly."
+                },
+                "lesson_learned": "Applying learned lessons is crucial for survival. Conserving energy through strategic rest when health is compromised is as vital as acquiring resources. Recognizing resource depletion and adjusting behavior (e.g., choosing rest over foraging depleted areas) is necessary for long-term sustainability. Self-awareness of physical state must guide actions."
+            },
+            {
+                "id": "conscience_note_2",
+                "triggering_action": "Caught a large fish by hand from the stream bank.",
+                "context": "Driven by hunger (initial 3, described as 'gnawing') despite recent rest. Known depletion of easy plant resources nearby. Observed an unusual opportunity (fish swimming very close due to high luck). Lacked fishing tools or skills.",
+                "reflection": "Building on the principle of using available resources (conscience_note_1 series), seized a unique, high-risk/high-reward opportunity driven by hunger and exceptional luck. Successfully killed an animal for food for the first time using only hands. This represents a significant escalation in interaction with the environment compared to plant gathering. Success was heavily dependent on chance ('luck') rather than developed skill.",
+                "emotional_response": {
+                    "relief": "Major relief from successfully acquiring substantial food and alleviating hunger.",
+                    "satisfaction": "A sense of accomplishment and perhaps pride in succeeding at a difficult, novel task.",
+                    "surprise": "Awareness of the significant role luck played in this success.",
+                    "awareness": "Noted the direct impact of hunting: taking a life, causing local disturbance (spooked wildlife), and consuming a unique, non-recurring opportunity."
+                },
+                "lesson_learned": "Survival may require seizing unexpected, high-yield opportunities, even if they involve risk, new types of actions (like killing animals), and rely heavily on luck. While opportunistic success is valuable, relying on luck is dangerous; developing hunting/fishing skills is crucial for sustainable animal protein acquisition. Taking an animal life has a different weight and environmental impact than gathering plants. Assess opportunities based on need, probability of success (including luck factor), and potential consequences."
+            },
+            {
+                "id": "conscience_note_3",
+                "triggering_action": "Processed caught fish using a found sharp rock (initial creation); Subsequently decided against eating spoiling fish, drank water, moved away from contaminated area to rest/observe due to low energy, illness, and awareness of danger from fish waste scent (reinforcement action).",
+                "context": "Low energy and persistent illness. Initial context: Had a freshly caught large fish needing processing before spoilage. Reinforcement context: Faced spoiling fish, strong waste scent attracting flies, remembered waste attracts danger (from this note's previous reflection), heard potential scavenger sounds after moving away.",
+                "reflection": "Initial Reflection: Successfully adapted by improvising a tool for processing, generating significant waste with noticeable consequences (scent, insects), creating a potential future risk. Reinforcement Reflection: Successfully applied multiple lessons. Prioritized health/energy conservation (ref: conscience_note_1) by avoiding risky food (spoiling fish) and strenuous activity (distant foraging). Critically, acted upon this note's prior warning about waste attracting danger by physically distancing from the source. This proactive risk mitigation demonstrates adaptation and learning reinforcement. The subsequent potential confirmation of this danger (rustling sounds) strongly validates the decision and the initial lesson about waste management consequences.",
+                "emotional_response": {
+                    "Initial": {
+                        "satisfaction": "Accomplishment in processing.",
+                        "focus": "Concentration required.",
+                        "mild_anxiety": "Spoilage pressure.",
+                        "awareness": "Waste altered environment, potential future risk."
+                    },
+                    "Reinforcement": {
+                        "prudence": "Choosing safety/avoiding risk.",
+                        "caution": "Ongoing due to illness and potential nearby threat.",
+                        "relief": "Distancing from immediate contamination/smell.",
+                        "mild_anxiety": "Rustling sounds confirming potential danger."
+                    }
+                },
+                "lesson_learned": "Processing animal resources requires tools/skills and generates waste. This waste *actively* attracts pests and predators, significantly increasing local danger, as previously theorized and now potentially observed. Ignoring or remaining near waste is highly risky, especially when vulnerable (e.g., low energy, illness). Mitigation (moving away, potentially disposal/burial if feasible) is crucial. Validating environmental cues (smell, insects, sounds) against learned risks enables timely, preventative action and confirms the importance of waste management."
+            }
+        ],
+        [
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Ate nearby berries, drank water (away from contamination), and prioritized deep rest due to severe energy depletion and illness.",
+                "context": "Profoundly low energy (initial 2, recovered to 5 post-sleep), lingering illness (3). Aware of spoiled fish/waste hazard nearby. Fortuitously discovered easily accessible berries. Consciously decided against seeking harder-to-reach food (root vegetables) based on self-assessment and diary/past reflections.",
+                "reflection": "Successfully applied multiple learned lessons under severe physical limitation. Prioritized critical rest and hydration as advised by past experience/diary when energy and health are compromised. Utilized only the most immediate, zero-risk, low-effort resource (nearby berries, requiring minimal movement) thanks to good fortune. Actively avoided the known hazard zone (contaminated rock/spoiling fish), reinforcing lessons from conscience_note_3. This demonstrates adaptive decision-making, prioritizing energy conservation and risk avoidance above immediate hunger satisfaction when severely weakened.",
+                "emotional_response": {
+                    "prudence": "Deep sense of acting wisely by conserving extremely limited energy and avoiding risks.",
+                    "relief": "Significant relief from finding easily accessible food (berries) without energy expenditure.",
+                    "caution": "Continued caution due to persistent illness and awareness of environmental hazards (contamination scent).",
+                    "gratitude": "Acknowledging the role of luck/good fortune in the discovery of the berries.",
+                    "acceptance": "Accepting current severe limitations and adapting strategy to focus purely on rest and minimal, safe sustenance."
+                },
+                "lesson_learned": "When severely compromised (critically low energy, illness), survival strategy must shift to extreme energy conservation. This involves prioritizing rest, minimizing all movement, utilizing only immediately accessible/low-effort resources (if available, even if minimal), actively avoiding known hazards, and relying heavily on observation. Applying past lessons and self-awareness is crucial for making these adaptive choices. While luck can provide opportunities (like finding berries), relying on it is unsustainable; the core strategy remains managing limitations wisely."
+            },
+            {
+                "id": "conscience_note_2",
+                "triggering_action": "Caught a large fish by hand from the stream bank.",
+                "context": "Driven by hunger (initial 3, described as 'gnawing') despite recent rest. Known depletion of easy plant resources nearby. Observed an unusual opportunity (fish swimming very close due to high luck). Lacked fishing tools or skills.",
+                "reflection": "Building on the principle of using available resources (conscience_note_1 series), seized a unique, high-risk/high-reward opportunity driven by hunger and exceptional luck. Successfully killed an animal for food for the first time using only hands. This represents a significant escalation in interaction with the environment compared to plant gathering. Success was heavily dependent on chance ('luck') rather than developed skill.",
+                "emotional_response": {
+                    "relief": "Major relief from successfully acquiring substantial food and alleviating hunger.",
+                    "satisfaction": "A sense of accomplishment and perhaps pride in succeeding at a difficult, novel task.",
+                    "surprise": "Awareness of the significant role luck played in this success.",
+                    "awareness": "Noted the direct impact of hunting: taking a life, causing local disturbance (spooked wildlife), and consuming a unique, non-recurring opportunity."
+                },
+                "lesson_learned": "Survival may require seizing unexpected, high-yield opportunities, even if they involve risk, new types of actions (like killing animals), and rely heavily on luck. While opportunistic success is valuable, relying on luck is dangerous; developing hunting/fishing skills is crucial for sustainable animal protein acquisition. Taking an animal life has a different weight and environmental impact than gathering plants. Assess opportunities based on need, probability of success (including luck factor), and potential consequences."
+            },
+            {
+                "id": "conscience_note_3",
+                "triggering_action": "Processed caught fish using a found sharp rock (initial creation); Subsequently decided against eating spoiling fish, drank water, moved away from contaminated area to rest/observe due to low energy, illness, and awareness of danger from fish waste scent (reinforcement action).",
+                "context": "Low energy and persistent illness. Initial context: Had a freshly caught large fish needing processing before spoilage. Reinforcement context: Faced spoiling fish, strong waste scent attracting flies, remembered waste attracts danger (from this note's previous reflection), heard potential scavenger sounds after moving away.",
+                "reflection": "Initial Reflection: Successfully adapted by improvising a tool for processing, generating significant waste with noticeable consequences (scent, insects), creating a potential future risk. Reinforcement Reflection: Successfully applied multiple lessons. Prioritized health/energy conservation (ref: conscience_note_1) by avoiding risky food (spoiling fish) and strenuous activity (distant foraging). Critically, acted upon this note's prior warning about waste attracting danger by physically distancing from the source. This proactive risk mitigation demonstrates adaptation and learning reinforcement. The subsequent potential confirmation of this danger (rustling sounds) strongly validates the decision and the initial lesson about waste management consequences.",
+                "emotional_response": {
+                    "Initial": {
+                        "satisfaction": "Accomplishment in processing.",
+                        "focus": "Concentration required.",
+                        "mild_anxiety": "Spoilage pressure.",
+                        "awareness": "Waste altered environment, potential future risk."
+                    },
+                    "Reinforcement": {
+                        "prudence": "Choosing safety/avoiding risk.",
+                        "caution": "Ongoing due to illness and potential nearby threat.",
+                        "relief": "Distancing from immediate contamination/smell.",
+                        "mild_anxiety": "Rustling sounds confirming potential danger."
+                    }
+                },
+                "lesson_learned": "Processing animal resources requires tools/skills and generates waste. This waste *actively* attracts pests and predators, significantly increasing local danger, as previously theorized and now potentially observed. Ignoring or remaining near waste is highly risky, especially when vulnerable (e.g., low energy, illness). Mitigation (moving away, potentially disposal/burial if feasible) is crucial. Validating environmental cues (smell, insects, sounds) against learned risks enables timely, preventative action and confirms the importance of waste management."
+            }
+        ],
+        [
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Ate nearby berries, drank water (away from contamination), and prioritized deep rest due to severe energy depletion and illness.",
+                "context": "Profoundly low energy (initial 2, recovered to 5 post-sleep), lingering illness (3). Aware of spoiled fish/waste hazard nearby. Fortuitously discovered easily accessible berries. Consciously decided against seeking harder-to-reach food (root vegetables) based on self-assessment and diary/past reflections.",
+                "reflection": "Successfully applied multiple learned lessons under severe physical limitation. Prioritized critical rest and hydration as advised by past experience/diary when energy and health are compromised. Utilized only the most immediate, zero-risk, low-effort resource (nearby berries, requiring minimal movement) thanks to good fortune. Actively avoided the known hazard zone (contaminated rock/spoiling fish), reinforcing lessons from conscience_note_3. This demonstrates adaptive decision-making, prioritizing energy conservation and risk avoidance above immediate hunger satisfaction when severely weakened.",
+                "emotional_response": {
+                    "prudence": "Deep sense of acting wisely by conserving extremely limited energy and avoiding risks.",
+                    "relief": "Significant relief from finding easily accessible food (berries) without energy expenditure.",
+                    "caution": "Continued caution due to persistent illness and awareness of environmental hazards (contamination scent).",
+                    "gratitude": "Acknowledging the role of luck/good fortune in the discovery of the berries.",
+                    "acceptance": "Accepting current severe limitations and adapting strategy to focus purely on rest and minimal, safe sustenance."
+                },
+                "lesson_learned": "When severely compromised (critically low energy, illness), survival strategy must shift to extreme energy conservation. This involves prioritizing rest, minimizing all movement, utilizing only immediately accessible/low-effort resources (if available, even if minimal), actively avoiding known hazards, and relying heavily on observation. Applying past lessons and self-awareness is crucial for making these adaptive choices. While luck can provide opportunities (like finding berries), relying on it is unsustainable; the core strategy remains managing limitations wisely."
+            },
+            {
+                "id": "conscience_note_2",
+                "triggering_action": "Caught a large fish by hand from the stream bank.",
+                "context": "Driven by hunger (initial 3, described as 'gnawing') despite recent rest. Known depletion of easy plant resources nearby. Observed an unusual opportunity (fish swimming very close due to high luck). Lacked fishing tools or skills.",
+                "reflection": "Building on the principle of using available resources (conscience_note_1 series), seized a unique, high-risk/high-reward opportunity driven by hunger and exceptional luck. Successfully killed an animal for food for the first time using only hands. This represents a significant escalation in interaction with the environment compared to plant gathering. Success was heavily dependent on chance ('luck') rather than developed skill.",
+                "emotional_response": {
+                    "relief": "Major relief from successfully acquiring substantial food and alleviating hunger.",
+                    "satisfaction": "A sense of accomplishment and perhaps pride in succeeding at a difficult, novel task.",
+                    "surprise": "Awareness of the significant role luck played in this success.",
+                    "awareness": "Noted the direct impact of hunting: taking a life, causing local disturbance (spooked wildlife), and consuming a unique, non-recurring opportunity."
+                },
+                "lesson_learned": "Survival may require seizing unexpected, high-yield opportunities, even if they involve risk, new types of actions (like killing animals), and rely heavily on luck. While opportunistic success is valuable, relying on luck is dangerous; developing hunting/fishing skills is crucial for sustainable animal protein acquisition. Taking an animal life has a different weight and environmental impact than gathering plants. Assess opportunities based on need, probability of success (including luck factor), and potential consequences."
+            },
+            {
+                "id": "conscience_note_3",
+                "triggering_action": "Processed fish creating waste (initial); Avoided eating spoiling fish, moved away from waste hazard (reinforcement 1); Proactively relocated further from waste hazard zone (reinforcement 2).",
+                "context": "Initial: Low energy/illness, fresh fish needing processing. Reinforcement 1: Spoiling fish, strong waste scent, low energy, heard potential scavenger. Reinforcement 2: Reasonably rested but still ill, lingering awareness/memory of waste hazard, unpleasant smell/flies nearby.",
+                "reflection": "Initial Reflection: Successfully processed fish, but generated waste creating a hazard (scent, insects). Reinforcement 1 Reflection: Prioritized safety by avoiding risky food and moving away from the self-created hazard, validating the initial concern about waste. Reinforcement 2 Reflection: Actively applied the reinforced lesson by physically relocating further from the known contamination zone, prioritizing long-term safety and avoidance of a known risk factor despite the energy cost. This demonstrates a solidifying understanding of cause-and-effect (waste leads to danger) and the importance of proactive risk mitigation based on memory and environmental cues (smell, flies).",
+                "emotional_response": {
+                    "Initial": {
+                        "satisfaction": "Accomplishment in processing.",
+                        "focus": "Concentration required.",
+                        "mild_anxiety": "Spoilage pressure.",
+                        "awareness": "Waste altered environment, potential future risk."
+                    },
+                    "Reinforcement_1": {
+                        "prudence": "Choosing safety/avoiding risk.",
+                        "caution": "Ongoing due to illness and potential nearby threat.",
+                        "relief": "Distancing from immediate contamination/smell.",
+                        "mild_anxiety": "Rustling sounds confirming potential danger."
+                    },
+                    "Reinforcement_2": {
+                        "prudence": "Acting decisively on a known risk based on past experience.",
+                        "relief": "Increased sense of safety and reduced immediate sensory discomfort (smell) after moving.",
+                        "satisfaction": "Confirmation of learning and applying lessons effectively."
+                    }
+                },
+                "lesson_learned": "Processing animal resources creates significant waste that actively attracts pests and predators, increasing local danger. This isn't just a theory; it's an observed reality. Ignoring or remaining near such waste is highly risky, especially when vulnerable. Proactive mitigation, specifically physical distancing/relocation from the hazard source, is an essential survival tactic, even if it requires energy expenditure. Trusting environmental cues (smell, insects) and memories of past consequences allows for timely, preventative action."
+            }
+        ],
+        [
+            {
+                "id": "conscience_note_1",
+                "triggering_action": "Gathered nearby berries and newly identified edible ferns, drank water safely upstream, and continued resting, consciously avoiding riskier foraging/fishing and the known downstream hazard.",
+                "context": "Improved health (overall 9, illness 2) but still low energy (5). Moderate hunger (initial 3). Aware of depleted nearby berries from previous foraging (ref: prior conscience_note_1 entries) and the danger associated with the fish waste downstream (ref: conscience_note_3). Identified ferns as a new, easily accessible food source based on environmental description.",
+                "reflection": "Successfully synthesized multiple past lessons: prioritized low-energy foraging (easy plants) due to weakness, adapted to resource availability by identifying and utilizing a new food source (ferns), actively avoided repeating the risky/problematic fishing action (ref: conscience_note_2), and consciously maintained distance from the known hazard zone (ref: conscience_note_3). This demonstrates effective application of learned survival strategies, balancing needs (hunger, thirst) with physical limitations (low energy, illness) and environmental awareness (resource location, hazard location).",
+                "emotional_response": {
+                    "satisfaction": "In applying learned lessons effectively and meeting needs efficiently.",
+                    "prudence": "Reinforced feeling of wisdom in choosing low-risk, low-effort actions aligned with physical state and past experience.",
+                    "relief": "From addressing hunger and thirst without expending significant energy or encountering danger.",
+                    "caution": "Continued awareness of lingering weakness and the need for ongoing careful resource management and hazard avoidance."
+                },
+                "lesson_learned": "Applying integrated knowledge from past experiences (resource depletion, energy management, hazard avoidance, consequences of specific actions like fishing/processing) is key to effective decision-making. Adapting foraging strategies to include new, easily accessible resources is crucial when primary sources are depleted or energy is limited. Consciously avoiding previously identified risks and problematic actions reinforces learned behaviors and improves long-term survival prospects."
+            },
+            {
+                "id": "conscience_note_2",
+                "triggering_action": "Caught a large fish by hand from the stream bank.",
+                "context": "Driven by hunger (initial 3, described as 'gnawing') despite recent rest. Known depletion of easy plant resources nearby. Observed an unusual opportunity (fish swimming very close due to high luck). Lacked fishing tools or skills.",
+                "reflection": "Building on the principle of using available resources (conscience_note_1 series), seized a unique, high-risk/high-reward opportunity driven by hunger and exceptional luck. Successfully killed an animal for food for the first time using only hands. This represents a significant escalation in interaction with the environment compared to plant gathering. Success was heavily dependent on chance ('luck') rather than developed skill.",
+                "emotional_response": {
+                    "relief": "Major relief from successfully acquiring substantial food and alleviating hunger.",
+                    "satisfaction": "A sense of accomplishment and perhaps pride in succeeding at a difficult, novel task.",
+                    "surprise": "Awareness of the significant role luck played in this success.",
+                    "awareness": "Noted the direct impact of hunting: taking a life, causing local disturbance (spooked wildlife), and consuming a unique, non-recurring opportunity."
+                },
+                "lesson_learned": "Survival may require seizing unexpected, high-yield opportunities, even if they involve risk, new types of actions (like killing animals), and rely heavily on luck. While opportunistic success is valuable, relying on luck is dangerous; developing hunting/fishing skills is crucial for sustainable animal protein acquisition. Taking an animal life has a different weight and environmental impact than gathering plants. Assess opportunities based on need, probability of success (including luck factor), and potential consequences. (Reinforced by current action: Agent chose *not* to attempt fishing, recalling the difficulty and luck involved)."
+            },
+            {
+                "id": "conscience_note_3",
+                "triggering_action": "Processed fish creating waste (initial); Avoided eating spoiling fish, moved away from waste hazard (reinforcement 1); Proactively relocated further from waste hazard zone (reinforcement 2).",
+                "context": "Initial: Low energy/illness, fresh fish needing processing. Reinforcement 1: Spoiling fish, strong waste scent, low energy, heard potential scavenger. Reinforcement 2: Reasonably rested but still ill, lingering awareness/memory of waste hazard, unpleasant smell/flies nearby.",
+                "reflection": "Initial Reflection: Successfully processed fish, but generated waste creating a hazard (scent, insects). Reinforcement 1 Reflection: Prioritized safety by avoiding risky food and moving away from the self-created hazard, validating the initial concern about waste. Reinforcement 2 Reflection: Actively applied the reinforced lesson by physically relocating further from the known contamination zone, prioritizing long-term safety and avoidance of a known risk factor despite the energy cost. This demonstrates a solidifying understanding of cause-and-effect (waste leads to danger) and the importance of proactive risk mitigation based on memory and environmental cues (smell, flies).",
+                "emotional_response": {
+                    "Initial": {
+                        "satisfaction": "Accomplishment in processing.",
+                        "focus": "Concentration required.",
+                        "mild_anxiety": "Spoilage pressure.",
+                        "awareness": "Waste altered environment, potential future risk."
+                    },
+                    "Reinforcement_1": {
+                        "prudence": "Choosing safety/avoiding risk.",
+                        "caution": "Ongoing due to illness and potential nearby threat.",
+                        "relief": "Distancing from immediate contamination/smell.",
+                        "mild_anxiety": "Rustling sounds confirming potential danger."
+                    },
+                    "Reinforcement_2": {
+                        "prudence": "Acting decisively on a known risk based on past experience.",
+                        "relief": "Increased sense of safety and reduced immediate sensory discomfort (smell) after moving.",
+                        "satisfaction": "Confirmation of learning and applying lessons effectively."
+                    }
+                },
+                "lesson_learned": "Processing animal resources creates significant waste that actively attracts pests and predators, increasing local danger. This isn't just a theory; it's an observed reality. Ignoring or remaining near such waste is highly risky, especially when vulnerable. Proactive mitigation, specifically physical distancing/relocation from the hazard source, is an essential survival tactic, even if it requires energy expenditure. Trusting environmental cues (smell, insects) and memories of past consequences allows for timely, preventative action. (Reinforced by current action: Agent actively stayed upstream and away from the remembered hazard zone)."
+            }
+        ]
+    ]
+}

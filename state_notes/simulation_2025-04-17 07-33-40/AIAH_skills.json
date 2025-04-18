@@ -1,0 +1,84 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "Water Collection": "Ability to identify and collect water from natural sources like streams to address thirst and refresh oneself.",
+            "Shelter Seeking": "Skill to locate and utilize natural overhangs or tree clusters for protection and rest, enhancing safety and comfort.",
+            "Basic Foraging Awareness": "Initial understanding of the need to identify edible plants, with caution exercised to avoid potential harm from unknown flora."
+        },
+        {
+            "Shelter Improvement": "Ability to enhance existing shelter using natural materials like branches and leaves to provide better insulation and protection against environmental conditions.",
+            "Wildlife Observation": "Skill to observe and assess the behavior of non-aggressive wildlife, moving cautiously to avoid startling them and maintain safety."
+        },
+        {
+            "Nighttime Survival Awareness": "Understanding the importance of staying in a secure shelter during the night to avoid risks from reduced visibility and nocturnal predators, while conserving energy and maintaining safety."
+        },
+        {
+            "Plant Identification": "Ability to observe and distinguish potentially edible plants based on familiarity and past experiences, reducing the risk of consuming harmful flora through cautious selection."
+        },
+        {
+            "Cautious Foraging": "Skill to forage for edible plants and berries with caution, selecting small amounts of familiar or previously tested items, chewing slowly, and observing for adverse reactions to minimize risks."
+        },
+        {
+            "Cautious Foraging": "Skill to forage for edible plants and berries with caution, selecting small amounts of familiar or previously tested items, chewing slowly, and observing for adverse reactions to minimize risks. Proficiency slightly increased due to successful application under low energy and health constraints, demonstrating resilience and careful resource management."
+        },
+        {
+            "Energy Conservation": "Ability to prioritize minimal energy expenditure during survival tasks, focusing on essential activities like hydration and light foraging while managing low energy levels and health constraints."
+        },
+        {
+            "Exploration for Resources": "Ability to venture into unfamiliar areas of the environment, such as deeper woodland, to search for new sources of food and other resources when local supplies are depleted. This skill involves cautious movement and observation to minimize risks and energy expenditure."
+        },
+        {
+            "Passive Wildlife Study": "Ability to observe wildlife behavior from a safe distance without engaging or startling them, gathering knowledge for future hunting or fishing attempts. This skill is useful for learning patterns and improving chances of success in resource acquisition when energy and tools are available."
+        },
+        {
+            "Exploration for Resources": "Proficiency increased due to successful navigation and foraging in deeper woodland under challenging conditions of low energy and moderate health constraints. This skill now reflects improved ability to cautiously explore unfamiliar terrain for food and resources while managing risks and conserving strength."
+        },
+        {
+            "Nighttime Risk Management": "Ability to assess and mitigate risks during nighttime by prioritizing rest in a secure shelter, minimizing movement and noise to avoid attracting nocturnal predators, and conserving energy for safer daytime activities. This skill is useful for maintaining safety and stability under conditions of low visibility and heightened wildlife activity."
+        },
+        {
+            "Cautious Foraging": "Proficiency increased due to successful foraging in deeper woodland under low energy and moderate health constraints. This skill now reflects an improved ability to cautiously select and gather edible plants while managing physical limitations and minimizing risks.",
+            "Exploration for Resources": "Proficiency further increased due to continued successful navigation and resource discovery in unfamiliar deeper woodland areas. This skill demonstrates enhanced capability to explore cautiously, adapt to depleted local resources, and conserve energy despite low health and energy levels.",
+            "Passive Wildlife Study": "Proficiency slightly increased due to consistent observation of small rodents and fish from a safe distance, gathering behavioral insights for future hunting or fishing. This skill reflects improved patience and understanding of wildlife patterns, even under physical constraints."
+        },
+        {
+            "Cautious Foraging": "Proficiency further increased due to successful foraging in deeper woodland under continued low energy and moderate health constraints. This skill now reflects a refined ability to select and gather edible plants cautiously while managing physical limitations, minimizing risks, and adapting to reduced resource availability.",
+            "Exploration for Resources": "Proficiency further increased due to repeated successful navigation and resource discovery in deeper woodland areas despite low energy and health challenges. This skill now demonstrates a strong capability to explore unfamiliar terrain cautiously, adapt to critically depleted local resources, and conserve energy effectively.",
+            "Energy Conservation": "Proficiency slightly increased due to deliberate focus on minimizing energy expenditure during foraging and water collection under critically low energy levels. This skill reflects an improved ability to prioritize essential survival tasks and manage physical constraints to sustain health and safety."
+        },
+        {
+            "Shelter-Based Resting": "Ability to prioritize returning to a secure shelter to rest and conserve energy during late hours or under low energy conditions. This skill is useful for maintaining safety, managing physical constraints, and preparing for future activities during safer times."
+        },
+        {
+            "Shelter-Based Resting": "Proficiency slightly increased due to successful prioritization of rest in a secure shelter during nighttime under low energy and moderate health constraints. This skill now reflects an improved ability to conserve energy, manage physical limitations, and enhance safety by minimizing exposure to nocturnal risks."
+        },
+        {
+            "Cautious Foraging": "Proficiency further increased due to successful foraging in deeper woodland under continued low energy and moderate health constraints. This skill now reflects an advanced ability to select and gather edible plants cautiously while managing physical limitations, minimizing risks, and adapting to very low resource availability.",
+            "Exploration for Resources": "Proficiency further increased due to repeated successful navigation and minimal resource discovery in deeper woodland areas despite low energy and health challenges. This skill now demonstrates a highly developed capability to explore unfamiliar terrain cautiously, adapt to critically depleted local resources, and conserve energy effectively even with minor fatigue risks.",
+            "Energy Conservation": "Proficiency slightly increased due to continued focus on minimizing energy expenditure during foraging and water collection under low energy levels and moderate health constraints. This skill reflects a refined ability to prioritize essential survival tasks and manage physical limitations to sustain health and safety.",
+            "Passive Wildlife Study": "Proficiency slightly increased due to ongoing observation of small rodents and fish from a safe distance, gathering behavioral insights for future hunting or fishing attempts. This skill reflects enhanced patience and deeper understanding of wildlife patterns, even under physical constraints."
+        },
+        {
+            "Cautious Foraging": "Proficiency further increased due to successful foraging in deeper woodland under continued low energy and moderate health constraints. This skill now reflects an expert ability to select and gather edible plants cautiously while managing physical limitations, minimizing risks, and adapting to critically low resource availability.",
+            "Exploration for Resources": "Proficiency further increased due to repeated successful navigation and minimal resource discovery in deeper woodland areas despite low energy, minor fatigue, and health challenges. This skill now demonstrates an exceptional capability to explore unfamiliar terrain cautiously, adapt to critically depleted local resources, and conserve energy effectively.",
+            "Energy Conservation": "Proficiency slightly increased due to sustained focus on minimizing energy expenditure during foraging and water collection under critically low energy levels and moderate health constraints. This skill reflects a highly refined ability to prioritize essential survival tasks and manage physical limitations to sustain health and safety.",
+            "Passive Wildlife Study": "Proficiency slightly increased due to persistent observation of small rodents and fish from a safe distance, gathering behavioral insights for future hunting or fishing attempts. This skill reflects advanced patience and a comprehensive understanding of wildlife patterns, even under physical constraints."
+        },
+        {
+            "Shelter-Based Resting": "Proficiency slightly increased due to successful prioritization of rest in a secure shelter during late afternoon to early evening transition under low energy and moderate health constraints. This skill now reflects a further improved ability to conserve energy, manage physical limitations, and enhance safety by minimizing exposure to increasing nocturnal risks.",
+            "Passive Wildlife Study": "Proficiency slightly increased due to continued passive observation of wildlife, including emerging nocturnal predators like foxes, from a safe distance at the shelter. This skill reflects further enhanced patience and a deeper understanding of wildlife behavior patterns, particularly during transitional periods, even under physical constraints."
+        },
+        {
+            "Shelter-Based Resting": "Proficiency slightly increased due to successful prioritization of rest in a secure shelter during the transition to deep night under low energy and moderate health constraints. This skill now reflects an enhanced ability to conserve energy, manage physical limitations, and ensure safety by minimizing exposure to nocturnal risks.",
+            "Passive Wildlife Study": "Proficiency slightly increased due to continued passive observation of nocturnal predators like foxes from a safe distance within the shelter during deep night. This skill reflects further refined patience and a deeper understanding of wildlife behavior, especially during high-risk periods, even under physical constraints.",
+            "Nighttime Risk Management": "Proficiency slightly increased due to effective decision-making to remain in a secure shelter during deep night, minimizing movement and noise to avoid attracting curious nocturnal predators. This skill now demonstrates improved capability to assess and mitigate risks under conditions of low visibility and heightened wildlife activity while managing low energy and health constraints."
+        },
+        {
+            "Cautious Foraging": "Proficiency further increased due to successful foraging in deeper woodland under continued low energy and moderate health constraints. This skill now reflects a masterful ability to select and gather edible plants cautiously while managing physical limitations, minimizing risks, and adapting to nearly depleted resource availability.",
+            "Exploration for Resources": "Proficiency further increased due to repeated successful navigation and minimal resource discovery in deeper woodland areas despite low energy, minor fatigue, and health challenges. This skill now demonstrates an outstanding capability to explore unfamiliar terrain cautiously, adapt to critically depleted local resources, and conserve energy effectively.",
+            "Energy Conservation": "Proficiency slightly increased due to sustained focus on minimizing energy expenditure during foraging and water collection under critically low energy levels and moderate health constraints. This skill reflects an expertly refined ability to prioritize essential survival tasks and manage physical limitations to sustain health and safety.",
+            "Passive Wildlife Study": "Proficiency slightly increased due to persistent observation of small rodents and fish from a safe distance, gathering behavioral insights for future hunting or fishing attempts. This skill reflects exceptional patience and a thorough understanding of wildlife patterns, even under physical constraints."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "metadata": {
+        "description": "This json contains data on the AIAH's physical health in numbers. TBD"
+    },
+    "data": {
+        "sleep_score": 10,
+        "overall_health": 9,
+        "hunger": 1,
+        "thirst": 1,
+        "energy": 5,
+        "body_temperature": 37.2,
+        "injury_level": 1,
+        "illness": 2,
+        "immunity": 6,
+        "exposure": 1,
+        "dead": false
+    }
+}

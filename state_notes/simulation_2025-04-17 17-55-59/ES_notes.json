@@ -1,0 +1,314 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "day": 0,
+            "notes": []
+        },
+        {
+            "day": 1,
+            "notes": [
+                {
+                    "terrain": "Mixed woodland with patches of thick undergrowth and clearer areas. A small, slow-moving stream cuts through the area.",
+                    "temperature": 18,
+                    "weather": "Clear skies, mild breeze. Feels like Late Spring.",
+                    "food_availability": "Noticeable edible plants (berries starting to ripen, some root vegetables identifiable). Insect life is present. Evidence of small mammals.",
+                    "water_availability": "Small stream nearby, water appears clear.",
+                    "shelter_options": "Thick tree canopies, some larger rocks offering potential overhangs. No obvious caves.",
+                    "wildlife": "Frequent bird calls, squirrels observed. Tracks suggest deer or similar herbivores pass through. No immediate predator signs.",
+                    "danger_level": "Low (Unfamiliar territory, potential for hidden hazards like uneven ground, but no direct threats observed)."
+                },
+                {
+                    "day": 1,
+                    "terrain": "Mixed woodland with patches of thick undergrowth and clearer areas. Agent is now beside a small, slow-moving stream.",
+                    "temperature": 18,
+                    "weather": "Clear skies, mild breeze. Feels like Late Spring.",
+                    "food_availability": "Noticeable edible plants. Some early-ripening berries near the stream were consumed. Root vegetables identifiable elsewhere. Insect life present. Evidence of small mammals.",
+                    "water_availability": "Small stream nearby, water appears clear and was consumed by the agent. Flow seems steady.",
+                    "shelter_options": "Thick tree canopies, some larger rocks offering potential overhangs. No obvious caves.",
+                    "wildlife": "Frequent bird calls slightly muted near the stream due to agent presence. Squirrels observed keeping distance. Tracks suggest deer or similar herbivores pass through. No immediate predator signs.",
+                    "danger_level": "Low (Unfamiliar territory, potential for hidden hazards, slight risk from drinking untreated water, but no direct threats observed).",
+                    "notes_for_future": {
+                        "wildlife_alert": "Agent's presence near the stream caused temporary, localized disturbance to small wildlife.",
+                        "resource_change": "Agent successfully located and drank water from the stream. A small quantity of early berries near the stream was gathered and consumed.",
+                        "environmental_shift": "Agent has moved to the stream bank. Footprints and signs of foraging/drinking are now present in this specific location."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "notes": [
+                {
+                    "terrain": "Mixed woodland beside a clear, slow-moving stream. The undergrowth seems less dense near the water, and a faint game trail is visible leading away from the bank.",
+                    "temperature": 20,
+                    "weather": "Clear skies, bright sunshine, gentle breeze. Feels like a perfect Late Spring day.",
+                    "food_availability": "Abundant edible plants and ripening berries along the stream bank. Root vegetables identifiable nearby. Clear signs of small mammals (fresh tracks, nibbled plants). Fish clearly visible in the stream.",
+                    "water_availability": "Clear, fresh water easily accessible from the stream.",
+                    "shelter_options": "Thick tree canopy overhead provides good shade. A large, flat rock nearby offers a dry place to sit/work. A particularly dense thicket a short distance away could offer concealment.",
+                    "wildlife": "Active bird song. Squirrels foraging nearby, seemingly less cautious than yesterday. Fish darting in the stream. Fresh deer tracks evident on the game trail. No signs of predators noted.",
+                    "danger_level": "Very Low (Familiar stream location, abundant resources, favorable weather, no predator signs detected. Main risks are standard wilderness hazards like trips or misidentifying plants)."
+                },
+                {
+                    "terrain": "Mixed woodland beside a clear, slow-moving stream. The undergrowth seems less dense near the water. A faint game trail leads away from the bank. A large, flat rock near the stream is currently occupied.",
+                    "temperature": 20,
+                    "weather": "Clear skies, bright sunshine, gentle breeze.",
+                    "food_availability": "Abundant edible plants and ripening berries along the stream bank, though a few easily accessible berries have been consumed. Root vegetables identifiable nearby. Clear signs of small mammals. Fish clearly visible in the stream.",
+                    "water_availability": "Clear, fresh water easily accessible from the stream. Water level unchanged.",
+                    "shelter_options": "Thick tree canopy overhead provides good shade. The large, flat rock near the stream is occupied. A particularly dense thicket a short distance away offers concealment.",
+                    "wildlife": "Active bird song continues, though slightly subdued immediately around the agent's resting spot. Squirrels forage nearby but maintain a cautious distance. Fish darting in the stream. Fresh deer tracks evident on the game trail.",
+                    "danger_level": "Very Low (Familiar stream location, abundant resources, favorable weather, no predator signs detected. Agent is resting in a relatively open spot near water.)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Agent's stationary presence on the rock has caused nearby small wildlife (squirrels, birds) to become slightly more cautious and maintain distance.",
+                        "resource_change": "Agent successfully drank stream water. A small quantity of easily accessible berries near the stream bank were consumed.",
+                        "environmental_shift": "Agent is resting on the large, flat rock near the stream. Minor signs of berry foraging are present at the stream's edge. Water consumption impact is negligible."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "notes": [
+                {
+                    "terrain": "Mixed woodland beside a clear, slow-moving stream. A faint game trail leads away from the bank.",
+                    "temperature": 22,
+                    "weather": "Clear skies, warm sunshine, gentle breeze.",
+                    "food_availability": "Abundant edible plants and ripening berries along the stream bank (some easily accessible ones were picked yesterday). Root vegetables identifiable nearby. Signs of small mammals remain. Fish visible in the stream.",
+                    "water_availability": "Clear, fresh water easily accessible from the stream.",
+                    "shelter_options": "Thick tree canopy overhead provides good shade. A large, flat rock near the stream is now unoccupied. A particularly dense thicket a short distance away offers concealment.",
+                    "wildlife": "Active bird song fills the air. Squirrels forage cautiously nearby. Fish dart in the stream. Fresh deer tracks are visible on the game trail.",
+                    "danger_level": "Low (Familiar stream location, abundant resources, favorable weather, no predator signs detected. Wildlife seems aware but not alarmed.)"
+                },
+                {
+                    "terrain": "Mixed woodland beside a clear, slow-moving stream. Signs of recent foraging (disturbed plants, footprints) are visible along the banks near previously picked berry patches. A faint game trail leads away from the bank.",
+                    "temperature": 22,
+                    "weather": "Clear skies, warm sunshine, gentle breeze.",
+                    "food_availability": "Edible plants and ripening berries along the stream bank have been further depleted, especially the most accessible ones. Root vegetables remain identifiable nearby. Signs of small mammals persist. Fish visible in the stream.",
+                    "water_availability": "Clear, fresh water easily accessible from the stream.",
+                    "shelter_options": "Thick tree canopy overhead provides good shade. A large, flat rock near the stream is unoccupied. A particularly dense thicket a short distance away offers concealment.",
+                    "wildlife": "Bird song is slightly more subdued near the foraging area. Squirrels maintain a greater distance, chattering occasionally. Fish dart in the stream, perhaps slightly more wary. Fresh deer tracks are visible on the game trail.",
+                    "danger_level": "Low (Familiar stream location, remaining resources plentiful overall despite localized foraging, favorable weather, no predator signs detected. Wildlife is alert but not aggressive.)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Agent's foraging activity caused localized, temporary disturbance to small wildlife (birds, squirrels) near the stream.",
+                        "resource_change": "Agent successfully foraged for edible plants and berries along the stream bank, further reducing the easily accessible supply in that specific area.",
+                        "environmental_shift": "Increased signs of human activity (footprints, disturbed vegetation from foraging) present along the stream bank."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "notes": [
+                {
+                    "terrain": "Mixed woodland alongside a clear, slow-moving stream. A faint game trail, marked with fresh deer tracks from yesterday, leads away from the stream bank and deeper into the woods. Signs of your previous foraging (disturbed plants, footprints near picked berry patches) are evident along the bank.",
+                    "temperature": 18,
+                    "weather": "Clear skies, cool morning air, sun is rising, casting long shadows.",
+                    "food_availability": "Edible plants and the specific berry patches near your current spot remain noticeably depleted from yesterday's foraging. Root vegetables are still identifiable slightly further from the immediate bank. Small mammals (squirrels) are active but keep their distance. Fish are visible darting in the clearer parts of the stream.",
+                    "water_availability": "Clear, fresh water easily accessible from the stream.",
+                    "shelter_options": "Thick tree canopy provides good cover overhead. A large, flat rock near the stream remains unoccupied. A dense thicket a short distance away offers concealment.",
+                    "wildlife": "Birdsong is prominent in the early morning air. Squirrels chatter occasionally from the trees, maintaining distance. Fish are active in the stream. The fresh deer tracks on the trail are a clear sign of recent larger animal presence.",
+                    "danger_level": "Low (Familiar stream location, favorable weather, ample water, remaining food sources identifiable, no predator signs detected. Wildlife is alert but not immediately aggressive.)"
+                },
+                {
+                    "terrain": "Mixed woodland alongside a clear, slow-moving stream. The agent is resting on the large, flat rock near the bank. Signs of previous foraging (disturbed plants, footprints) remain evident nearby. A faint game trail leads away from the stream.",
+                    "temperature": 21,
+                    "weather": "Clear skies, sun is higher now, early morning coolness fading into pleasant warmth.",
+                    "food_availability": "Edible plants and berry patches near the agent's resting spot remain depleted from previous foraging. Root vegetables are identifiable slightly further from the bank. Small mammals (squirrels) are active in the mid-distance. Fish are visible in the stream.",
+                    "water_availability": "Clear, fresh water easily accessible from the stream. Negligible change from agent drinking.",
+                    "shelter_options": "Thick tree canopy provides good cover overhead. The large, flat rock is currently occupied by the agent. A dense thicket a short distance away offers concealment.",
+                    "wildlife": "Birdsong continues, adapting to the progressing morning. Squirrels chatter occasionally, keeping their distance from the stationary agent. Fish dart in the stream. The deer tracks on the trail appear slightly less fresh than at dawn.",
+                    "danger_level": "Low (Familiar location, agent is stationary and non-threatening, favorable weather, ample water, no predator signs detected. Wildlife remains cautious but unalarmed.)",
+                    "notes_for_future": {
+                        "wildlife_alert": "Agent's stationary presence on the rock continues. Nearby small wildlife (squirrels, birds) maintain cautious distance but show no increased alarm. Wildlife activity patterns shifting naturally as morning progresses.",
+                        "resource_change": "Agent consumed a small amount of water (negligible impact). No food resources gathered. Previously depleted food patches near the stream show no recovery yet.",
+                        "environmental_shift": "Agent remained stationary, resting on the flat rock near the stream. Time progressed towards mid-morning, temperature increased. Signs of previous foraging persist in the immediate vicinity."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "notes": [
+                {
+                    "terrain": "Mixed woodland bordering a clear, slow-moving stream. You are currently resting on a large, flat rock near the bank.",
+                    "temperature": 22,
+                    "weather": "Clear skies, bright sunshine, gentle breeze.",
+                    "food_availability": "Nearby edible plants remain depleted from previous foraging. Root vegetables are identifiable further inland. Squirrels are active nearby. Notably, several large fish are swimming unusually close to your position in the stream (High Luck).",
+                    "water_availability": "Abundant fresh water from the stream beside you.",
+                    "shelter_options": "Good tree canopy cover overhead. A dense thicket nearby offers concealment. The rock you are on provides a stable resting spot.",
+                    "wildlife": "Birds singing, active squirrels nearby, fish visible in the stream (some unusually close). Older deer tracks lead away from the water.",
+                    "danger_level": "Very Low (Familiar area, no predator signs, favourable weather, abundant water, wildlife seems unconcerned by your stationary presence)."
+                },
+                {
+                    "terrain": "Mixed woodland bordering a clear, slow-moving stream. The agent is near the large, flat rock where they were resting, close to the stream bank. Water near the rock edge is slightly disturbed from the recent action.",
+                    "temperature": 22,
+                    "weather": "Clear skies, bright sunshine, gentle breeze.",
+                    "food_availability": "Success! Due to exceptionally high luck (9) and the unusual proximity of the fish, the agent managed to catch one large fish with their hands. This significantly addresses immediate hunger needs once processed. However, the commotion has scared off the other nearby fish, which are no longer close to the bank. Nearby edible plants remain depleted. Root vegetables are still identifiable further inland. Squirrels remain active but are now more distant and wary.",
+                    "water_availability": "Abundant fresh water from the stream.",
+                    "shelter_options": "Good tree canopy cover overhead. A dense thicket nearby offers concealment. The large, flat rock provides a stable base, though the agent may have moved slightly during the catch.",
+                    "wildlife": "Birds momentarily startled into silence or flight, now cautiously resuming calls from a distance. Squirrels have moved further away, chattering nervously. The fish that were unusually close have darted away into deeper water; only the caught fish remains.",
+                    "danger_level": "Low. While the area is familiar and weather favorable, the sudden splashing and successful predation attempt has created a localized disturbance, potentially attracting unwanted attention (though unlikely given previous low threat signs). Wildlife in the immediate vicinity is now spooked.",
+                    "notes_for_future": {
+                        "wildlife_alert": "Agent's successful but rudimentary fishing attempt caused significant localized disturbance. Nearby fish (other than the one caught) are spooked and no longer accessible near the bank. Squirrels and birds are more wary and maintain greater distance.",
+                        "resource_change": "Agent successfully caught one large fish due to high luck, significantly impacting food resources positively (potential gain). The unique opportunity of unusually close fish is now gone. Previously depleted plant resources remain unchanged.",
+                        "environmental_shift": "Signs of struggle/splashing present near the flat rock at the stream's edge. The immediate wildlife dynamic has shifted due to the successful hunt. One fish removed from the local ecosystem."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 6,
+            "notes": [
+                {
+                    "terrain": "Mixed woodland bordering a clear, slow-moving stream. Agent is situated on a large, flat rock near the stream bank.",
+                    "temperature": 24,
+                    "weather": "Clear skies, warm sunshine, gentle breeze.",
+                    "food_availability": "One large, fresh fish (just caught). Nearby edible plants remain depleted. Root vegetables identifiable further inland. Squirrels are present but wary and distant.",
+                    "water_availability": "Abundant fresh water from the stream.",
+                    "shelter_options": "Good tree canopy overhead. A dense thicket nearby offers concealment. The large, flat rock provides a stable, open base.",
+                    "wildlife": "Birds cautiously resuming calls from a distance. Squirrels remain wary and further away. Stream fish (other than the catch) have moved to deeper water due to the recent commotion.",
+                    "danger_level": "Low. Weather is favorable, no predators detected. The primary concern is processing the caught fish before spoilage. Localized disturbance may have attracted unseen attention, but high luck minimizes immediate risk."
+                },
+                {
+                    "terrain": "Mixed woodland bordering a clear, slow-moving stream. The large, flat rock near the stream bank is now marked with fish scales, blood, and discarded fish guts. A suitable sharp-edged rock lies nearby. Signs of previous foraging remain visible further along the bank.",
+                    "temperature": 25,
+                    "weather": "Clear skies, warm sunshine persists, gentle breeze (slightly carrying the scent of fish).",
+                    "food_availability": "One portion of prepared raw fish meat (gutted and scaled). Fish waste (guts, scales) is present on the flat rock. Nearby edible plants remain depleted. Root vegetables identifiable further inland. Squirrels remain wary and distant.",
+                    "water_availability": "Abundant fresh water from the stream (agent drank some, negligible impact).",
+                    "shelter_options": "Good tree canopy overhead. A dense thicket nearby offers concealment. The large, flat rock is functional but now messy and scented.",
+                    "wildlife": "Birds cautiously active at a distance. Squirrels remain wary and further away, potentially chattering in response to the smell. Stream fish remain in deeper water. Insects (flies) beginning to investigate the fish waste. The scent may attract other scavengers or predators over time.",
+                    "danger_level": "Low-Medium. While no immediate threats are visible (high luck), the strong scent of fish blood and waste significantly increases the likelihood of attracting scavengers (flies already present) and potentially larger predators to the location in the near future. Risk of raw fish spoilage remains.",
+                    "notes_for_future": {
+                        "wildlife_alert": "Strong scent of fish waste centered on the flat rock is attracting insects and will likely attract other scavengers/predators over time. Nearby wildlife remains wary.",
+                        "resource_change": "One large fish successfully processed into prepared raw meat and inedible waste using a found sharp rock. Fish waste remains on the flat rock. Nearby plants still depleted. Water consumed (negligible impact).",
+                        "environmental_shift": "The flat rock area is now contaminated with fish waste, creating a strong scent attractant. Time has passed during the processing action. Temperature increased slightly."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 7,
+            "notes": [
+                {
+                    "terrain": "Mixed woodland beside a slow stream. A large, flat rock near the bank is stained and smells strongly of fish waste, attracting flies. A sharp-edged rock lies nearby. Signs of previous foraging (depleted plants) are visible along the immediate bank.",
+                    "temperature": 27,
+                    "weather": "Clear skies, warm sunshine, gentle breeze carrying the distinct scent of fish decay downstream.",
+                    "food_availability": "One portion of prepared raw fish (gutted/scaled, starting to show early signs of spoilage due to warmth). Fish waste (guts, scales) on the flat rock attracting more insects. Nearby edible plants remain depleted. Root vegetables identifiable further inland away from the stream.",
+                    "water_availability": "Abundant fresh water from the stream.",
+                    "shelter_options": "Good tree canopy overhead provides shade. A dense thicket nearby offers concealment. The flat rock is functional but contaminated and smelly.",
+                    "wildlife": "Increased number of flies buzzing around the fish waste. Birds and squirrels remain cautious and distant, possibly alerted by the scent or activity. Stream fish remain in deeper water. The strong scent continues to risk attracting scavengers or predators.",
+                    "danger_level": "Low-Medium (No immediate predators visible, but the persistent strong scent of fish waste significantly increases the probability of attracting unwanted attention from scavengers/predators over time. Risk of raw fish spoilage is increasing.)"
+                },
+                {
+                    "day": 7,
+                    "notes": {
+                        "terrain": "Mixed woodland. Agent has moved a short distance from the stream bank, now resting under tree cover near a dense thicket. The flat rock near the stream remains heavily stained, smelling strongly of fish waste, and attracting numerous flies. Faint signs of the agent's recent movement (disturbed leaves/ground) exist between the rock and the new resting spot. Signs of previous foraging are still visible along the stream bank.",
+                        "temperature": 28,
+                        "weather": "Clear skies, warm sunshine continues, gentle breeze still carrying the fish decay scent downstream and slightly inland.",
+                        "food_availability": "One portion of prepared raw fish remains near the contaminated flat rock, now showing more advanced signs of spoilage (discoloration, stronger off-smell) due to warmth and time. Fish waste on the rock is heavily infested with flies. Nearby edible plants remain depleted. Root vegetables remain identifiable further inland, visible from the agent's observation post.",
+                        "water_availability": "Abundant fresh water in the stream. Agent consumed a small amount.",
+                        "shelter_options": "Agent is utilizing the shade of the tree canopy near the dense thicket. The thicket offers good concealment. The flat rock near the stream is unoccupied but remains contaminated and unpleasant.",
+                        "wildlife": "Flies are heavily concentrated on the fish waste at the flat rock. Birds and squirrels are active in the trees but maintain a significant distance, aware of both the agent's new position and the scent from the rock. Stream fish remain in deeper water. Observation reveals no immediate large animals, but the persistent, strong scent is a significant attractant; rustling sounds were heard from deeper in the woods downstream (luck factor considered - potential scavenger investigation).",
+                        "danger_level": "Medium. No direct threats visible, but the strong, persistent scent of decay has likely alerted scavengers in the area (possible sounds heard). The risk of confrontation increases the longer the scent source remains. The raw fish is becoming increasingly unsafe to eat due to spoilage."
+                    },
+                    "notes_for_future": {
+                        "wildlife_alert": "The strong scent of fish waste persists at the flat rock, attracting numerous flies and potentially scavengers (rustling sounds heard, possibly related). Wildlife (birds, squirrels) remains alert and distant due to scent and agent presence. Agent is currently observing from a slightly removed, concealed position.",
+                        "resource_change": "Agent drank stream water (negligible impact). The prepared raw fish near the flat rock was left untouched and continues to spoil rapidly in the warmth. The flat rock remains contaminated with fish waste. Root vegetable location confirmed further inland.",
+                        "environmental_shift": "Agent relocated from the contaminated flat rock area to a resting spot under trees near the thicket, creating minor signs of passage. The fish waste site remains a focal point of decay and insect activity, with its scent spreading. Time has passed (drinking, moving, resting, observing)."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 8,
+            "notes": [
+                {
+                    "terrain": "Mixed woodland near a stream. You are currently resting under tree cover near a dense thicket, observing the stream area from a slight distance.",
+                    "temperature": 26,
+                    "weather": "Clear skies, warm sunshine, gentle breeze carrying a faint, unpleasant scent from the stream bank.",
+                    "food_availability": "The fish left by the stream yesterday is now visibly spoiled, teeming with flies, and unsafe to eat. The fish waste on the nearby flat rock continues to decay significantly. Root vegetables are known to be available further inland, away from the stream. Good fortune (luck!) reveals a small patch of ripe, edible berries nearby your current resting spot.",
+                    "water_availability": "Abundant fresh water flows in the nearby stream.",
+                    "shelter_options": "Good concealment provided by the current position under trees near the dense thicket. The flat rock area near the stream remains contaminated and undesirable.",
+                    "wildlife": "Numerous flies swarm the decaying fish and waste at the flat rock. Birds and squirrels are active in the surrounding trees, appearing slightly less cautious than yesterday now that you are further from the rock, but still alert. No large animals are immediately visible; the potential scavenger sounds from last night did not result in a direct encounter (luck!).",
+                    "danger_level": "Medium. Primary dangers include potential illness from the heavily contaminated rock area or consuming the spoiled fish. The lingering scent of decay, though perhaps slightly diminished, could still attract scavengers to the vicinity over time."
+                },
+                {
+                    "terrain": "Mixed woodland near a stream. Agent is resting under tree cover near a dense thicket. The flat rock area near the stream remains heavily contaminated with decaying fish/waste and swarming flies. Minor signs of disturbance (footprints, plucked stems) are now visible around a small patch near the resting spot where berries were growing, and near the stream edge away from the contaminated rock.",
+                    "temperature": 27,
+                    "weather": "Clear skies, warm sunshine continues, gentle breeze still carrying a faint unpleasant scent from the decaying matter near the stream.",
+                    "food_availability": "The small patch of nearby berries has been consumed. The fish and waste by the stream are further decayed, heavily fly-blown, and definitively unsafe. Root vegetables remain available further inland.",
+                    "water_availability": "Abundant fresh water in the stream. Negligible change from agent drinking.",
+                    "shelter_options": "Good concealment and shade provided by the current resting position under trees near the dense thicket. The flat rock area near the stream remains highly undesirable due to contamination.",
+                    "wildlife": "Numerous flies remain concentrated on the decaying matter at the flat rock. Birds and squirrels are active in surrounding trees, seemingly slightly less disturbed by the agent's stationary resting presence but still alert to movement. Due to high luck (9), no scavengers were attracted or encountered during the agent's brief movements.",
+                    "danger_level": "Medium. Primary danger remains potential illness from the contaminated rock/spoiled fish area. The lingering scent of decay, though slightly less intense than its peak, still poses a risk of attracting scavengers over time. Agent's low energy and illness increase vulnerability to any potential threat.",
+                    "notes_for_future": {
+                        "wildlife_alert": "Flies remain heavily concentrated on the decay site near the stream. Other local wildlife (birds, squirrels) are alert but not immediately alarmed by the agent's resting presence. The scent of decay persists, maintaining a background risk of attracting scavengers, although none appeared this cycle (high luck).",
+                        "resource_change": "Agent consumed the small patch of nearby berries. Agent drank water from the stream (away from contamination). The fish/waste at the rock continues to decay rapidly. Agent focused on resting.",
+                        "environmental_shift": "Contamination and decay at the flat rock persist as a focal point. Minor signs of agent activity (berry picking, drinking) added. Agent returned to resting/observation post. Temperature increased slightly. Scent lingers."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 9,
+            "notes": [
+                {
+                    "terrain": "Mixed woodland adjacent to a flowing stream. Agent located under tree cover near a dense thicket. A specific flat rock area by the stream remains heavily contaminated with decaying organic matter.",
+                    "temperature": 28,
+                    "weather": "Clear skies, strong warm sunshine. A very light breeze occasionally shifts, sometimes carrying the unpleasant odour from the contaminated rock, sometimes bringing fresher forest air.",
+                    "food_availability": "No edible berries remain in the immediate vicinity. Root vegetables presumed available further inland. The decaying matter by the stream is extremely hazardous and attracting flies. Some small fish are visible in the cleaner parts of the stream.",
+                    "water_availability": "Abundant fresh water in the stream, easily accessible away from the contaminated rock.",
+                    "shelter_options": "Good concealment and shade provided by the current resting position under trees near the thicket. The contaminated flat rock area is unusable for shelter.",
+                    "wildlife": "Heavy concentration of flies on the decaying matter. Birds and squirrels are active in the trees, maintaining distance but less skittish due to the agent's inactivity. No larger animals currently visible (Luck factor 8 contributing to lack of immediate scavenger presence despite scent).",
+                    "danger_level": "Medium. Persistent risk of illness from the contaminated zone and flies. The lingering scent of decay continues to pose a background risk of attracting scavengers over time. Agent's potentially weakened state increases vulnerability.",
+                    "time_based_changes": "Day 9. Early Spring transitioning to warmer conditions. The decay process at the contaminated rock is advanced. Berries near the agent's resting spot depleted yesterday. Signs of agent activity (drinking, berry picking) near stream and thicket remain."
+                },
+                {
+                    "terrain": "Mixed woodland. Agent has moved upstream along the stream bank, settling under tree cover a noticeable distance away from the contaminated flat rock. Faint signs of passage (disturbed leaves, occasional footprint) mark the path taken from the previous resting spot near the thicket. The contaminated rock area is still visible downstream but is no longer an immediate presence.",
+                    "temperature": 29,
+                    "weather": "Clear skies, strong warm sunshine persists. The light breeze now carries predominantly fresh forest scents to the agent's new location, with only occasional, very faint traces of the downstream decay.",
+                    "food_availability": "No edible berries immediately nearby the new location. Root vegetables presumed available further inland. The decaying matter downstream remains extremely hazardous and fly-infested. Small fish are visible in the cleaner parts of the stream near the agent's new position.",
+                    "water_availability": "Abundant fresh water in the stream, easily accessible near the new resting spot.",
+                    "shelter_options": "Good concealment and shade provided by the current resting position under trees further upstream. The distant contaminated flat rock area remains unusable.",
+                    "wildlife": "Heavy concentration of flies remains visible downstream on the decaying matter. Birds and squirrels, momentarily disturbed by the agent's movement, are resuming activity in the trees nearby the new location, maintaining cautious distance. Fish active in the stream nearby. No larger animals currently visible (Luck factor 8 contributing to lack of encounters during movement).",
+                    "danger_level": "Low-Medium. The immediate risk from the contaminated zone and flies has been significantly reduced by relocation. However, the lingering scent of decay downstream still poses a background risk of attracting scavengers to the general area over time. Agent's weakened state remains a factor.",
+                    "notes_for_future": {
+                        "wildlife_alert": "Agent successfully relocated away from the primary contamination source. Flies remain concentrated downstream at the decay site. Local small wildlife (birds, squirrels) observed the agent's movement and are resettling cautiously near the new location. Background scavenger risk from the distant scent persists.",
+                        "resource_change": "No resources gathered or consumed during the move. The contaminated site downstream continues to decay. Agent is now situated further upstream.",
+                        "environmental_shift": "Agent has moved location upstream along the stream bank, establishing a new resting spot under tree cover. This reduces direct exposure to the contaminated rock hazard. Faint signs of passage created. The pervasive unpleasant smell is no longer present at the agent's immediate location. Time passed during movement."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 10,
+            "notes": [
+                {
+                    "terrain": "Mixed woodland near a clear stream. Agent is currently resting under tree cover upstream from a previously noted contaminated area.",
+                    "temperature": 30,
+                    "weather": "Clear skies, warm sunshine, gentle breeze carrying fresh forest scents.",
+                    "food_availability": "Good (Luck Factor 10): Early season berries spotted nearby, young edible ferns visible. Small fish plentiful and active in the stream. Root vegetables likely further inland. Downstream decay site remains hazardous.",
+                    "water_availability": "Excellent: Abundant fresh water easily accessible from the stream.",
+                    "shelter_options": "Good immediate shelter under current tree cover. Potential for building basic shelters using woodland materials.",
+                    "wildlife": "Abundant small game (birds, squirrels, a rabbit seen nearby). Fish active in the stream. Flies remain concentrated downstream at the decay site. High luck minimizes immediate predator encounters.",
+                    "danger_level": "Low: Immediate vicinity is safe. The main hazard is the distant downstream contaminated area, which might attract scavengers over time. Agent's potential weakened state is still a factor, but the environment is currently very favourable."
+                },
+                {
+                    "terrain": "Mixed woodland near a clear stream. Agent is resting under tree cover upstream from the contaminated area. Minor signs of recent foraging (plucked ferns, disturbed berry bushes) and footprints near the stream bank are visible in the immediate vicinity.",
+                    "temperature": 31,
+                    "weather": "Clear skies, continued warm sunshine, gentle breeze carrying fresh forest scents.",
+                    "food_availability": "Fair (Locally): The specific nearby patches of berries and young ferns have been gathered. Small fish remain plentiful and active in the stream. Root vegetables are still likely available further inland. The downstream decay site remains hazardous and fly-infested.",
+                    "water_availability": "Excellent: Abundant fresh water easily accessible from the stream. Negligible impact from agent drinking.",
+                    "shelter_options": "Good immediate shelter under current tree cover. Potential for building basic shelters using woodland materials remains.",
+                    "wildlife": "Abundant small game (birds, squirrels, rabbits observed keeping a slightly increased distance due to recent activity). Fish active in the stream nearby. Flies remain concentrated downstream at the decay site. High luck (10) ensured no negative wildlife encounters during foraging.",
+                    "danger_level": "Low: Immediate vicinity remains safe. Agent successfully avoided downstream hazards. The main hazard is the distant downstream contaminated area, which continues to pose a background risk of attracting scavengers over time. Agent is resting.",
+                    "notes_for_future": {
+                        "wildlife_alert": "Agent's foraging caused minor, temporary disturbance to nearby small wildlife (birds, squirrels, rabbit), which now maintain a slightly greater distance. Flies remain concentrated at the distant decay site downstream. High luck prevented any adverse encounters.",
+                        "resource_change": "Agent successfully gathered and consumed nearby berries and young edible ferns, depleting those specific patches. Agent drank water from the stream (upstream, negligible impact). Fish and root vegetable resources remain unchanged. Downstream contamination persists.",
+                        "environmental_shift": "Minor signs of foraging (disturbed plants, footprints) added near the agent's current upstream location. Agent consumed gathered food and is now resting under tree cover. Time passed during drinking, foraging, eating, and settling to rest. Temperature slightly increased."
+                    }
+                }
+            ]
+        }
+    ]
+}

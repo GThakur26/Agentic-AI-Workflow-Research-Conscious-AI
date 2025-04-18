@@ -1,0 +1,731 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface. Surrounding the stream are patches of edible-looking plants, though some have been picked. Small rodents and birds are nearby but seem cautious due to recent activity.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Late afternoon",
+                "status": "Slightly disturbed by presence; wildlife more cautious"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Offers a good vantage point to observe surroundings and feels safe for resting.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Late afternoon",
+                "status": "Occupied by agent, stable condition"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Late afternoon",
+                "status": "Unchanged, calm"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents, various birds, and occasional non-aggressive predators such as foxes inhabit the area. They are active but wary, especially near the stream after recent disturbance.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Late afternoon",
+                "status": "Slightly alert due to agent's presence"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface. Surrounding the stream are patches of edible-looking plants, though some have been picked. Small rodents and birds are nearby but remain cautious due to repeated activity.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Evening, approaching night",
+                "status": "Disturbed by presence; wildlife increasingly wary"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Now improved with branches and leaves for better insulation against dropping temperatures. Offers a good vantage point to observe surroundings and feels safer for resting.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Evening, approaching night",
+                "status": "Occupied by agent, improved condition"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility reduced as night approaches.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Evening, approaching night",
+                "status": "Unchanged, calm, reduced visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are less active as night approaches. Non-aggressive predators such as foxes remain cautious but may roam closer under cover of darkness. Wildlife near the stream continues to be wary of agent's presence.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Evening, approaching night",
+                "status": "Less active herbivores, predators slightly more curious"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing abundant edible-looking plants and berries. Some plants have been foraged and tested in small amounts for safety. Availability slightly reduced in the immediate area due to recent activity.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Evening, approaching night",
+                "status": "Partially foraged, needs further observation for safety"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, though less active at night. Surrounding the stream are patches of edible-looking plants, though some have been picked. Accessing the stream is harder in the dark due to low visibility.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Deep into the night",
+                "status": "Disturbed by presence; wildlife increasingly wary, harder to access safely at night"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the strengthening breeze. Improved with branches and leaves for better insulation against dropping temperatures. Offers a good vantage point to observe surroundings and feels safer for resting, especially during the chilly night.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Deep into the night",
+                "status": "Occupied by agent, improved condition, holding up well against cold"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility significantly reduced deep into the night, making navigation riskier.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Deep into the night",
+                "status": "Unchanged, calm, very low visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are inactive during the night. Nocturnal predators such as foxes are roaming closer, showing mild curiosity but not aggression due to high luck factor. Wildlife near the stream remains wary of agent's prolonged presence.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Deep into the night",
+                "status": "Herbivores inactive, predators mildly curious but cautious"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing abundant edible-looking plants and berries. Some plants have been foraged and tested in small amounts for safety. Availability slightly reduced in the immediate area due to recent activity. Difficult to access or assess at night due to low visibility.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Deep into the night",
+                "status": "Partially foraged, needs further observation for safety, inaccessible at night"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, becoming more active with daylight. Surrounding the stream are patches of edible-looking plants, though availability is moderately reduced due to continued foraging. Small rodents and birds are nearby but remain cautious due to repeated activity.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Mid-morning",
+                "status": "Disturbed by presence; wildlife increasingly wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation against the cold. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the chilly morning.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Mid-morning",
+                "status": "Occupied by agent, improved condition, stable against cold"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility improved with mid-morning light.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Mid-morning",
+                "status": "Unchanged, calm, good visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the morning light, though cautious due to agent's foraging activity. Nocturnal predators such as foxes are retreating further but remain mildly curious due to prolonged presence. Wildlife near the stream continues to be wary.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Mid-morning",
+                "status": "Herbivores active but cautious, predators retreating with daylight"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability moderately reduced in the immediate area due to continued foraging. Small rodents are active but cautious, making them harder to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Mid-morning",
+                "status": "Moderately foraged, needs further observation for safety, wildlife cautious"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, active in the late morning light. Surrounding the stream are patches of edible-looking plants, though availability is moderately reduced due to continued foraging. Small rodents and birds are nearby but remain cautious due to repeated activity.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Late morning",
+                "status": "Disturbed by presence; wildlife increasingly wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the late morning warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Late morning",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility optimal with late morning light.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Late morning",
+                "status": "Unchanged, calm, excellent visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the late morning light, though increasingly cautious due to agent's repeated foraging activity. Nocturnal predators such as foxes linger in the periphery, showing mild curiosity but retreating further in daylight. Wildlife near the stream remains wary.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Late morning",
+                "status": "Herbivores active but very cautious, predators mildly curious but distant"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability significantly reduced in the immediate area due to repeated foraging. Small rodents are active but very cautious, making them harder to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Late morning",
+                "status": "Significantly foraged, needs further observation for safety, wildlife very cautious"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, active in the mid-afternoon light. Surrounding the stream are patches of edible-looking plants, though availability is critically reduced due to repeated foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent activity.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Mid-afternoon",
+                "status": "Heavily disturbed by presence; wildlife extremely wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the mid-afternoon warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Mid-afternoon",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility optimal with mid-afternoon light.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Mid-afternoon",
+                "status": "Unchanged, calm, excellent visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the mid-afternoon light, though extremely cautious due to agent's repeated foraging activity. Nocturnal predators such as foxes linger in the periphery, showing mild curiosity but remain inactive in daylight. Wildlife near the stream remains highly wary.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Mid-afternoon",
+                "status": "Herbivores active but extremely cautious, predators mildly curious but distant"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability critically depleted in the immediate area due to repeated cautious foraging. Small rodents are active but extremely cautious, making them nearly impossible to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Mid-afternoon",
+                "status": "Critically foraged, needs significant exploration for new resources, wildlife extremely cautious"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, slightly more alert due to recent activity. Surrounding the stream are patches of edible-looking plants, though availability is critically depleted due to repeated foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent presence.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Late afternoon",
+                "status": "Heavily disturbed by presence; wildlife extremely wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the late afternoon warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Late afternoon",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility remains good but will decrease as evening approaches.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Late afternoon",
+                "status": "Unchanged, calm, visibility starting to reduce"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the late afternoon light, though extremely cautious due to agent's repeated foraging activity. Nocturnal predators such as foxes linger in the periphery, showing mild curiosity but remain inactive in daylight. Wildlife near the stream remains highly wary.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Late afternoon",
+                "status": "Herbivores active but extremely cautious, predators mildly curious but distant"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability extremely scarce in the immediate and slightly broader area due to repeated cautious foraging. Small rodents are active but extremely cautious, making them nearly impossible to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Late afternoon",
+                "status": "Extremely foraged, requires significant exploration for new resources, wildlife extremely cautious"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, noticeably more alert due to repeated visits. Surrounding the stream are patches of edible-looking plants, though availability is critically depleted due to extensive foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent presence.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Late morning",
+                "status": "Heavily disturbed by presence; wildlife extremely wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the late morning warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Late morning",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility optimal with late morning light.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Late morning",
+                "status": "Unchanged, calm, excellent visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the late morning light, though extremely cautious due to agent's repeated foraging activity and extended presence. Nocturnal predators such as foxes linger in the periphery, showing mild curiosity but remain inactive in daylight. Wildlife near the stream remains highly wary.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Late morning",
+                "status": "Herbivores active but extremely cautious, predators mildly curious but distant"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability extremely scarce in the immediate and nearby areas due to repeated cautious foraging. Small rodents are active but extremely cautious, making them nearly impossible to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Late morning",
+                "status": "Extremely foraged, requires significant exploration for new resources, wildlife extremely cautious"
+            },
+            "deep_woodland_exploration": {
+                "description": "A deeper section of the dense woodland beyond the usual foraging areas, characterized by thicker tree cover and uneven terrain. Moderate availability of edible plants discovered with a high luck factor, offering a temporary food source. Small herbivores and birds are active but remain extremely cautious due to agent's presence.",
+                "location": "Deeper into the woodland, beyond rolling hills",
+                "relevance": "High (new food source)",
+                "last_seen": "Late morning",
+                "status": "Partially explored, moderate plant availability, wildlife extremely cautious"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, highly alert due to repeated visits and recent observation by the agent. Surrounding the stream are patches of edible-looking plants, though availability is critically depleted due to extensive foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent presence.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Mid-afternoon",
+                "status": "Heavily disturbed by presence; wildlife extremely wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the mid-afternoon warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Mid-afternoon",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility remains optimal with mid-afternoon light.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Mid-afternoon",
+                "status": "Unchanged, calm, excellent visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the mid-afternoon light, though extremely cautious due to agent's repeated activity. Nocturnal predators such as foxes linger in the periphery, showing mild curiosity but remain inactive in daylight. Wildlife near the stream remains highly wary due to recent observation.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Mid-afternoon",
+                "status": "Herbivores active but extremely cautious, predators mildly curious but distant"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, highly alert due to repeated visits. Surrounding the stream are patches of edible-looking plants, though availability is critically depleted due to extensive foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent presence.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Late afternoon",
+                "status": "Heavily disturbed by presence; wildlife extremely wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the late afternoon warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Late afternoon",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility decreasing as early evening twilight sets in.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Early evening",
+                "status": "Unchanged, calm, reduced visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are becoming less active as evening sets in, remaining extremely cautious due to agent's repeated activity. Nocturnal predators such as foxes are becoming more active as night approaches, showing increased curiosity due to agent's movement in deeper woodland. Wildlife near the stream remains highly wary.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Early evening",
+                "status": "Herbivores less active and extremely cautious, predators increasingly curious"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability extremely scarce in the immediate and nearby areas due to repeated cautious foraging. Small rodents are active but extremely cautious, making them nearly impossible to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Late afternoon",
+                "status": "Extremely foraged, requires significant exploration for new resources, wildlife extremely cautious"
+            },
+            "deep_woodland_exploration": {
+                "description": "A deeper section of the dense woodland beyond the usual foraging areas, characterized by thicker tree cover and uneven terrain. Moderate availability of edible plants remains after foraging, supported by a high luck factor, offering a temporary food source. Small herbivores and birds are becoming less active as evening sets in, remaining extremely cautious due to agent's presence. Nocturnal predators like foxes show increased curiosity in this area.",
+                "location": "Deeper into the woodland, beyond rolling hills",
+                "relevance": "High (new food source, potential threat)",
+                "last_seen": "Early evening",
+                "status": "Partially foraged, moderate plant availability, wildlife extremely cautious, predators more active"
+            }
+        },
+        {
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the strengthening breeze. Improved with branches and leaves for better insulation against dropping temperatures. Offers a good vantage point to observe surroundings and feels safer for resting, especially during the chilly night.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Deep into the night",
+                "status": "Occupied by agent, improved condition, holding up well against cold"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility significantly reduced deep into the night, making navigation riskier.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Deep into the night",
+                "status": "Unchanged, calm, very low visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are inactive during the night. Nocturnal predators such as foxes are active, showing heightened curiosity and likely tracking the agent's scent, though high luck factor prevents direct confrontation for now. Wildlife near the stream remains wary of agent's prolonged presence.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Deep into the night",
+                "status": "Herbivores inactive, predators highly curious but cautious due to luck factor"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, highly alert due to repeated visits and recent water collection. Surrounding the stream are patches of edible-looking plants, though availability is critically depleted due to extensive foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent presence.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Mid-morning",
+                "status": "Heavily disturbed by presence; wildlife extremely wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the mid-morning warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Mid-morning",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility optimal with mid-morning light.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Mid-morning",
+                "status": "Unchanged, calm, excellent visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the mid-morning light, though extremely cautious due to agent's repeated foraging activity. Nocturnal predators such as foxes are retreating further with daylight, showing lingering curiosity mitigated by high luck factor. Wildlife near the stream remains highly wary due to recent activity.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Mid-morning",
+                "status": "Herbivores active but extremely cautious, predators retreating but mildly curious"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability extremely scarce in the immediate and nearby areas due to repeated cautious foraging. Small rodents are active but extremely cautious, making them nearly impossible to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Mid-morning",
+                "status": "Extremely foraged, requires significant exploration for new resources, wildlife extremely cautious"
+            },
+            "deep_woodland_exploration": {
+                "description": "A deeper section of the dense woodland beyond the usual foraging areas, characterized by thicker tree cover and uneven terrain. Edible plant availability reduced from moderate to low-moderate after recent cautious foraging, supported by a high luck factor, offering a temporary food source. Small herbivores and birds are active but remain extremely cautious due to agent's presence.",
+                "location": "Deeper into the woodland, beyond rolling hills",
+                "relevance": "High (new food source, potential threat)",
+                "last_seen": "Mid-morning",
+                "status": "Partially foraged, low-moderate plant availability, wildlife extremely cautious"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, highly alert due to repeated visits and recent water collection. Surrounding the stream are patches of edible-looking plants, though availability is critically depleted due to extensive foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent presence.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Early afternoon",
+                "status": "Heavily disturbed by presence; wildlife extremely wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the early afternoon warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Early afternoon",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility optimal with early afternoon light.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Early afternoon",
+                "status": "Unchanged, calm, excellent visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the early afternoon light, though extremely cautious due to agent's repeated foraging activity. Nocturnal predators such as foxes linger in the periphery, showing mild curiosity but remain inactive in daylight. Wildlife near the stream remains highly wary due to recent activity.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Early afternoon",
+                "status": "Herbivores active but extremely cautious, predators mildly curious but distant"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability extremely scarce in the immediate and nearby areas due to repeated cautious foraging. Small rodents are active but extremely cautious, making them nearly impossible to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Early afternoon",
+                "status": "Extremely foraged, requires significant exploration for new resources, wildlife extremely cautious"
+            },
+            "deep_woodland_exploration": {
+                "description": "A deeper section of the dense woodland beyond the usual foraging areas, characterized by thicker tree cover and uneven terrain. Edible plant availability reduced from low-moderate to low after recent cautious foraging, though a high luck factor ensures minimal resources remain discoverable with effort. Small herbivores and birds are active but remain extremely cautious due to agent's presence.",
+                "location": "Deeper into the woodland, beyond rolling hills",
+                "relevance": "High (new food source, potential threat)",
+                "last_seen": "Early afternoon",
+                "status": "Partially foraged, low plant availability, wildlife extremely cautious"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, highly alert due to repeated visits. Surrounding the stream are patches of edible-looking plants, though availability is critically depleted due to extensive foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent presence.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Early evening",
+                "status": "Heavily disturbed by presence; wildlife extremely wary, less active as evening sets in"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation against dropping temperatures. Offers a good vantage point to observe surroundings and feels safer for resting, especially as evening approaches.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Early evening",
+                "status": "Occupied by agent, improved condition, stable for night rest"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility decreasing as early evening twilight sets in.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Early evening",
+                "status": "Unchanged, calm, reduced visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are becoming less active as evening sets in, remaining extremely cautious due to agent's repeated activity. Nocturnal predators such as foxes are becoming more active as night approaches, showing increased curiosity towards agent's presence. Wildlife near the stream remains highly wary.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Early evening",
+                "status": "Herbivores less active and extremely cautious, predators increasingly active and curious"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability extremely scarce in the immediate and nearby areas due to repeated cautious foraging. Small rodents are active but extremely cautious, making them nearly impossible to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Early evening",
+                "status": "Extremely foraged, requires significant exploration for new resources, wildlife extremely cautious"
+            },
+            "deep_woodland_exploration": {
+                "description": "A deeper section of the dense woodland beyond the usual foraging areas, characterized by thicker tree cover and uneven terrain. Edible plant availability reduced to low after recent cautious foraging, though a high luck factor ensures minimal resources remain discoverable with effort. Small herbivores and birds are becoming less active as evening sets in, remaining extremely cautious due to agent's presence. Nocturnal predators like foxes show increased curiosity in this area.",
+                "location": "Deeper into the woodland, beyond rolling hills",
+                "relevance": "High (new food source, potential threat)",
+                "last_seen": "Early evening",
+                "status": "Partially foraged, low plant availability, wildlife extremely cautious, predators more active"
+            }
+        },
+        {
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the strengthening breeze. Improved with branches and leaves for better insulation against dropping temperatures. Offers a good vantage point to observe surroundings and feels safer for resting, especially during the chilly night.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Deep into the night",
+                "status": "Occupied by agent, improved condition, holding up well against cold"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility significantly reduced deep into the night, making navigation riskier.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Deep into the night",
+                "status": "Unchanged, calm, very low visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are inactive during the night. Nocturnal predators such as foxes are active, showing heightened curiosity and likely tracking the agent's scent, though high luck factor prevents direct confrontation for now. Wildlife near the stream remains wary of agent's prolonged presence.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Deep into the night",
+                "status": "Herbivores inactive, predators highly curious but cautious due to luck factor"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, highly alert due to repeated visits and recent water collection. Surrounding the stream are patches of edible-looking plants, though availability is critically depleted due to extensive foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent presence.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Mid-morning",
+                "status": "Heavily disturbed by presence; wildlife extremely wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the mid-morning warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Mid-morning",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility optimal with mid-morning light.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Mid-morning",
+                "status": "Unchanged, calm, excellent visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the mid-morning light, though extremely cautious due to agent's repeated foraging activity. Nocturnal predators such as foxes are fully retreated with daylight, showing minimal curiosity due to moderate luck factor. Wildlife near the stream remains highly wary due to recent activity.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Mid-morning",
+                "status": "Herbivores active but extremely cautious, predators fully retreated"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability extremely scarce in the immediate and nearby areas due to repeated cautious foraging. Small rodents are active but extremely cautious, making them nearly impossible to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Mid-morning",
+                "status": "Extremely foraged, requires significant exploration for new resources, wildlife extremely cautious"
+            },
+            "deep_woodland_exploration": {
+                "description": "A deeper section of the dense woodland beyond the usual foraging areas, characterized by thicker tree cover and uneven terrain. Edible plant availability reduced to very low after recent cautious foraging, though a moderate luck factor ensures minimal resources remain discoverable with significant effort. Small herbivores and birds are active but remain extremely cautious due to agent's presence.",
+                "location": "Deeper into the woodland, beyond rolling hills",
+                "relevance": "High (new food source, potential threat)",
+                "last_seen": "Mid-morning",
+                "status": "Partially foraged, very low plant availability, wildlife extremely cautious"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, highly alert due to repeated visits and recent water collection. Surrounding the stream are patches of edible-looking plants, though availability is critically depleted due to extensive foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent presence.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Early afternoon",
+                "status": "Heavily disturbed by presence; wildlife extremely wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the early afternoon warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Early afternoon",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility optimal with early afternoon light.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Early afternoon",
+                "status": "Unchanged, calm, excellent visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the early afternoon light, though extremely cautious due to agent's repeated foraging activity. Nocturnal predators such as foxes linger in the periphery, showing mild curiosity but remain inactive in daylight. Wildlife near the stream remains highly wary due to recent activity.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Early afternoon",
+                "status": "Herbivores active but extremely cautious, predators mildly curious but distant"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability extremely scarce in the immediate and nearby areas due to repeated cautious foraging. Small rodents are active but extremely cautious, making them nearly impossible to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Early afternoon",
+                "status": "Extremely foraged, requires significant exploration for new resources, wildlife extremely cautious"
+            },
+            "deep_woodland_exploration": {
+                "description": "A deeper section of the dense woodland beyond the usual foraging areas, characterized by thicker tree cover and uneven terrain. Edible plant availability reduced to critically low after recent cautious foraging, though a high luck factor ensures minimal resources remain discoverable with significant effort. Small herbivores and birds are active but remain extremely cautious due to agent's presence.",
+                "location": "Deeper into the woodland, beyond rolling hills",
+                "relevance": "High (new food source, potential threat)",
+                "last_seen": "Early afternoon",
+                "status": "Partially foraged, critically low plant availability, wildlife extremely cautious"
+            }
+        },
+        {
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation against dropping temperatures. Offers a good vantage point to observe surroundings and feels safer for resting, especially as early evening twilight sets in.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Early evening",
+                "status": "Occupied by agent, improved condition, stable for night rest"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility decreasing as early evening twilight sets in.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Early evening",
+                "status": "Unchanged, calm, reduced visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are becoming less active as evening sets in, remaining extremely cautious due to agent's repeated activity. Nocturnal predators such as foxes are becoming more active as night approaches, showing increased curiosity towards agent's presence at the shelter. Wildlife near the stream remains highly wary.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Early evening",
+                "status": "Herbivores less active and extremely cautious, predators increasingly active and curious"
+            }
+        },
+        {
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the strengthening breeze. Improved with branches and leaves for better insulation against dropping temperatures. Offers a good vantage point to observe surroundings and feels safer for resting, especially during the chilly night deep into the night.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Deep into the night",
+                "status": "Occupied by agent, improved condition, holding up well against cold"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility significantly reduced deep into the night, making navigation riskier.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Deep into the night",
+                "status": "Unchanged, calm, very low visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are inactive during the night. Nocturnal predators such as foxes are active, showing mild curiosity towards agent's shelter, though high luck factor prevents direct confrontation for now. Wildlife near the stream remains wary of agent's prolonged presence.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Deep into the night",
+                "status": "Herbivores inactive, predators mildly curious but cautious due to luck factor"
+            }
+        },
+        {
+            "stream_observation": {
+                "description": "A small, clear stream running through the rolling hills. The water looks clean and refreshing, with small fish visible beneath the surface, highly alert due to repeated visits and recent water collection. Surrounding the stream are patches of edible-looking plants, though availability is critically depleted due to extensive foraging. Small rodents and birds are nearby but remain extremely cautious due to persistent presence.",
+                "location": "Near starting point in rolling hills",
+                "relevance": "High (water source, potential food)",
+                "last_seen": "Mid-morning",
+                "status": "Heavily disturbed by presence; wildlife extremely wary but active in daylight"
+            },
+            "shelter_overhang": {
+                "description": "A natural overhang in the hills, providing a dry and shielded spot from the breeze. Improved with branches and leaves for better insulation. Offers a good vantage point to observe surroundings and feels safer for resting, holding up well in the mid-morning warmth.",
+                "location": "Nearby hill close to the stream",
+                "relevance": "High (shelter, safety)",
+                "last_seen": "Mid-morning",
+                "status": "Occupied by agent, improved condition, stable"
+            },
+            "rolling_hills_terrain": {
+                "description": "Expansive rolling hills covered in grass, with patches of woodland scattered throughout. The terrain is uneven but navigable, offering multiple vantage points and hiding spots. Natural overhangs and tree clusters are visible as potential shelters. Visibility optimal with mid-morning light.",
+                "location": "General surroundings",
+                "relevance": "Moderate (navigation, potential shelter)",
+                "last_seen": "Mid-morning",
+                "status": "Unchanged, calm, excellent visibility"
+            },
+            "wildlife_presence": {
+                "description": "Small herbivores like rodents and various birds are active in the mid-morning light, though extremely cautious due to agent's repeated foraging activity. Nocturnal predators such as foxes are fully retreated with daylight, showing minimal curiosity due to high luck factor. Wildlife near the stream remains highly wary due to recent activity.",
+                "location": "Throughout rolling hills and near stream",
+                "relevance": "Moderate (potential food, minor threat awareness)",
+                "last_seen": "Mid-morning",
+                "status": "Herbivores active but extremely cautious, predators fully retreated"
+            },
+            "woodland_foraging_spot": {
+                "description": "A denser cluster of trees near the rolling hills, containing edible-looking plants and berries. Availability extremely scarce in the immediate and nearby areas due to repeated cautious foraging. Small rodents are active but extremely cautious, making them nearly impossible to approach without improved skills or tools.",
+                "location": "Edge of rolling hills transitioning to woodland",
+                "relevance": "High (potential food source)",
+                "last_seen": "Mid-morning",
+                "status": "Extremely foraged, requires significant exploration for new resources, wildlife extremely cautious"
+            },
+            "deep_woodland_exploration": {
+                "description": "A deeper section of the dense woodland beyond the usual foraging areas, characterized by thicker tree cover and uneven terrain. Edible plant availability reduced to nearly depleted after recent cautious foraging, though a high luck factor ensures minimal resources remain discoverable with significant effort. Small herbivores and birds are active but remain extremely cautious due to agent's presence.",
+                "location": "Deeper into the woodland, beyond rolling hills",
+                "relevance": "High (new food source, potential threat)",
+                "last_seen": "Mid-morning",
+                "status": "Partially foraged, nearly depleted plant availability, wildlife extremely cautious"
+            }
+        }
+    ]
+}

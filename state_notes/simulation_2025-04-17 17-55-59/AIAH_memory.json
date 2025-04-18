@@ -1,0 +1,1362 @@
+{
+    "metadata": "",
+    "data": [
+        [
+            {
+                "id": "stream_01",
+                "type": "water_source",
+                "description": "A small, slow-moving stream cutting through mixed woodland. Water appeared clear.",
+                "location_context": "Beside the stream bank.",
+                "last_seen_day": 1,
+                "details": {
+                    "clarity": "Appeared clear upon close inspection",
+                    "flow": "Slow-moving, steady",
+                    "accessibility": "Directly accessible from the bank",
+                    "action_taken": "Drank water successfully"
+                },
+                "relevance": "High (Confirmed and used water source)"
+            },
+            {
+                "id": "berries_stream_01",
+                "type": "food_source",
+                "description": "Edible, early-ripening berries found growing near the stream bank.",
+                "location_context": "Near the stream.",
+                "last_seen_day": 1,
+                "details": {
+                    "type": "Berries",
+                    "ripeness": "Early-ripening",
+                    "status": "Small quantity consumed",
+                    "quantity_observed": "Small patch"
+                },
+                "relevance": "High (Confirmed and used food source)"
+            },
+            {
+                "id": "woodland_stream_view_01",
+                "type": "environment_context",
+                "description": "Visual of the mixed woodland environment from the perspective of the stream bank.",
+                "location_context": "Stream bank.",
+                "last_seen_day": 1,
+                "details": {
+                    "features": [
+                        "Thick tree canopies",
+                        "Patches of undergrowth",
+                        "Larger rocks (potential overhangs)"
+                    ],
+                    "dominant_terrain": "Mixed woodland"
+                },
+                "relevance": "Medium (Orientation, potential shelter/resources)"
+            }
+        ],
+        [
+            {
+                "id": "stream_01",
+                "type": "water_source",
+                "description": "A small, slow-moving stream cutting through mixed woodland. Water appears clear and is confirmed drinkable.",
+                "location_context": "Beside the stream bank.",
+                "last_seen_day": 2,
+                "details": {
+                    "clarity": "Confirmed clear upon drinking",
+                    "flow": "Slow-moving, steady",
+                    "accessibility": "Directly accessible from the bank",
+                    "action_taken": "Drank water successfully",
+                    "observed_life": "Fish clearly visible darting within."
+                },
+                "relevance": "High (Confirmed and used water source)"
+            },
+            {
+                "id": "berries_stream_01",
+                "type": "food_source",
+                "description": "Edible, early-ripening berries found growing near the stream bank. A small amount was consumed.",
+                "location_context": "Near the stream.",
+                "last_seen_day": 2,
+                "details": {
+                    "type": "Berries",
+                    "ripeness": "Early-ripening",
+                    "status": "Small quantity consumed, remainder still available",
+                    "quantity_observed": "Small patch, easily accessible ones slightly reduced"
+                },
+                "relevance": "High (Confirmed and used food source)"
+            },
+            {
+                "id": "woodland_stream_view_02",
+                "type": "environment_context",
+                "description": "Visual of the mixed woodland environment from the perspective of sitting on the large, flat rock near the stream.",
+                "location_context": "Resting on flat rock near stream bank.",
+                "last_seen_day": 2,
+                "details": {
+                    "features": [
+                        "Clear stream with visible fish",
+                        "Thick tree canopies providing shade",
+                        "Patches of undergrowth",
+                        "Faint game trail nearby",
+                        "Dense thicket visible in distance"
+                    ],
+                    "dominant_terrain": "Mixed woodland edge",
+                    "observed_wildlife": "Active bird song (slightly subdued nearby), squirrels foraging cautiously at a distance."
+                },
+                "relevance": "Medium (Current location context, orientation)"
+            },
+            {
+                "id": "flat_rock_01",
+                "type": "landmark",
+                "description": "A large, flat rock near the stream bank, suitable for sitting or working.",
+                "location_context": "Near the stream bank.",
+                "last_seen_day": 2,
+                "details": {
+                    "size": "Large",
+                    "shape": "Flat-topped",
+                    "utility": "Good resting spot, dry surface",
+                    "current_status": "Currently occupied by agent for resting"
+                },
+                "relevance": "High (Current resting location, useful feature)"
+            },
+            {
+                "id": "game_trail_01",
+                "type": "path",
+                "description": "A faint game trail leading away from the stream bank into the woodland.",
+                "location_context": "Starts near the stream bank.",
+                "last_seen_day": 2,
+                "details": {
+                    "clarity": "Faint but visible",
+                    "signs_of_use": "Fresh deer tracks observed",
+                    "destination": "Leads away from stream into woods (direction unclear)"
+                },
+                "relevance": "Medium (Potential travel route, indicates animal activity)"
+            },
+            {
+                "id": "thicket_01",
+                "type": "shelter_option",
+                "description": "A particularly dense thicket observed a short distance from the stream.",
+                "location_context": "Short distance from stream, within woodland.",
+                "last_seen_day": 2,
+                "details": {
+                    "density": "Appears very dense",
+                    "potential_use": "Concealment, possible rudimentary shelter",
+                    "accessibility": "Requires moving away from current resting spot"
+                },
+                "relevance": "Medium (Potential future shelter/concealment spot)"
+            }
+        ],
+        [
+            {
+                "id": "stream_01",
+                "type": "water_source",
+                "description": "A small, slow-moving stream cutting through mixed woodland. Water appears clear and is confirmed drinkable. Fish visible.",
+                "location_context": "Beside the stream bank.",
+                "last_seen_day": 3,
+                "details": {
+                    "clarity": "Confirmed clear",
+                    "flow": "Slow-moving, steady",
+                    "accessibility": "Directly accessible from the bank",
+                    "action_taken": "Drank water previously (Day 1, Day 2). Foraged nearby (Day 3).",
+                    "observed_life": "Fish clearly visible darting within.",
+                    "notes": "Signs of recent foraging (disturbed plants, footprints) visible on banks nearby."
+                },
+                "relevance": "High (Confirmed water source, location of recent activity)"
+            },
+            {
+                "id": "berries_plants_stream_01",
+                "type": "food_source",
+                "description": "Edible plants and early-ripening berries found growing near the stream bank. Have been foraged multiple times.",
+                "location_context": "Near the stream bank, particularly where previously picked.",
+                "last_seen_day": 3,
+                "details": {
+                    "type": "Berries and edible plants",
+                    "ripeness": "Ripening",
+                    "status": "Further depleted by recent foraging (Day 3). Easily accessible ones significantly reduced.",
+                    "quantity_observed": "Small patches remain, signs of disturbance (footprints, picked stems) evident.",
+                    "accessibility": "Less accessible now due to repeated foraging."
+                },
+                "relevance": "High (Confirmed food source, recently used, status updated)"
+            },
+            {
+                "id": "woodland_stream_view_01",
+                "type": "environment_context",
+                "description": "Visual of the mixed woodland environment from the perspective of foraging along the stream bank.",
+                "location_context": "Stream bank.",
+                "last_seen_day": 3,
+                "details": {
+                    "features": [
+                        "Thick tree canopies providing shade",
+                        "Patches of undergrowth (some disturbed near foraging spots)",
+                        "Larger rocks (including the flat rock)",
+                        "Clear stream with fish",
+                        "Faint game trail nearby",
+                        "Dense thicket visible in distance"
+                    ],
+                    "dominant_terrain": "Mixed woodland edge",
+                    "observed_wildlife": "Bird song slightly subdued near foraging area, squirrels maintaining greater distance.",
+                    "signs_of_activity": "Footprints and disturbed vegetation from recent foraging visible along the bank."
+                },
+                "relevance": "Medium (Current location context, orientation, signs of recent activity)"
+            },
+            {
+                "id": "flat_rock_01",
+                "type": "landmark",
+                "description": "A large, flat rock near the stream bank, suitable for sitting or working.",
+                "location_context": "Near the stream bank.",
+                "last_seen_day": 3,
+                "details": {
+                    "size": "Large",
+                    "shape": "Flat-topped",
+                    "utility": "Good resting spot, dry surface",
+                    "current_status": "Unoccupied"
+                },
+                "relevance": "Medium (Useful landmark, potential resting spot)"
+            },
+            {
+                "id": "game_trail_01",
+                "type": "path",
+                "description": "A faint game trail leading away from the stream bank into the woodland.",
+                "location_context": "Starts near the stream bank.",
+                "last_seen_day": 3,
+                "details": {
+                    "clarity": "Faint but visible",
+                    "signs_of_use": "Fresh deer tracks observed",
+                    "destination": "Leads away from stream into woods (direction unclear)"
+                },
+                "relevance": "Medium (Potential travel route, indicates animal activity)"
+            },
+            {
+                "id": "thicket_01",
+                "type": "shelter_option",
+                "description": "A particularly dense thicket observed a short distance from the stream.",
+                "location_context": "Short distance from stream, within woodland.",
+                "last_seen_day": 3,
+                "details": {
+                    "density": "Appears very dense",
+                    "potential_use": "Concealment, possible rudimentary shelter",
+                    "accessibility": "Requires moving away from stream bank"
+                },
+                "relevance": "Medium (Potential future shelter/concealment spot)"
+            }
+        ],
+        [
+            {
+                "id": "stream_01",
+                "type": "water_source",
+                "description": "A small, slow-moving stream cutting through mixed woodland. Water appears clear and is confirmed drinkable. Fish visible.",
+                "location_context": "Beside the stream bank, accessible from the flat rock.",
+                "last_seen_day": 4,
+                "details": {
+                    "clarity": "Confirmed clear",
+                    "flow": "Slow-moving, steady",
+                    "accessibility": "Directly accessible from the bank/resting rock",
+                    "action_taken": "Drank water previously (Day 1, Day 2). Foraged nearby (Day 3). Drank small amount while resting (Day 4).",
+                    "observed_life": "Fish clearly visible darting within.",
+                    "notes": "Signs of recent foraging (disturbed plants, footprints) still visible on banks nearby."
+                },
+                "relevance": "High (Confirmed water source, current location)"
+            },
+            {
+                "id": "berries_plants_stream_01",
+                "type": "food_source",
+                "description": "Edible plants and early-ripening berries previously found growing near the stream bank. Have been foraged multiple times.",
+                "location_context": "Near the stream bank, visible from the flat rock.",
+                "last_seen_day": 4,
+                "details": {
+                    "type": "Berries and edible plants",
+                    "ripeness": "Ripening (remaining)",
+                    "status": "Significantly depleted from previous foraging. No noticeable recovery.",
+                    "quantity_observed": "Small depleted patches remain, signs of disturbance evident.",
+                    "accessibility": "Low in immediate vicinity due to depletion."
+                },
+                "relevance": "Medium (Known food source, currently depleted)"
+            },
+            {
+                "id": "woodland_stream_view_01",
+                "type": "environment_context",
+                "description": "Visual of the mixed woodland environment from the perspective of resting on the large, flat rock near the stream.",
+                "location_context": "Resting on flat rock near stream bank.",
+                "last_seen_day": 4,
+                "details": {
+                    "features": [
+                        "Clear stream with visible fish",
+                        "Thick tree canopies providing good shade",
+                        "Patches of undergrowth (some disturbed near foraging spots)",
+                        "Large flat rock (current location)",
+                        "Faint game trail nearby",
+                        "Dense thicket visible in distance"
+                    ],
+                    "dominant_terrain": "Mixed woodland edge",
+                    "observed_wildlife": "Bird song adapting to morning progression, squirrels active cautiously at a distance.",
+                    "signs_of_activity": "Footprints and disturbed vegetation from prior foraging persist along the bank."
+                },
+                "relevance": "High (Current location context, orientation)"
+            },
+            {
+                "id": "flat_rock_01",
+                "type": "landmark",
+                "description": "A large, flat rock near the stream bank, suitable for resting or working.",
+                "location_context": "Near the stream bank.",
+                "last_seen_day": 4,
+                "details": {
+                    "size": "Large",
+                    "shape": "Flat-topped",
+                    "utility": "Good resting spot, dry surface",
+                    "current_status": "Currently occupied by agent for resting"
+                },
+                "relevance": "High (Current resting location, useful feature)"
+            },
+            {
+                "id": "game_trail_01",
+                "type": "path",
+                "description": "A faint game trail leading away from the stream bank into the woodland, visible from the flat rock.",
+                "location_context": "Starts near the stream bank.",
+                "last_seen_day": 4,
+                "details": {
+                    "clarity": "Faint but visible",
+                    "signs_of_use": "Deer tracks appear slightly less fresh than yesterday.",
+                    "destination": "Leads away from stream into woods (direction unclear)"
+                },
+                "relevance": "Medium (Potential travel route, indicates animal activity)"
+            },
+            {
+                "id": "thicket_01",
+                "type": "shelter_option",
+                "description": "A particularly dense thicket observed a short distance from the stream, visible from the flat rock.",
+                "location_context": "Short distance from stream, within woodland.",
+                "last_seen_day": 4,
+                "details": {
+                    "density": "Appears very dense",
+                    "potential_use": "Concealment, possible rudimentary shelter",
+                    "accessibility": "Requires moving away from current resting spot"
+                },
+                "relevance": "Medium (Potential future shelter/concealment spot)"
+            }
+        ],
+        [
+            {
+                "id": "stream_01",
+                "type": "water_source",
+                "description": "Clear, slow-moving stream beside the flat rock. Water confirmed drinkable. Fish visible but wary and distant after catch attempt. Signs of recent disturbance near the bank.",
+                "location_context": "Beside the flat rock at the stream bank.",
+                "last_seen_day": 5,
+                "details": {
+                    "clarity": "Confirmed clear",
+                    "flow": "Slow-moving, steady",
+                    "accessibility": "Directly accessible from the bank/resting rock",
+                    "action_taken": "Caught fish by hand near the rock (Day 5). Drank previously.",
+                    "observed_life": "Fish visible but spooked/distant. No longer unusually close.",
+                    "notes": "Water near flat rock slightly disturbed from catching fish. Prior signs of foraging still visible on banks nearby. Unique close-fish opportunity ended."
+                },
+                "relevance": "High (Confirmed water source, location of recent key activity)"
+            },
+            {
+                "id": "berries_plants_stream_01",
+                "type": "food_source",
+                "description": "Edible plants and early-ripening berries previously found growing near the stream bank. Remain depleted.",
+                "location_context": "Near the stream bank, visible from the flat rock.",
+                "last_seen_day": 5,
+                "details": {
+                    "type": "Berries and edible plants",
+                    "ripeness": "Ripening (remaining)",
+                    "status": "Significantly depleted from previous foraging. No noticeable recovery.",
+                    "quantity_observed": "Small depleted patches remain, signs of prior disturbance evident.",
+                    "accessibility": "Low in immediate vicinity due to depletion."
+                },
+                "relevance": "Medium (Known food source, currently depleted)"
+            },
+            {
+                "id": "woodland_stream_view_01",
+                "type": "environment_context",
+                "description": "Visual of the mixed woodland environment from the flat rock near the stream. Wildlife is more wary after disturbance.",
+                "location_context": "On/near flat rock near stream bank.",
+                "last_seen_day": 5,
+                "details": {
+                    "features": [
+                        "Clear stream (fish distant)",
+                        "Thick tree canopies providing good shade",
+                        "Patches of undergrowth (some disturbed near foraging spots)",
+                        "Large flat rock (current location)",
+                        "Faint game trail nearby",
+                        "Dense thicket visible in distance"
+                    ],
+                    "dominant_terrain": "Mixed woodland edge",
+                    "observed_wildlife": "Birds initially startled, now cautiously resuming calls. Squirrels more distant and wary. Fish in stream spooked.",
+                    "signs_of_activity": "Splashing/disturbance marks near rock edge in water/mud. Prior foraging signs persist along the bank."
+                },
+                "relevance": "High (Current location context, orientation, recent event impact)"
+            },
+            {
+                "id": "flat_rock_01",
+                "type": "landmark",
+                "description": "A large, flat rock near the stream bank, used as a base for successful fish catch.",
+                "location_context": "Near the stream bank.",
+                "last_seen_day": 5,
+                "details": {
+                    "size": "Large",
+                    "shape": "Flat-topped",
+                    "utility": "Good resting spot, stable base for stream interaction.",
+                    "current_status": "Agent located here/nearby after catching fish.",
+                    "notes": "Area near rock shows signs of recent splashing/disturbance from catching fish."
+                },
+                "relevance": "High (Current location, site of successful food acquisition)"
+            },
+            {
+                "id": "game_trail_01",
+                "type": "path",
+                "description": "A faint game trail leading away from the stream bank into the woodland, visible from the flat rock.",
+                "location_context": "Starts near the stream bank.",
+                "last_seen_day": 5,
+                "details": {
+                    "clarity": "Faint but visible",
+                    "signs_of_use": "Deer tracks appear slightly less fresh than yesterday.",
+                    "destination": "Leads away from stream into woods (direction unclear)"
+                },
+                "relevance": "Medium (Potential travel route, indicates animal activity)"
+            },
+            {
+                "id": "thicket_01",
+                "type": "shelter_option",
+                "description": "A particularly dense thicket observed a short distance from the stream, visible from the flat rock.",
+                "location_context": "Short distance from stream, within woodland.",
+                "last_seen_day": 5,
+                "details": {
+                    "density": "Appears very dense",
+                    "potential_use": "Concealment, possible rudimentary shelter",
+                    "accessibility": "Requires moving away from current resting spot"
+                },
+                "relevance": "Medium (Potential future shelter/concealment spot)"
+            },
+            {
+                "id": "fish_caught_01",
+                "type": "food_resource",
+                "description": "One large fish caught by hand near the flat rock in the stream.",
+                "location_context": "On or near the flat rock beside the stream.",
+                "last_seen_day": 5,
+                "details": {
+                    "type": "Fish",
+                    "size": "Large",
+                    "status": "Caught, raw, requires processing",
+                    "method": "Caught by hand",
+                    "context": "Result of high luck and unusual fish proximity before catch."
+                },
+                "relevance": "Very High (Immediate food potential)"
+            }
+        ],
+        [
+            {
+                "id": "stream_01",
+                "type": "water_source",
+                "description": "Clear, slow-moving stream. Water confirmed drinkable. Fish visible but wary. Adjacent flat rock now contaminated.",
+                "location_context": "Beside the flat rock at the stream bank.",
+                "last_seen_day": 5,
+                "details": {
+                    "clarity": "Confirmed clear",
+                    "flow": "Slow-moving, steady",
+                    "accessibility": "Directly accessible from the bank/rock",
+                    "action_taken": "Caught fish (Day 5). Drank small amount (Day 5). Drank previously.",
+                    "observed_life": "Fish visible but spooked/distant.",
+                    "notes": "Water near flat rock slightly disturbed from catching fish. Adjacent flat rock is covered in fish waste, creating a strong scent and attracting flies."
+                },
+                "relevance": "High (Confirmed water source, adjacent hazard)"
+            },
+            {
+                "id": "berries_plants_stream_01",
+                "type": "food_source",
+                "description": "Edible plants and berries near the stream bank. Remain depleted.",
+                "location_context": "Near the stream bank, visible from the flat rock.",
+                "last_seen_day": 5,
+                "details": {
+                    "type": "Berries and edible plants",
+                    "status": "Significantly depleted. No noticeable recovery.",
+                    "quantity_observed": "Small depleted patches remain.",
+                    "accessibility": "Low in immediate vicinity."
+                },
+                "relevance": "Medium (Known food source, currently depleted)"
+            },
+            {
+                "id": "woodland_stream_view_01",
+                "type": "environment_context",
+                "description": "Visual of the mixed woodland from the flat rock. Area now marked by fish processing activity and scent.",
+                "location_context": "On/near flat rock near stream bank.",
+                "last_seen_day": 5,
+                "details": {
+                    "features": [
+                        "Clear stream (fish distant)",
+                        "Thick tree canopies",
+                        "Patches of undergrowth",
+                        "Large flat rock (contaminated)",
+                        "Faint game trail nearby",
+                        "Dense thicket visible"
+                    ],
+                    "dominant_terrain": "Mixed woodland edge",
+                    "observed_wildlife": "Birds cautious, squirrels wary/distant. Insects (flies) attracted to rock.",
+                    "signs_of_activity": "Fish waste (scales, blood, guts) on flat rock. Strong fish scent. Used sharp rock nearby."
+                },
+                "relevance": "High (Current location context, orientation, signs of recent activity, potential hazard)"
+            },
+            {
+                "id": "flat_rock_01",
+                "type": "landmark",
+                "description": "Large, flat rock near the stream, now contaminated with fish waste.",
+                "location_context": "Near the stream bank.",
+                "last_seen_day": 5,
+                "details": {
+                    "size": "Large",
+                    "shape": "Flat-topped",
+                    "utility": "Stable base for working, but currently hazardous.",
+                    "current_status": "Covered in fish scales, blood, guts. Strong scent present. Attracting flies.",
+                    "notes": "Used as a base for processing fish. The scent significantly increases risk of attracting scavengers/predators."
+                },
+                "relevance": "Very High (Current location, site of activity, hazard source)"
+            },
+            {
+                "id": "game_trail_01",
+                "type": "path",
+                "description": "A faint game trail leading away from the stream bank into the woodland.",
+                "location_context": "Starts near the stream bank.",
+                "last_seen_day": 5,
+                "details": {
+                    "clarity": "Faint but visible",
+                    "signs_of_use": "Tracks visible but aging.",
+                    "destination": "Leads away from stream into woods."
+                },
+                "relevance": "Medium (Potential travel route)"
+            },
+            {
+                "id": "thicket_01",
+                "type": "shelter_option",
+                "description": "A dense thicket observed a short distance from the stream.",
+                "location_context": "Short distance from stream, within woodland.",
+                "last_seen_day": 5,
+                "details": {
+                    "density": "Appears very dense",
+                    "potential_use": "Concealment, possible rudimentary shelter",
+                    "accessibility": "Requires moving away from current location"
+                },
+                "relevance": "Medium (Potential future shelter/concealment spot)"
+            },
+            {
+                "id": "fish_caught_01",
+                "type": "food_resource",
+                "description": "One large fish caught by hand near the flat rock. Now processed.",
+                "location_context": "Caught near flat rock, processed on it.",
+                "last_seen_day": 5,
+                "details": {
+                    "type": "Fish",
+                    "size": "Large",
+                    "status": "Processed into raw meat and waste.",
+                    "method": "Caught by hand"
+                },
+                "relevance": "Medium (Historical record of acquisition)"
+            },
+            {
+                "id": "fish_meat_raw_01",
+                "type": "food_resource",
+                "description": "Prepared portion of raw fish meat.",
+                "location_context": "On the flat rock beside the stream.",
+                "last_seen_day": 5,
+                "details": {
+                    "type": "Fish meat",
+                    "quantity": "One portion (from large fish)",
+                    "status": "Raw, gutted, scaled",
+                    "risk": "Subject to spoilage if not preserved or cooked soon.",
+                    "origin": "Processed from fish_caught_01"
+                },
+                "relevance": "Very High (Immediate food potential, requires action)"
+            },
+            {
+                "id": "fish_waste_01",
+                "type": "environmental_hazard",
+                "description": "Fish guts, scales, and blood from processing.",
+                "location_context": "On the flat rock beside the stream.",
+                "last_seen_day": 5,
+                "details": {
+                    "composition": "Guts, scales, blood",
+                    "hazard": "Strong scent attracting insects (flies observed) and likely scavengers/predators. Contaminates the rock surface.",
+                    "origin": "Byproduct of processing fish_caught_01"
+                },
+                "relevance": "High (Attracts threats, indicates recent activity)"
+            },
+            {
+                "id": "sharp_rock_tool_01",
+                "type": "tool",
+                "description": "A sharp-edged rock suitable for cutting/scraping.",
+                "location_context": "Near the flat rock.",
+                "last_seen_day": 5,
+                "details": {
+                    "material": "Rock",
+                    "feature": "Sharp edge",
+                    "utility": "Used successfully to process fish.",
+                    "status": "Available nearby, potentially bloodied."
+                },
+                "relevance": "Medium (Useful discovered tool)"
+            }
+        ],
+        {
+            "stream_01": {
+                "id": "stream_01",
+                "type": "water_source",
+                "description": "Clear, slow-moving stream. Water confirmed drinkable. Fish visible but wary. Agent drank small amount recently. Adjacent flat rock is contaminated.",
+                "location_context": "Beside the (contaminated) flat rock at the stream bank.",
+                "last_seen_day": 7,
+                "details": {
+                    "clarity": "Confirmed clear",
+                    "flow": "Slow-moving, steady",
+                    "accessibility": "Directly accessible from the bank",
+                    "action_taken": "Drank small amount (Day 7). Caught fish (Day 5). Drank previously.",
+                    "observed_life": "Fish visible but wary/distant.",
+                    "notes": "Water source remains reliable, but proximity to contaminated rock requires caution when approaching/drinking. Agent drank away from the immediate contamination."
+                },
+                "relevance": "High (Confirmed water source, adjacent hazard)"
+            },
+            "flat_rock_01": {
+                "id": "flat_rock_01",
+                "type": "landmark",
+                "description": "Large, flat rock near the stream, heavily contaminated with fish waste, attracting many flies and emitting a strong smell.",
+                "location_context": "Near the stream bank, visible from agent's resting spot.",
+                "last_seen_day": 7,
+                "details": {
+                    "size": "Large",
+                    "shape": "Flat-topped",
+                    "utility": "Previously useful, now hazardous and unusable due to contamination and smell.",
+                    "current_status": "Heavily stained, covered in fish waste (scales, blood, guts). Strong decay scent. Infested with flies. Unoccupied.",
+                    "notes": "The persistent strong scent is a major attractant for scavengers/predators (Danger Level: Medium). Remains a key visual landmark but now represents a hazard zone."
+                },
+                "relevance": "Very High (Hazard source, key landmark, attractant for threats)"
+            },
+            "thicket_01": {
+                "id": "thicket_01",
+                "type": "shelter_option",
+                "description": "A dense thicket near the agent's current resting spot, offering good concealment.",
+                "location_context": "Short distance from stream, within woodland, near agent's current position.",
+                "last_seen_day": 7,
+                "details": {
+                    "density": "Appears very dense",
+                    "potential_use": "Concealment, possible rudimentary shelter, potential escape route.",
+                    "accessibility": "Immediately adjacent to current resting/observation spot."
+                },
+                "relevance": "High (Potential shelter/concealment, current proximity)"
+            },
+            "fish_meat_raw_01": {
+                "id": "fish_meat_raw_01",
+                "type": "food_resource",
+                "description": "Prepared portion of raw fish meat, left near the contaminated flat rock, showing advanced spoilage.",
+                "location_context": "Near the contaminated flat rock beside the stream.",
+                "last_seen_day": 7,
+                "details": {
+                    "type": "Fish meat",
+                    "quantity": "One portion",
+                    "status": "Raw, gutted, scaled. Showing advanced spoilage (discoloration, stronger off-smell). Unsafe.",
+                    "risk": "Very high risk of causing illness if consumed due to spoilage. Still contributing to scent.",
+                    "origin": "Processed from fish_caught_01"
+                },
+                "relevance": "High (Potential food source but now hazardous, contributes to scent)"
+            },
+            "fish_waste_01": {
+                "id": "fish_waste_01",
+                "type": "environmental_hazard",
+                "description": "Fish guts, scales, and blood from processing, heavily infested with flies.",
+                "location_context": "On the flat rock beside the stream.",
+                "last_seen_day": 7,
+                "details": {
+                    "composition": "Guts, scales, blood",
+                    "hazard": "Strong persistent scent attracting numerous insects (flies observed) and likely scavengers/predators (rustling heard). Contaminates the rock surface.",
+                    "origin": "Byproduct of processing fish_caught_01"
+                },
+                "relevance": "Very High (Primary attractant for threats, hazard source)"
+            },
+            "berries_plants_stream_01": {
+                "id": "berries_plants_stream_01",
+                "type": "food_source",
+                "description": "Edible plants and berries near the stream bank. Remain depleted.",
+                "location_context": "Near the stream bank, visible from the observation spot.",
+                "last_seen_day": 7,
+                "details": {
+                    "type": "Berries and edible plants",
+                    "status": "Significantly depleted. No noticeable recovery.",
+                    "quantity_observed": "Small depleted patches remain.",
+                    "accessibility": "Low in immediate vicinity."
+                },
+                "relevance": "Low (Known food source, currently depleted)"
+            },
+            "sharp_rock_tool_01": {
+                "id": "sharp_rock_tool_01",
+                "type": "tool",
+                "description": "A sharp-edged rock suitable for cutting/scraping, left near the contaminated flat rock.",
+                "location_context": "Near the flat rock.",
+                "last_seen_day": 7,
+                "details": {
+                    "material": "Rock",
+                    "feature": "Sharp edge",
+                    "utility": "Used successfully to process fish.",
+                    "status": "Available nearby, potentially bloodied."
+                },
+                "relevance": "Medium (Useful discovered tool, located near hazard)"
+            },
+            "game_trail_01": {
+                "id": "game_trail_01",
+                "type": "path",
+                "description": "A faint game trail leading away from the stream bank into the woodland.",
+                "location_context": "Starts near the stream bank, visible from observation spot.",
+                "last_seen_day": 7,
+                "details": {
+                    "clarity": "Faint but visible",
+                    "signs_of_use": "Tracks visible but aging.",
+                    "destination": "Leads away from stream into woods."
+                },
+                "relevance": "Medium (Potential travel route)"
+            },
+            "root_vegetables_inland_01": {
+                "id": "root_vegetables_inland_01",
+                "type": "food_source",
+                "description": "Potential root vegetables identified further inland from the stream.",
+                "location_context": "Further inland, away from the stream, visible from agent's observation post near the thicket.",
+                "last_seen_day": 7,
+                "details": {
+                    "type": "Root vegetables (visual ID)",
+                    "status": "Potentially available",
+                    "quantity_observed": "Area noted, specific quantity unknown.",
+                    "accessibility": "Requires moving inland, potential foraging effort needed.",
+                    "confirmation_needed": true
+                },
+                "relevance": "High (Potential new food source, requires investigation)"
+            },
+            "observation_post_thicket_01": {
+                "id": "observation_post_thicket_01",
+                "type": "environment_context",
+                "description": "Current resting and observation spot under tree cover near the dense thicket.",
+                "location_context": "Short distance from stream/contaminated rock, adjacent to thicket_01.",
+                "last_seen_day": 7,
+                "details": {
+                    "features": [
+                        "Good tree canopy shade",
+                        "Adjacent dense thicket (concealment)",
+                        "View towards stream/contaminated rock",
+                        "View towards inland area (root vegetables)"
+                    ],
+                    "dominant_terrain": "Mixed woodland",
+                    "purpose": "Resting (conserving energy), Observation (monitoring hazards/resources)",
+                    "signs_of_activity": "Minor disturbance (leaves/ground) from movement here.",
+                    "notes": "Position chosen to distance from contamination while conserving energy and allowing observation."
+                },
+                "relevance": "High (Current location context, strategic position)"
+            },
+            "potential_scavenger_sounds_01": {
+                "id": "potential_scavenger_sounds_01",
+                "type": "threat_indicator",
+                "description": "Rustling sounds heard from deeper woods downstream.",
+                "location_context": "Originating from deeper woods, downstream direction relative to agent.",
+                "last_seen_day": 7,
+                "details": {
+                    "type": "Auditory (Rustling sounds)",
+                    "potential_cause": "Likely scavenger activity attracted by the persistent fish waste scent.",
+                    "immediacy": "Not directly observed, source location unknown.",
+                    "risk_level": "Medium (Indicates potential presence of larger animals/threats in the area)"
+                },
+                "relevance": "High (Potential immediate threat, linked to fish waste hazard)"
+            }
+        },
+        {
+            "stream_01": {
+                "id": "stream_01",
+                "type": "water_source",
+                "description": "Clear, slow-moving stream. Water confirmed drinkable. Fish visible but wary. Agent drank small amount recently away from contaminated area. Adjacent flat rock remains contaminated.",
+                "location_context": "Beside the (contaminated) flat rock at the stream bank.",
+                "last_seen_day": 8,
+                "details": {
+                    "clarity": "Confirmed clear",
+                    "flow": "Slow-moving, steady",
+                    "accessibility": "Directly accessible from the bank",
+                    "action_taken": "Drank small amount away from contaminated rock (Day 8). Caught fish (Day 5). Drank previously.",
+                    "observed_life": "Fish visible but wary/distant.",
+                    "notes": "Water source reliable, but caution needed near contaminated rock. Minor signs of disturbance (footprints) near edge where agent drank."
+                },
+                "relevance": "High (Confirmed water source, adjacent hazard)"
+            },
+            "flat_rock_01": {
+                "id": "flat_rock_01",
+                "type": "landmark",
+                "description": "Large, flat rock near the stream, heavily contaminated with decaying fish waste, swarming with flies and emitting a strong smell.",
+                "location_context": "Near the stream bank, visible from agent's resting spot.",
+                "last_seen_day": 8,
+                "details": {
+                    "size": "Large",
+                    "shape": "Flat-topped",
+                    "utility": "Previously useful, now hazardous and unusable.",
+                    "current_status": "Heavily stained, covered in further decaying fish waste. Strong decay scent persists. Infested with numerous flies. Unoccupied.",
+                    "notes": "The persistent strong scent remains a major attractant for scavengers/predators (Danger Level: Medium). Key visual landmark, now a hazard zone."
+                },
+                "relevance": "Very High (Hazard source, key landmark, attractant for threats)"
+            },
+            "thicket_01": {
+                "id": "thicket_01",
+                "type": "shelter_option",
+                "description": "A dense thicket near the agent's current resting spot, offering good concealment.",
+                "location_context": "Short distance from stream, within woodland, adjacent to agent's current position.",
+                "last_seen_day": 8,
+                "details": {
+                    "density": "Appears very dense",
+                    "potential_use": "Concealment, possible rudimentary shelter, escape route.",
+                    "accessibility": "Immediately adjacent to current resting/observation spot."
+                },
+                "relevance": "High (Potential shelter/concealment, current proximity)"
+            },
+            "fish_meat_raw_01": {
+                "id": "fish_meat_raw_01",
+                "type": "food_resource",
+                "description": "Prepared portion of raw fish meat, left near the contaminated flat rock, visibly spoiled and unsafe.",
+                "location_context": "Near the contaminated flat rock beside the stream.",
+                "last_seen_day": 8,
+                "details": {
+                    "type": "Fish meat",
+                    "quantity": "One portion",
+                    "status": "Raw, heavily spoiled (further decay, fly-blown). Definitely unsafe.",
+                    "risk": "Extremely high risk of causing severe illness if consumed. Still contributing to overall decay scent.",
+                    "origin": "Processed from fish_caught_01"
+                },
+                "relevance": "High (Hazardous item, contributes to scent)"
+            },
+            "fish_waste_01": {
+                "id": "fish_waste_01",
+                "type": "environmental_hazard",
+                "description": "Decaying fish guts, scales, and blood on the flat rock, heavily infested with flies.",
+                "location_context": "On the flat rock beside the stream.",
+                "last_seen_day": 8,
+                "details": {
+                    "composition": "Guts, scales, blood",
+                    "hazard": "Strong persistent decay scent attracting numerous insects (flies swarming) and posing ongoing risk of attracting scavengers. Contaminates the rock surface heavily.",
+                    "origin": "Byproduct of processing fish_caught_01"
+                },
+                "relevance": "Very High (Primary attractant for threats, hazard source)"
+            },
+            "berries_plants_stream_01": {
+                "id": "berries_plants_stream_01",
+                "type": "food_source",
+                "description": "Edible plants and berries near the stream bank. Remain depleted.",
+                "location_context": "Near the stream bank, visible from the observation spot.",
+                "last_seen_day": 8,
+                "details": {
+                    "type": "Berries and edible plants",
+                    "status": "Significantly depleted. No noticeable recovery. Signs of prior disturbance evident.",
+                    "quantity_observed": "Small depleted patches remain.",
+                    "accessibility": "Low in immediate vicinity."
+                },
+                "relevance": "Medium (Known food source location, currently depleted)"
+            },
+            "sharp_rock_tool_01": {
+                "id": "sharp_rock_tool_01",
+                "type": "tool",
+                "description": "A sharp-edged rock suitable for cutting/scraping, left near the contaminated flat rock.",
+                "location_context": "Near the flat rock.",
+                "last_seen_day": 8,
+                "details": {
+                    "material": "Rock",
+                    "feature": "Sharp edge",
+                    "utility": "Used successfully to process fish.",
+                    "status": "Available nearby, potentially bloodied, located near hazard zone."
+                },
+                "relevance": "Medium (Useful discovered tool, located near hazard)"
+            },
+            "game_trail_01": {
+                "id": "game_trail_01",
+                "type": "path",
+                "description": "A faint game trail leading away from the stream bank into the woodland.",
+                "location_context": "Starts near the stream bank, visible from observation spot.",
+                "last_seen_day": 8,
+                "details": {
+                    "clarity": "Faint but visible",
+                    "signs_of_use": "Tracks visible but aging.",
+                    "destination": "Leads away from stream into woods."
+                },
+                "relevance": "Medium (Potential travel route)"
+            },
+            "root_vegetables_inland_01": {
+                "id": "root_vegetables_inland_01",
+                "type": "food_source",
+                "description": "Potential root vegetables identified further inland from the stream.",
+                "location_context": "Further inland, away from the stream, visible from agent's observation post near the thicket.",
+                "last_seen_day": 8,
+                "details": {
+                    "type": "Root vegetables (visual ID)",
+                    "status": "Potentially available",
+                    "quantity_observed": "Area noted, specific quantity unknown.",
+                    "accessibility": "Requires moving inland, potential foraging effort needed.",
+                    "confirmation_needed": true
+                },
+                "relevance": "High (Potential new food source, requires investigation)"
+            },
+            "observation_post_thicket_01": {
+                "id": "observation_post_thicket_01",
+                "type": "environment_context",
+                "description": "Current resting and observation spot under tree cover near the dense thicket. Provides good concealment.",
+                "location_context": "Short distance from stream/contaminated rock, adjacent to thicket_01.",
+                "last_seen_day": 8,
+                "details": {
+                    "features": [
+                        "Good tree canopy shade",
+                        "Adjacent dense thicket (concealment)",
+                        "View towards stream/contaminated rock",
+                        "View towards inland area (root vegetables)"
+                    ],
+                    "dominant_terrain": "Mixed woodland",
+                    "purpose": "Resting (conserving energy), Observation (monitoring hazards/resources)",
+                    "signs_of_activity": "Minor disturbance (leaves/ground) from movement. Disturbance (plucked stems, footprints) visible on ground where berries were picked nearby.",
+                    "observed_wildlife": "Birds and squirrels active in surrounding trees, slightly less disturbed by stationary agent but still alert."
+                },
+                "relevance": "High (Current location context, strategic position)"
+            },
+            "potential_scavenger_sounds_01": {
+                "id": "potential_scavenger_sounds_01",
+                "type": "threat_indicator",
+                "description": "Rustling sounds previously heard from deeper woods downstream.",
+                "location_context": "Originating from deeper woods, downstream direction relative to agent.",
+                "last_seen_day": 7,
+                "details": {
+                    "type": "Auditory (Rustling sounds)",
+                    "potential_cause": "Likely scavenger activity attracted by the persistent fish waste scent.",
+                    "immediacy": "Not directly observed or heard again this cycle.",
+                    "risk_level": "Medium (Indicates potential presence of threats in the area due to scent, even if not heard now)"
+                },
+                "relevance": "Medium (Memory of past potential threat indicator, risk persists)"
+            },
+            "berries_thicket_01": {
+                "id": "berries_thicket_01",
+                "type": "food_source",
+                "description": "Small patch of ripe, edible berries found near the resting spot under the trees.",
+                "location_context": "Near observation_post_thicket_01.",
+                "last_seen_day": 8,
+                "details": {
+                    "type": "Berries",
+                    "ripeness": "Ripe",
+                    "status": "Consumed",
+                    "quantity_observed": "Small patch",
+                    "notes": "Required minimal movement to gather. Signs of disturbance (plucked stems, footprints) now mark the spot where they grew."
+                },
+                "relevance": "High (Recently consumed food source)"
+            }
+        },
+        {
+            "stream_01": {
+                "id": "stream_01",
+                "type": "water_source",
+                "description": "Clear, slow-moving stream. Water confirmed drinkable. Fish visible nearby the agent's new upstream location.",
+                "location_context": "Adjacent to the agent's current upstream resting spot. The contaminated rock area is further downstream.",
+                "last_seen_day": 9,
+                "details": {
+                    "clarity": "Confirmed clear",
+                    "flow": "Slow-moving, steady",
+                    "accessibility": "Directly accessible from the bank near new resting spot",
+                    "action_taken": "Moved upstream along it (Day 9). Drank away from contaminated rock (Day 8). Caught fish (Day 5). Drank previously.",
+                    "observed_life": "Fish visible in the water near the new location, appearing less wary than near the contaminated site.",
+                    "notes": "Reliable water source. Current location provides access away from the downstream contamination."
+                },
+                "relevance": "High (Confirmed water source, current location)"
+            },
+            "flat_rock_01": {
+                "id": "flat_rock_01",
+                "type": "landmark",
+                "description": "Large, flat rock visible downstream, heavily contaminated with decaying fish waste, swarming with flies.",
+                "location_context": "Downstream from the agent's current position, near the stream bank.",
+                "last_seen_day": 9,
+                "details": {
+                    "size": "Large",
+                    "shape": "Flat-topped",
+                    "utility": "Hazardous and unusable due to contamination.",
+                    "current_status": "Visible at a distance. Covered in further decaying fish waste. Strong decay scent source (faintly detectable occasionally from afar). Infested with numerous flies.",
+                    "notes": "The scent source remains a background risk for attracting scavengers to the general area. Key visual landmark of the hazard zone left behind."
+                },
+                "relevance": "High (Hazard source landmark, distant threat indicator)"
+            },
+            "thicket_01": {
+                "id": "thicket_01",
+                "type": "shelter_option",
+                "description": "A dense thicket located near the agent's previous resting spot.",
+                "location_context": "Near the previous resting spot (observation_post_thicket_01), likely downstream or further inland relative to the agent's new position.",
+                "last_seen_day": 9,
+                "details": {
+                    "density": "Appears very dense",
+                    "potential_use": "Concealment, possible rudimentary shelter.",
+                    "accessibility": "No longer immediately accessible; requires moving back towards the previous area."
+                },
+                "relevance": "Medium (Known feature of the nearby area, potential future use/orientation)"
+            },
+            "fish_waste_01": {
+                "id": "fish_waste_01",
+                "type": "environmental_hazard",
+                "description": "Decaying fish guts, scales, and blood on the flat rock, visible downstream, heavily infested with flies.",
+                "location_context": "On the flat rock (flat_rock_01) beside the stream, downstream from current location.",
+                "last_seen_day": 9,
+                "details": {
+                    "composition": "Guts, scales, blood",
+                    "hazard": "Strong persistent decay scent (faintly detected occasionally) attracting numerous insects (flies visible swarming downstream) and posing ongoing background risk of attracting scavengers to the area.",
+                    "origin": "Byproduct of processing fish_caught_01"
+                },
+                "relevance": "High (Primary source of distant hazard/attractant)"
+            },
+            "fish_meat_raw_01": {
+                "id": "fish_meat_raw_01",
+                "type": "food_resource",
+                "description": "Spoiled raw fish meat, left near the contaminated flat rock, visible downstream.",
+                "location_context": "Near the contaminated flat rock (flat_rock_01) beside the stream, downstream from current location.",
+                "last_seen_day": 9,
+                "details": {
+                    "type": "Fish meat",
+                    "quantity": "One portion",
+                    "status": "Raw, heavily spoiled. Definitely unsafe.",
+                    "risk": "Extremely hazardous if consumed. Contributes to overall decay scent downstream.",
+                    "origin": "Processed from fish_caught_01"
+                },
+                "relevance": "Medium (Hazardous item, contributes to distant scent)"
+            },
+            "berries_plants_stream_01": {
+                "id": "berries_plants_stream_01",
+                "type": "food_source",
+                "description": "Previously foraged edible plants and berries near the stream bank downstream. Remain depleted.",
+                "location_context": "Near the stream bank, downstream near the contaminated flat rock area.",
+                "last_seen_day": 9,
+                "details": {
+                    "type": "Berries and edible plants",
+                    "status": "Significantly depleted. No noticeable recovery. Signs of prior disturbance evident.",
+                    "quantity_observed": "Small depleted patches remain visible at distance.",
+                    "accessibility": "Low; requires returning downstream."
+                },
+                "relevance": "Low (Known depleted food source location)"
+            },
+            "sharp_rock_tool_01": {
+                "id": "sharp_rock_tool_01",
+                "type": "tool",
+                "description": "A sharp-edged rock suitable for cutting/scraping, left near the contaminated flat rock downstream.",
+                "location_context": "Near the flat rock (flat_rock_01), downstream.",
+                "last_seen_day": 9,
+                "details": {
+                    "material": "Rock",
+                    "feature": "Sharp edge",
+                    "utility": "Used successfully to process fish.",
+                    "status": "Likely still available near hazard zone downstream."
+                },
+                "relevance": "Medium (Useful discovered tool, currently distant)"
+            },
+            "game_trail_01": {
+                "id": "game_trail_01",
+                "type": "path",
+                "description": "A faint game trail previously seen leading away from the stream bank near the flat rock area.",
+                "location_context": "Starts near the stream bank, downstream near the flat rock area.",
+                "last_seen_day": 8,
+                "details": {
+                    "clarity": "Faint",
+                    "signs_of_use": "Aging tracks previously noted.",
+                    "destination": "Leads away from stream into woods.",
+                    "visibility": "Not visible from current upstream location."
+                },
+                "relevance": "Low (Potential travel route, not currently visible/accessible)"
+            },
+            "root_vegetables_inland_01": {
+                "id": "root_vegetables_inland_01",
+                "type": "food_source",
+                "description": "Area further inland where potential root vegetables were previously identified.",
+                "location_context": "Further inland from the stream, potentially visible from the new location depending on tree cover.",
+                "last_seen_day": 9,
+                "details": {
+                    "type": "Root vegetables (visual ID)",
+                    "status": "Potentially available",
+                    "quantity_observed": "Area noted, specific quantity unknown.",
+                    "accessibility": "Requires moving inland from current stream location, potential foraging effort needed.",
+                    "confirmation_needed": true
+                },
+                "relevance": "High (Potential nearby food source, requires investigation)"
+            },
+            "observation_post_thicket_01": {
+                "id": "observation_post_thicket_01",
+                "type": "environment_context",
+                "description": "The previous resting spot under tree cover near the dense thicket, now downstream/inland from the current location.",
+                "location_context": "Downstream/inland, near thicket_01.",
+                "last_seen_day": 9,
+                "details": {
+                    "features": [
+                        "Good tree canopy shade",
+                        "Adjacent dense thicket (concealment)",
+                        "View towards stream/contaminated rock"
+                    ],
+                    "dominant_terrain": "Mixed woodland",
+                    "purpose": "Previous resting/observation spot.",
+                    "signs_of_activity": "Minor disturbance from previous presence, consumed berry patch nearby (berries_thicket_01).",
+                    "notes": "Location abandoned due to proximity to contamination."
+                },
+                "relevance": "Medium (Historical context, landmark of previous location)"
+            },
+            "potential_scavenger_sounds_01": {
+                "id": "potential_scavenger_sounds_01",
+                "type": "threat_indicator",
+                "description": "Rustling sounds heard previously (Day 7) from deeper woods downstream.",
+                "location_context": "Originating from deeper woods, downstream direction.",
+                "last_seen_day": 7,
+                "details": {
+                    "type": "Auditory (Rustling sounds)",
+                    "potential_cause": "Likely scavenger activity attracted by fish waste scent.",
+                    "immediacy": "Not directly observed or heard recently.",
+                    "risk_level": "Medium (Indicates potential presence of threats in the area due to scent)"
+                },
+                "relevance": "Medium (Memory of past potential threat indicator, risk persists)"
+            },
+            "berries_thicket_01": {
+                "id": "berries_thicket_01",
+                "type": "food_source",
+                "description": "Small patch of ripe, edible berries consumed near the previous resting spot.",
+                "location_context": "Near observation_post_thicket_01 (previous location).",
+                "last_seen_day": 8,
+                "details": {
+                    "type": "Berries",
+                    "ripeness": "Ripe",
+                    "status": "Consumed",
+                    "quantity_observed": "Small patch (now gone)",
+                    "notes": "Signs of disturbance (plucked stems, footprints) mark the spot."
+                },
+                "relevance": "Low (Historical consumption)"
+            },
+            "new_resting_spot_upstream_01": {
+                "id": "new_resting_spot_upstream_01",
+                "type": "environment_context",
+                "description": "Current resting spot under tree cover, located upstream along the stream bank, significantly further from the contaminated flat rock.",
+                "location_context": "Upstream along stream bank, mixed woodland.",
+                "last_seen_day": 9,
+                "details": {
+                    "features": [
+                        "Good tree canopy shade/cover",
+                        "Accessible clean stream water nearby",
+                        "View downstream towards distant contaminated rock",
+                        "View of nearby stream section with fish",
+                        "View potentially towards inland woods"
+                    ],
+                    "dominant_terrain": "Mixed woodland near stream",
+                    "purpose": "Current resting location, chosen for safety from contamination.",
+                    "signs_of_activity": "Minimal disturbance from arrival.",
+                    "observed_wildlife": "Birds/squirrels resettling cautiously nearby. Fish active in stream section."
+                },
+                "relevance": "Very High (Current location, safe haven)"
+            },
+            "passage_signs_01": {
+                "id": "passage_signs_01",
+                "type": "environmental_sign",
+                "description": "Faint signs of passage created while moving from the old resting spot to the new one.",
+                "location_context": "Along the stream bank between observation_post_thicket_01 and new_resting_spot_upstream_01.",
+                "last_seen_day": 9,
+                "details": {
+                    "composition": "Disturbed leaves, occasional faint footprints in softer ground near bank.",
+                    "direction": "Marks path leading downstream towards previous location/hazard zone.",
+                    "clarity": "Faint"
+                },
+                "relevance": "Low (Trace of own recent activity)"
+            }
+        },
+        {
+            "stream_01": {
+                "id": "stream_01",
+                "type": "water_source",
+                "description": "Clear, slow-moving stream. Water confirmed drinkable. Fish visible nearby the agent's current upstream location.",
+                "location_context": "Adjacent to the agent's current upstream resting spot (new_resting_spot_upstream_01). The contaminated rock area is further downstream.",
+                "last_seen_day": 10,
+                "details": {
+                    "clarity": "Confirmed clear",
+                    "flow": "Slow-moving, steady",
+                    "accessibility": "Directly accessible from the bank near current resting spot",
+                    "action_taken": "Drank water (Day 10). Moved upstream along it (Day 9). Drank away from contaminated rock (Day 8). Caught fish (Day 5). Drank previously.",
+                    "observed_life": "Fish visible in the water near the new location, appearing less wary than near the contaminated site.",
+                    "notes": "Reliable water source. Current location provides access away from downstream contamination. Minor signs of recent activity (footprints) near drinking spot."
+                },
+                "relevance": "Very High (Confirmed water source, current location)"
+            },
+            "flat_rock_01": {
+                "id": "flat_rock_01",
+                "type": "landmark",
+                "description": "Large, flat rock visible downstream, heavily contaminated with decaying fish waste, attracting flies.",
+                "location_context": "Downstream from the agent's current position, near the stream bank.",
+                "last_seen_day": 10,
+                "details": {
+                    "size": "Large",
+                    "shape": "Flat-topped",
+                    "utility": "Hazardous and unusable due to contamination.",
+                    "current_status": "Visible at a distance. Covered in decaying fish waste. Strong decay scent source (not strongly detected from current position). Infested with flies.",
+                    "notes": "The scent source remains a background risk for attracting scavengers to the general area. Key visual landmark of the hazard zone left behind."
+                },
+                "relevance": "High (Hazard source landmark, distant threat indicator)"
+            },
+            "thicket_01": {
+                "id": "thicket_01",
+                "type": "shelter_option",
+                "description": "A dense thicket located near the agent's previous resting spot.",
+                "location_context": "Near the previous resting spot (observation_post_thicket_01), likely downstream or further inland relative to the agent's new position.",
+                "last_seen_day": 10,
+                "details": {
+                    "density": "Appears very dense",
+                    "potential_use": "Concealment, possible rudimentary shelter.",
+                    "accessibility": "No longer immediately accessible; requires moving back towards the previous area."
+                },
+                "relevance": "Medium (Known feature of the nearby area, potential future use/orientation)"
+            },
+            "fish_waste_01": {
+                "id": "fish_waste_01",
+                "type": "environmental_hazard",
+                "description": "Decaying fish guts, scales, and blood on the flat rock, visible downstream, heavily infested with flies.",
+                "location_context": "On the flat rock (flat_rock_01) beside the stream, downstream from current location.",
+                "last_seen_day": 10,
+                "details": {
+                    "composition": "Guts, scales, blood",
+                    "hazard": "Persistent decay scent (faintly detected occasionally) attracting numerous insects (flies visible swarming downstream) and posing ongoing background risk of attracting scavengers to the area.",
+                    "origin": "Byproduct of processing fish_caught_01"
+                },
+                "relevance": "High (Primary source of distant hazard/attractant)"
+            },
+            "fish_meat_raw_01": {
+                "id": "fish_meat_raw_01",
+                "type": "food_resource",
+                "description": "Spoiled raw fish meat, left near the contaminated flat rock, visible downstream.",
+                "location_context": "Near the contaminated flat rock (flat_rock_01) beside the stream, downstream from current location.",
+                "last_seen_day": 10,
+                "details": {
+                    "type": "Fish meat",
+                    "quantity": "One portion",
+                    "status": "Raw, heavily spoiled. Definitely unsafe.",
+                    "risk": "Extremely hazardous if consumed. Contributes to overall decay scent downstream.",
+                    "origin": "Processed from fish_caught_01"
+                },
+                "relevance": "Medium (Hazardous item, contributes to distant scent)"
+            },
+            "berries_plants_stream_01": {
+                "id": "berries_plants_stream_01",
+                "type": "food_source",
+                "description": "Previously foraged edible plants and berries near the stream bank downstream. Remain depleted.",
+                "location_context": "Near the stream bank, downstream near the contaminated flat rock area.",
+                "last_seen_day": 10,
+                "details": {
+                    "type": "Berries and edible plants",
+                    "status": "Significantly depleted. No noticeable recovery. Signs of prior disturbance evident.",
+                    "quantity_observed": "Small depleted patches remain visible at distance.",
+                    "accessibility": "Low; requires returning downstream."
+                },
+                "relevance": "Low (Known depleted food source location)"
+            },
+            "sharp_rock_tool_01": {
+                "id": "sharp_rock_tool_01",
+                "type": "tool",
+                "description": "A sharp-edged rock suitable for cutting/scraping, left near the contaminated flat rock downstream.",
+                "location_context": "Near the flat rock (flat_rock_01), downstream.",
+                "last_seen_day": 10,
+                "details": {
+                    "material": "Rock",
+                    "feature": "Sharp edge",
+                    "utility": "Used successfully to process fish.",
+                    "status": "Likely still available near hazard zone downstream."
+                },
+                "relevance": "Medium (Useful discovered tool, currently distant)"
+            },
+            "game_trail_01": {
+                "id": "game_trail_01",
+                "type": "path",
+                "description": "A faint game trail previously seen leading away from the stream bank near the flat rock area.",
+                "location_context": "Starts near the stream bank, downstream near the flat rock area.",
+                "last_seen_day": 8,
+                "details": {
+                    "clarity": "Faint",
+                    "signs_of_use": "Aging tracks previously noted.",
+                    "destination": "Leads away from stream into woods.",
+                    "visibility": "Not visible from current upstream location."
+                },
+                "relevance": "Low (Potential travel route, not currently visible/accessible)"
+            },
+            "root_vegetables_inland_01": {
+                "id": "root_vegetables_inland_01",
+                "type": "food_source",
+                "description": "Area further inland where potential root vegetables were previously identified.",
+                "location_context": "Further inland from the stream, potentially visible from the new location depending on tree cover.",
+                "last_seen_day": 10,
+                "details": {
+                    "type": "Root vegetables (visual ID)",
+                    "status": "Potentially available",
+                    "quantity_observed": "Area noted, specific quantity unknown.",
+                    "accessibility": "Requires moving inland from current stream location, potential foraging effort needed.",
+                    "confirmation_needed": true
+                },
+                "relevance": "High (Potential nearby food source, requires investigation)"
+            },
+            "observation_post_thicket_01": {
+                "id": "observation_post_thicket_01",
+                "type": "environment_context",
+                "description": "The previous resting spot under tree cover near the dense thicket, now downstream/inland from the current location.",
+                "location_context": "Downstream/inland, near thicket_01.",
+                "last_seen_day": 10,
+                "details": {
+                    "features": [
+                        "Good tree canopy shade",
+                        "Adjacent dense thicket (concealment)",
+                        "View towards stream/contaminated rock"
+                    ],
+                    "dominant_terrain": "Mixed woodland",
+                    "purpose": "Previous resting/observation spot.",
+                    "signs_of_activity": "Minor disturbance from previous presence, consumed berry patch nearby (berries_thicket_01).",
+                    "notes": "Location abandoned due to proximity to contamination."
+                },
+                "relevance": "Medium (Historical context, landmark of previous location)"
+            },
+            "potential_scavenger_sounds_01": {
+                "id": "potential_scavenger_sounds_01",
+                "type": "threat_indicator",
+                "description": "Rustling sounds heard previously (Day 7) from deeper woods downstream.",
+                "location_context": "Originating from deeper woods, downstream direction.",
+                "last_seen_day": 7,
+                "details": {
+                    "type": "Auditory (Rustling sounds)",
+                    "potential_cause": "Likely scavenger activity attracted by fish waste scent.",
+                    "immediacy": "Not directly observed or heard recently.",
+                    "risk_level": "Medium (Indicates potential presence of threats in the area due to scent)"
+                },
+                "relevance": "Medium (Memory of past potential threat indicator, risk persists)"
+            },
+            "berries_thicket_01": {
+                "id": "berries_thicket_01",
+                "type": "food_source",
+                "description": "Small patch of ripe, edible berries consumed near the previous resting spot.",
+                "location_context": "Near observation_post_thicket_01 (previous location).",
+                "last_seen_day": 8,
+                "details": {
+                    "type": "Berries",
+                    "ripeness": "Ripe",
+                    "status": "Consumed",
+                    "quantity_observed": "Small patch (now gone)",
+                    "notes": "Signs of disturbance (plucked stems, footprints) mark the spot."
+                },
+                "relevance": "Low (Historical consumption)"
+            },
+            "new_resting_spot_upstream_01": {
+                "id": "new_resting_spot_upstream_01",
+                "type": "environment_context",
+                "description": "Current resting spot under tree cover, located upstream along the stream bank. Signs of recent foraging (disturbed plants, footprints) are visible nearby.",
+                "location_context": "Upstream along stream bank, mixed woodland.",
+                "last_seen_day": 10,
+                "details": {
+                    "features": [
+                        "Good tree canopy shade/cover",
+                        "Accessible clean stream water nearby",
+                        "View downstream towards distant contaminated rock",
+                        "View of nearby stream section with fish",
+                        "View potentially towards inland woods"
+                    ],
+                    "dominant_terrain": "Mixed woodland near stream",
+                    "purpose": "Current resting location, chosen for safety from contamination.",
+                    "signs_of_activity": "Minimal disturbance from arrival. Recent foraging signs (disturbed berry bushes, plucked fern stems, footprints near stream bank and forage patches).",
+                    "observed_wildlife": "Birds/squirrels/rabbits active nearby, keeping a slightly increased distance due to recent foraging activity. Fish active in stream section.",
+                    "resources_nearby": "Water (stream_01), Potential Root Vegetables (root_vegetables_inland_01). Nearby berries/ferns (berries_ferns_upstream_01) depleted."
+                },
+                "relevance": "Very High (Current location, safe haven, site of recent activity)"
+            },
+            "berries_ferns_upstream_01": {
+                "id": "berries_ferns_upstream_01",
+                "type": "food_source",
+                "description": "Patch of early season berries and young edible ferns identified and consumed near the current upstream resting spot.",
+                "location_context": "Immediate vicinity of new_resting_spot_upstream_01.",
+                "last_seen_day": 10,
+                "details": {
+                    "type": "Berries and Ferns",
+                    "ripeness": "Early season / Young",
+                    "status": "Consumed / Depleted",
+                    "quantity_observed": "Small patches",
+                    "accessibility": "Easily accessible from resting spot",
+                    "notes": "Successfully foraged. Provided sustenance. Signs of gathering (disturbed plants, footprints) remain."
+                },
+                "relevance": "High (Confirmed recent food source, location known, now depleted)"
+            }
+        }
+    ]
+}

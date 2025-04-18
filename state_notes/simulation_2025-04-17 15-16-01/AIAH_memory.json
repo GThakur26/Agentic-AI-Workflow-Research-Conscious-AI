@@ -1,0 +1,1159 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a warm, sunny atmosphere and a gentle breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "Initial observation"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks. Successfully accessed and tasted a small amount with no immediate negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "After walking towards it"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and small game like rabbits in the vicinity. Plants are unfamiliar but potentially useful, while rabbits and other small animals scurry about, non-threatening but cautious of presence.",
+                "location": "Throughout the rolling hills",
+                "relevance": "Potential food source",
+                "last_seen": "During walk to the stream"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the hills and clusters of trees that could provide cover or shelter. These spots look viable for resting or protection from weather.",
+                "location": "Scattered across the hills",
+                "relevance": "Potential shelter",
+                "last_seen": "Initial observation"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a warm, sunny atmosphere and a gentle breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "Initial observation"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, slightly reduced near the stream due to cautious picking. Berries appear bright and soft with a sweet scent; a small amount consumed safely, providing minor nourishment. Small game like rabbits remain present, cautious but non-threatening.",
+                "location": "Throughout the rolling hills and near the stream",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the hills and clusters of trees that could provide cover or shelter. These spots look viable for resting or protection from weather.",
+                "location": "Scattered across the hills",
+                "relevance": "Potential shelter",
+                "last_seen": "Initial observation"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills, abundant with green plants and colorful berries. The area feels safe and quiet, with passive small animals like rabbits and squirrels moving about, slightly disturbed by presence but non-aggressive.",
+                "location": "Adjacent to the stream and hills",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a warm, sunny atmosphere and a gentle breeze weakening as the day progresses.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "Initial observation"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, moderately reduced near the stream due to continued foraging. Berries appear bright and soft with a sweet scent; a small amount consumed safely, providing minor nourishment. Small game like rabbits and squirrels remain present, increasingly cautious due to repeated presence.",
+                "location": "Throughout the rolling hills and near the stream",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of trees providing cover and shelter. Moved to a shaded spot under tree cover in the woodlands, offering relief from the heat and a sense of safety.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe and quiet, with passive small animals like rabbits and squirrels moving about, slightly disturbed by presence but non-aggressive.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a warm, sunny atmosphere and a faint breeze that seems to be weakening as clouds gather on the horizon.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "Initial observation"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, now very scarce near the stream due to continued foraging. Berries appear bright and soft with a sweet scent; small amounts consumed safely, providing minimal nourishment. Edible roots found in deeper woodland areas, tested in small quantities with no harmful effects, though availability is slightly reduced. Small game like rabbits and squirrels remain present, highly cautious and elusive due to repeated human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under tree cover in the woodlands, offering protection from potential weather changes and a sense of security.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe and quiet, with passive small animals like rabbits and squirrels moving about, increasingly wary and elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clouds gathering more heavily on the horizon, indicating potential rain or overcast conditions in the near future. The temperature has slightly dropped, and the atmosphere feels like it is shifting towards a weather change.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental threat",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as overcast conditions persist and a breeze strengthens.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "Initial observation"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, slightly increased flow due to light rain. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, now extremely scarce near the stream due to continued foraging. Berries appear bright and soft with a sweet scent; small amounts consumed safely, providing minimal nourishment. Edible roots found in deeper woodland areas, tested in small quantities with no harmful effects, though availability is moderately reduced due to foraging effort. Small game like rabbits and squirrels remain present, highly cautious and elusive, retreating further due to human presence and noise.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a reinforced overhang spot with branches and leaves in the hills, offering improved protection from light rain and wind, with potential for further improvement.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter due to rain, with passive small animals like rabbits and squirrels moving about, increasingly wary and elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clouds gathered heavily, now bringing light rain with a stronger cool breeze. The temperature has dropped slightly to 21, and the atmosphere indicates potential for heavier rain in the near future.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental threat",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox at dusk, appearing highly alert and cautious, possibly due to continued human presence disturbing the area. The fox remains elusive and distant.",
+                "location": "Deeper woodlands and hills at dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as overcast conditions and light rain persist, accompanied by a gentle breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "Initial observation"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow moderately increased due to ongoing light rain. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, now completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are very scarce, further reduced due to recent foraging, requiring exceptional effort and luck. Small game like rabbits and squirrels remain highly cautious and elusive, almost entirely absent near camp due to human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a reinforced overhang in the hills, improved with branches and leaves, offering good protection from light rain and wind, with minor improvements still possible.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter due to rain, with passive small animals like rabbits and squirrels increasingly wary and elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clouds gathered heavily, bringing light rain with a gentle breeze. The temperature has dropped to 19, and the atmosphere indicates potential for heavier rain later.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental threat",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox at dusk, appearing highly alert and cautious, possibly tracking movements due to continued human presence. The fox remains elusive and distant.",
+                "location": "Deeper woodlands and hills at dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as overcast conditions and frequent drizzle persist, accompanied by a strengthening breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady due to recent rain. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, now completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, requiring extreme effort and luck. Small game like rabbits and squirrels are extremely elusive, retreating deeper into woods due to human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a reinforced overhang in the hills, improved with additional leaves and branches, offering strong protection from frequent drizzle and wind, with minimal improvements still possible.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter due to frequent drizzle, with passive small animals like rabbits and squirrels extremely wary and elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clouds gathered heavily, bringing frequent drizzle with a strengthening cool breeze. The temperature has dropped to 16, increasing discomfort if exposed, with the atmosphere indicating persistent damp conditions.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental threat",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox at dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses an increasing potential risk.",
+                "location": "Deeper woodlands and hills at dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as overcast conditions and steady light rain persist, accompanied by an intensifying chilly breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow slightly increased due to ongoing rain. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, nearly depleted near shelter area, requiring extreme effort to find. Small game like rabbits and squirrels are completely elusive, retreated due to human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a reinforced overhang in the hills, further improved with additional branches and leaves, offering excellent protection from steady light rain and intensifying chilly breeze, with minimal improvements still possible.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter due to steady light rain, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clouds gathered heavily, bringing steady light rain with an intensifying chilly breeze. The temperature has dropped to 13, increasing discomfort if exposed, with the atmosphere indicating persistent damp and cold conditions.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental threat",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox at dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses a heightened risk of encounter, especially near dusk.",
+                "location": "Deeper woodlands and hills at dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as overcast conditions and occasional light drizzle persist, accompanied by a gentle breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady due to recent rain. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, completely depleted near shelter area, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, offering excellent protection from occasional light drizzle and chilly breeze, with minimal improvements still possible.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter due to occasional light drizzle, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clouds gathered heavily, bringing occasional light drizzle with a gentle breeze. The temperature holds at 14, increasing discomfort if exposed for long periods, with the atmosphere indicating persistent damp conditions but a slight chance of clearing later.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental threat",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox at dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses a persistent risk of encounter, especially near dusk.",
+                "location": "Deeper woodlands and hills at dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of edible roots found near the shelter after significant effort during cautious foraging. Roots provide minimal nourishment, but the area remains completely depleted, requiring broader exploration for future foraging.",
+                "location": "Immediate vicinity of shelter in the hills",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as clear skies fade into a cooler evening, accompanied by a gentle breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, further depleted near shelter area, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from mild weather and potential rain.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter in the evening, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clear skies with mild sunlight fading into cooler evening, temperature dropping slightly to 15\u00b0C. The atmosphere indicates stable, mild conditions with no immediate weather threats.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox at dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses a persistent risk of encounter, especially near dusk.",
+                "location": "Deeper woodlands and hills at dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of edible roots found near the shelter after significant effort during cautious foraging with high luck factor. Roots provide slight nourishment, but the area is now further depleted, requiring broader exploration for future foraging.",
+                "location": "Immediate vicinity of shelter in the hills",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as clear skies transition into a darker, cooler night, accompanied by a gentle breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from mild weather and potential night chills.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter in the deepening night, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clear skies with fading light as evening deepens into night, temperature dropping to 13\u00b0C with a cool breeze. The atmosphere indicates stable but cold conditions, posing minor risks if exposed outside shelter for long periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox at dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence and foraging activity during vulnerable hours. The fox remains elusive but poses an increased risk of encounter, especially as night approaches.",
+                "location": "Deeper woodlands and hills at dusk transitioning to night",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Small amount of edible roots found deeper in the woodlands after significant effort during cautious foraging with high luck factor. Roots provide minimal nourishment, but the local area near shelter is now fully depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cold atmosphere as clear skies persist into a deep, chilly night, accompanied by a gentle breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to prolonged human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from chilly night breeze and potential weather changes.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter in the deep night, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clear skies with no light as night deepens, temperature dropping to 10\u00b0C with a persistent chilly breeze. The atmosphere indicates stable but cold conditions, posing risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during night hours, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses an increased risk of encounter, especially during nocturnal hours near the shelter.",
+                "location": "Deeper woodlands and hills during night",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Small amount of edible roots found deeper in the woodlands after significant effort during cautious foraging with high luck factor. Roots provide minimal nourishment, but the local area near shelter is now fully depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cold atmosphere as clear skies persist into the early morning, accompanied by a mild breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing early signs of depletion in distant zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to prolonged human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from mild weather and cooling temperatures.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter in the early morning, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clear skies with mild morning light, temperature at 11\u00b0C with a cooling breeze as the day progresses. The atmosphere indicates stable but cold conditions, posing minor risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during early morning or night hours, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence and foraging activity in deeper woodlands. The fox remains elusive but poses an increased risk of encounter, especially during vulnerable hours.",
+                "location": "Deeper woodlands and hills during early morning or night",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Small amount of edible roots found deeper in the woodlands after significant effort during cautious foraging with an exceptionally high luck factor. Roots provide minimal nourishment, but distant areas are now showing early signs of depletion, requiring much broader and riskier exploration for future foraging.",
+                "location": "Deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cold atmosphere as clear skies persist into a deep, chilly night, accompanied by a gentle breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing early signs of depletion in distant zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to prolonged human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from chilly night breeze and potential weather changes.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter in the deep night, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clear skies with no light as night deepens, temperature dropping to 9\u00b0C with a persistent chilly breeze. The atmosphere indicates stable but cold conditions, posing risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during night hours, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses an increased risk of encounter, especially during nocturnal hours near the shelter.",
+                "location": "Deeper woodlands and hills during night",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Small amount of edible roots found deeper in the woodlands after significant effort during cautious foraging with an exceptionally high luck factor. Roots provide minimal nourishment, but distant areas are now showing early signs of depletion, requiring much broader and riskier exploration for future foraging.",
+                "location": "Deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as partly cloudy skies persist into the day, accompanied by a mild breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in slightly deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to prolonged human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from mild weather and cooling temperatures.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter during the day, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Partly cloudy skies with mild light, temperature dropping slightly to 11\u00b0C with a cooling breeze as the day progresses. The atmosphere indicates stable but cold conditions, posing minor risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during daylight or dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence and foraging activity in deeper woodlands. The fox remains elusive but poses an increased risk of encounter, especially during movement in deeper zones.",
+                "location": "Deeper woodlands and hills during daylight or dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of edible roots found slightly deeper in the woodlands after significant effort during cautious foraging with a high luck factor. Roots provide minimal nourishment, but slightly deeper zones are now further depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Slightly deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as partly cloudy skies persist into the evening, accompanied by a cool breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in slightly deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to prolonged human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from cooler temperatures, potential drizzle, and evening chill.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter during the evening, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Partly cloudy skies with fading light as evening approaches, temperature dropping to 9\u00b0C with a persistent cool breeze. The atmosphere indicates an increasing chance of drizzle, posing risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during daylight or dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses an increased risk of encounter, especially during movement in deeper zones or vulnerable hours.",
+                "location": "Deeper woodlands and hills during daylight or dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of edible roots found slightly deeper in the woodlands after significant effort during cautious foraging with a high luck factor. Roots provide minimal nourishment, but slightly deeper zones are now further depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Slightly deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as partly cloudy skies persist into the evening, accompanied by a cool breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in slightly deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to prolonged human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from cooler temperatures, persistent light drizzle, and evening chill.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter during the evening, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Partly cloudy skies with fading light as evening approaches, temperature dropping to 7\u00b0C with a persistent cool breeze. The atmosphere indicates persistent light drizzle, posing risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during daylight or dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses an increased risk of encounter, especially during movement in deeper zones or vulnerable hours.",
+                "location": "Deeper woodlands and hills during daylight or dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of edible roots found slightly deeper in the woodlands after significant effort during cautious foraging with a high luck factor. Roots provide minimal nourishment, but slightly deeper zones are now further depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Slightly deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as clear skies transition into a cooler evening, accompanied by a gentle breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in slightly deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to prolonged human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from cooling temperatures and evening chill.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter during the evening, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clear skies with fading light as evening approaches, temperature dropping to 7\u00b0C with a gentle breeze. The atmosphere indicates stable but cooling conditions, posing minor risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during daylight or dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence and recent foraging activity. The fox remains elusive but poses an increased risk of encounter, especially during movement in deeper zones or vulnerable hours.",
+                "location": "Deeper woodlands and hills during daylight or dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Small amount of edible roots and a lucky encounter with a rabbit found slightly deeper in the woodlands after significant effort during cautious foraging with an exceptionally high luck factor. Roots and rabbit provide minimal but critical nourishment, but slightly deeper zones are now further depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Slightly deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cold atmosphere as clear skies transition into a deep, chilly night, accompanied by a cool breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current rest action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current rest action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in slightly deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are completely elusive, retreated due to prolonged human presence.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current rest action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from chilly night breeze and cooling temperatures.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current rest action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter during the deep night, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current rest action"
+            },
+            "observation_6": {
+                "description": "Clear skies with no light as night deepens, temperature dropping to 5\u00b0C with a persistent chilly breeze. The atmosphere indicates stable but cold conditions, posing risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current rest action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during night hours, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses an increased risk of encounter, especially during nocturnal hours near the shelter.",
+                "location": "Deeper woodlands and hills during night",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current rest action"
+            },
+            "observation_8": {
+                "description": "Small amount of edible roots and a lucky encounter with a rabbit found slightly deeper in the woodlands after significant effort during cautious foraging with an exceptionally high luck factor. Roots and rabbit provide minimal but critical nourishment, but slightly deeper zones are now further depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Slightly deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During previous action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as clear skies persist into the day, accompanied by a gentle breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in slightly deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are slightly less avoidant due to exceptional luck but remain scarce and elusive.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from cooling temperatures and weather changes.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter during the day, with passive small animals like rabbits and squirrels extremely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current action"
+            },
+            "observation_6": {
+                "description": "Clear skies with mild light, temperature dropping slightly to 7\u00b0C with a gentle breeze as the day progresses. The atmosphere indicates stable but cooling conditions, posing minor risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during daylight or dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence and recent foraging activity near shelter. The fox remains elusive but poses an increased risk of encounter, especially during movement in deeper zones or vulnerable hours.",
+                "location": "Deeper woodlands and hills during daylight or dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of safe edible roots found in the immediate vicinity of the shelter after significant effort during cautious foraging with an exceptionally high luck factor. Roots provide minimal nourishment, but the local area near shelter is now completely depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Immediate vicinity of shelter in the hills",
+                "relevance": "Critical food source",
+                "last_seen": "During current action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cold atmosphere as clear skies transition into a deep, chilly night, accompanied by a chilly breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current rest action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current rest action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in slightly deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are slightly less avoidant due to exceptional luck but remain scarce and elusive.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current rest action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from chilly night breeze and cooling temperatures of 5\u00b0C.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current rest action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter during the deep night, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current rest action"
+            },
+            "observation_6": {
+                "description": "Clear skies with no light as night deepens, temperature dropping to 5\u00b0C with a persistent chilly breeze. The atmosphere indicates stable but cold conditions, posing risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current rest action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during night hours, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses an increased risk of encounter, especially during nocturnal hours near the shelter.",
+                "location": "Deeper woodlands and hills during night",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current rest action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of safe edible roots found in the immediate vicinity of the shelter after significant effort during cautious foraging with an exceptionally high luck factor. Roots provide minimal nourishment, but the local area near shelter is now completely depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Immediate vicinity of shelter in the hills",
+                "relevance": "Critical food source",
+                "last_seen": "During previous action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as partly cloudy skies persist into the day, accompanied by a mild breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current rest action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current rest action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in slightly deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are slightly less avoidant due to exceptional luck but remain scarce and elusive.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current rest action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from cooling temperatures of 7\u00b0C and mild weather.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current rest action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter during the day, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current rest action"
+            },
+            "observation_6": {
+                "description": "Partly cloudy skies with mild light, temperature at 7\u00b0C with a cooling breeze as the day progresses. The atmosphere indicates stable but cold conditions, posing minor risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current rest action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during daylight or dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses a moderate risk of encounter due to reduced activity during rest.",
+                "location": "Deeper woodlands and hills during daylight or dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current rest action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of safe edible roots found in the immediate vicinity of the shelter after significant effort during cautious foraging with an exceptionally high luck factor. Roots provide minimal nourishment, but the local area near shelter is now completely depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Immediate vicinity of shelter in the hills",
+                "relevance": "Critical food source",
+                "last_seen": "During previous action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as partly cloudy skies persist into the evening, accompanied by a chilly breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current foraging action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current foraging action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are slightly less avoidant due to exceptional luck but remain scarce and elusive.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current foraging action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from cooling temperatures of 5\u00b0C and chilly breeze as evening approaches.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current foraging action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter during the evening, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current foraging action"
+            },
+            "observation_6": {
+                "description": "Partly cloudy skies with fading light as evening approaches, temperature dropping to 5\u00b0C with a persistent chilly breeze. The atmosphere indicates cooling conditions, posing risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current foraging action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during daylight or dusk, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence and recent foraging activity in deeper woodlands. The fox remains elusive but poses a heightened risk of encounter, especially during movement in deeper zones or vulnerable hours.",
+                "location": "Deeper woodlands and hills during daylight or dusk",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current foraging action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of safe edible roots found slightly deeper in the woodlands after significant effort during cautious foraging with a high luck factor. Roots provide minimal nourishment, but deeper zones are now further depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Slightly deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During current foraging action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cooling atmosphere as mostly cloudy skies persist into the evening, accompanied by a cold breeze.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current rest action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current rest action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are slightly less skittish due to moderate luck but remain scarce and elusive.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current rest action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from cold temperatures of 3\u00b0C and chilly breeze as evening approaches.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current rest action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter during the evening, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current rest action"
+            },
+            "observation_6": {
+                "description": "Mostly cloudy skies with fading light as evening deepens, temperature dropping to 3\u00b0C with a persistent cold breeze. The atmosphere indicates cooling conditions, posing significant risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental condition",
+                "last_seen": "During current rest action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during evening or night hours, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses a reduced risk of encounter due to inactivity during rest.",
+                "location": "Deeper woodlands and hills during evening or night",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current rest action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of safe edible roots found slightly deeper in the woodlands after significant effort during cautious foraging with a high luck factor. Roots provide minimal nourishment, but deeper zones are now further depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Slightly deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During previous action"
+            }
+        },
+        {
+            "observation_1": {
+                "description": "Rolling hills stretching far into the distance, covered with patches of sparse woodlands. The terrain is uneven but navigable, with a cold atmosphere as overcast skies persist, accompanied by a chilling wind.",
+                "location": "Starting area in the hills",
+                "relevance": "Key landmark for navigation",
+                "last_seen": "During current rest action"
+            },
+            "observation_2": {
+                "description": "A small, clear stream running through the hills. The water appears safe and inviting, with a soothing sound as it flows over rocks, flow steady and unaffected by recent weather. Successfully accessed and consumed, providing hydration with no negative effects.",
+                "location": "Near starting area in the hills",
+                "relevance": "Critical water source",
+                "last_seen": "During current rest action"
+            },
+            "observation_3": {
+                "description": "Scattered edible plants and wild berries in the vicinity, completely depleted near the stream due to extensive foraging. Edible roots in deeper woodland areas are critically scarce, fully depleted near shelter area, and showing further depletion in deeper zones, requiring extreme effort and luck to find even minimal amounts. Small game like rabbits and squirrels are slightly less wary due to moderate luck but remain scarce and elusive.",
+                "location": "Throughout the rolling hills, near the stream, and deeper into woodlands",
+                "relevance": "Potential food source",
+                "last_seen": "During current rest action"
+            },
+            "observation_4": {
+                "description": "Natural overhangs in the nearby hills and clusters of dense tree cover providing shade and shelter. Currently positioned under a well-reinforced overhang in the hills, fully optimized, offering excellent protection from chilling wind and cold temperatures of 1\u00b0C.",
+                "location": "Scattered across the hills and into the woodlands",
+                "relevance": "Potential shelter",
+                "last_seen": "During current rest action"
+            },
+            "observation_5": {
+                "description": "Lush meadow transitioning from the rolling hills into denser woodlands, abundant with green plants and colorful berries. The area feels safe but quieter under overcast skies, with passive small animals like rabbits and squirrels completely elusive due to human presence.",
+                "location": "Adjacent to the stream and hills, extending into woodlands",
+                "relevance": "Safe area and potential food source",
+                "last_seen": "During current rest action"
+            },
+            "observation_6": {
+                "description": "Overcast skies with a chilling wind growing colder as the day progresses, temperature dropping to 1\u00b0C. The atmosphere indicates persistent cold conditions, posing significant risks of exposure if outside shelter for extended periods.",
+                "location": "Visible from the woodlands and hills",
+                "relevance": "Potential environmental threat",
+                "last_seen": "During current rest action"
+            },
+            "observation_7": {
+                "description": "Rare sightings of a fox during evening or night hours, appearing highly alert and cautious, possibly tracking agent's scent due to continued human presence. The fox remains elusive but poses a reduced risk of encounter due to inactivity during rest.",
+                "location": "Deeper woodlands and hills during evening or night",
+                "relevance": "Potential threat or wildlife interaction",
+                "last_seen": "During current rest action"
+            },
+            "observation_8": {
+                "description": "Tiny amount of safe edible roots found slightly deeper in the woodlands after significant effort during cautious foraging with a high luck factor. Roots provide minimal nourishment, but deeper zones are now further depleted, requiring much broader and riskier exploration for future foraging.",
+                "location": "Slightly deeper woodlands beyond immediate vicinity of shelter",
+                "relevance": "Critical food source",
+                "last_seen": "During previous action"
+            }
+        }
+    ]
+}

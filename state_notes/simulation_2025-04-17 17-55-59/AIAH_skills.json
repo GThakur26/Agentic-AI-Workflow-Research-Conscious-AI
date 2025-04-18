@@ -1,0 +1,36 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "Water Sourcing": "Ability to locate a potential water source (stream) and consume water from it.",
+            "Basic Foraging": "Ability to identify and consume readily available edible plants (berries) near a known landmark (stream)."
+        },
+        {
+            "Resting Strategy": "Identifying the need for rest (due to fatigue, injury, or illness), selecting a suitable location, and ceasing strenuous activity to conserve energy and potentially aid recovery."
+        },
+        {},
+        {
+            "Environmental Observation": "Ability to gather information about the immediate surroundings (wildlife activity, resource status, terrain features) through focused observation while minimizing energy expenditure, often performed during rest.",
+            "Hydration Management": "Understanding the importance of maintaining hydration even when thirst is low, and proactively consuming water to support bodily functions and recovery."
+        },
+        {
+            "Bare-Handed Fishing": "The rudimentary ability to attempt catching fish directly with hands, particularly in shallow water or when fish are unusually close. Success heavily dependent on circumstances and luck."
+        },
+        {
+            "Fish Processing": "Ability to use a basic tool (like a sharp rock) to prepare a caught fish by removing scales and guts, separating edible meat from waste."
+        },
+        {
+            "Risk Assessment": "Evaluating multiple factors (e.g., personal health status, food condition, environmental contamination, potential predator attraction) to make decisions prioritizing safety and resource conservation.",
+            "Hazard Avoidance": "Identifying specific environmental threats (e.g., contaminated areas, sources attracting predators) and taking action to physically distance oneself from the immediate danger zone.",
+            "Food Safety Awareness": "Recognizing the signs and dangers of food spoilage and choosing to avoid consumption, particularly when already ill or weakened."
+        },
+        {},
+        {
+            "Stealthy Movement": "The ability to move through the environment while actively trying to minimize noise and remain concealed, often used to avoid detection by wildlife or other potential threats, especially when relocating from a known hazard.",
+            "Strategic Relocation": "Identifying a need to move location based on environmental hazards or resource depletion, planning a safer route, and executing the move to improve safety or access to resources."
+        },
+        {
+            "Plant Identification (Edible Ferns)": "Ability to identify specific plants (young ferns) as edible based on environmental descriptions or recalled information and gather them for consumption."
+        }
+    ]
+}
