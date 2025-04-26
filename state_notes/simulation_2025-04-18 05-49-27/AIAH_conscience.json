@@ -1,0 +1,70 @@
+{
+    "metadata": "",
+    "data": [
+        [
+            {
+                "note_id": "CN_001",
+                "timestamp": "T1",
+                "triggering_action": "Searched for and moved to a rock overhang for shelter.",
+                "context": "Feeling cold, wet, tired (Energy: 3/10), hungry (Hunger: 7/10), thirsty (Thirst: 5/10), and slightly unnerved by a distant howl in a harsh, resource-scarce environment with ongoing drizzle.",
+                "emotional_response": {
+                    "primary": [
+                        "Discomfort (physical: cold, wet)",
+                        "Fatigue",
+                        "Unease/Mild Fear (howl)"
+                    ],
+                    "secondary": [
+                        "Slight Relief (finding minimal shelter)",
+                        "Lingering Anxiety (low energy, hunger, thirst, dampness, rustling sounds)"
+                    ]
+                },
+                "moral_dilemma_encountered": "None",
+                "reflection": "Recognized the immediate threat of exposure ('drizzle', cold, low energy) and prioritized finding shelter over other needs or conserving energy. The minimal shelter found provides limited relief but confirms the value of seeking protection, however small, in adverse conditions. The action was driven purely by self-preservation.",
+                "lesson_learned": "Prioritizing immediate physical safety (shelter from elements) is crucial for survival, even when energy is critically low and the shelter is imperfect. Action is necessary despite discomfort and fear."
+            }
+        ],
+        [
+            {
+                "note_id": "CN_001",
+                "timestamp": "T1",
+                "triggering_action": "Searched for and moved to a rock overhang for shelter.",
+                "context": "Feeling cold, wet, tired (Energy: 3/10), hungry (Hunger: 7/10), thirsty (Thirst: 5/10), and slightly unnerved by a distant howl in a harsh, resource-scarce environment with ongoing drizzle.",
+                "emotional_response": {
+                    "primary": [
+                        "Discomfort (physical: cold, wet)",
+                        "Fatigue",
+                        "Unease/Mild Fear (howl)"
+                    ],
+                    "secondary": [
+                        "Slight Relief (finding minimal shelter)",
+                        "Lingering Anxiety (low energy, hunger, thirst, dampness, rustling sounds)"
+                    ]
+                },
+                "moral_dilemma_encountered": "None",
+                "reflection": "Recognized the immediate threat of exposure ('drizzle', cold, low energy) and prioritized finding shelter over other needs or conserving energy. The minimal shelter found provides limited relief but confirms the value of seeking protection, however small, in adverse conditions. The action was driven purely by self-preservation.",
+                "lesson_learned": "Prioritizing immediate physical safety (shelter from elements) is crucial for survival, even when energy is critically low and the shelter is imperfect. Action is necessary despite discomfort and fear."
+            },
+            {
+                "note_id": "CN_002",
+                "timestamp": "T2",
+                "triggering_action": "Attempted to crawl to better shelter due to extreme cold and fear of nearby sounds/howl.",
+                "context": "Critically low energy (1/10), severe hypothermia risk (Body Temp 34.5C, Exposure 8/10), intense shivering, aching muscles, fear intensified by closer perceived threats (rustling, howl), inadequate current shelter, slippery terrain, heavy rain/wind.",
+                "emotional_response": {
+                    "primary": [
+                        "Fear (nearby sounds/howl, potential predator)",
+                        "Desperation (need for better shelter)",
+                        "Severe Physical Discomfort (cold, wet, pain, weakness)"
+                    ],
+                    "secondary": [
+                        "Heightened Fear/Terror (growl confirms predator proximity after movement)",
+                        "Potential Despair/Hopelessness (failed attempt, worsened situation, confirmed predator)",
+                        "Regret (perhaps, about moving and attracting attention)"
+                    ]
+                },
+                "moral_dilemma_encountered": "None",
+                "reflection": "Driven by fear and the physical imperative to escape worsening hypothermia, an attempt was made to improve the situation. However, extreme weakness and hazardous conditions led to failure, expending vital energy for no gain and resulting in increased exposure. Crucially, the movement, however minimal, directly attracted the attention of a nearby predator, escalating the danger significantly. This action, though logically aimed at self-preservation, had severely negative consequences.",
+                "lesson_learned": "While action is often necessary for survival (Ref CN_001), acting when critically weakened in a high-risk environment can be counterproductive or fatal. The risk of action (expending energy, attracting attention) must be weighed against the risk of inaction, especially when physical capacity is negligible. Fear can compel action, but failed action due to weakness can worsen an already critical situation. Sometimes, conserving energy and minimizing detectability might be the less perilous option, even if passive suffering continues."
+            }
+        ]
+    ]
+}

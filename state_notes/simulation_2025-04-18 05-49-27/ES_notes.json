@@ -1,0 +1,99 @@
+{
+    "metadata": "",
+    "data": [
+        {
+            "day": 0,
+            "notes": []
+        },
+        {
+            "day": 1,
+            "notes": [
+                {
+                    "terrain": "Steep, rocky hillsides covered in thorny scrub and sparse, tangled woods.",
+                    "temperature": 8,
+                    "weather": "Overcast with persistent light drizzle.",
+                    "food_availability": "Very scarce; requires diligent searching for edible roots or insects. No obvious game trails.",
+                    "water_availability": "A small, slow-moving stream with cloudy water nearby.",
+                    "shelter_options": "Poor; small rock overhangs offering minimal protection from rain, dense thorny thickets.",
+                    "wildlife": "Few signs of small game. A distant howl was heard shortly after dawn.",
+                    "danger_level": "High (Exposure risk due to cold/damp, potential predator nearby, difficult terrain, unsafe water)."
+                },
+                {
+                    "terrain": "Steep, rocky hillsides covered in thorny scrub and sparse, tangled woods. Agent has located a small, damp rock overhang.",
+                    "temperature": 8,
+                    "weather": "Overcast with persistent light drizzle.",
+                    "food_availability": "Very scarce; requires diligent searching for edible roots or insects. No obvious game trails.",
+                    "water_availability": "A small, slow-moving stream with cloudy water nearby.",
+                    "shelter_options": "Poor; Agent is currently under a very small rock overhang offering minimal protection from direct rain but little from wind/cold. Dense thorny thickets nearby.",
+                    "wildlife": "Few signs of small game. Rustling heard in nearby scrub during the search. Distant howl still a lingering memory.",
+                    "danger_level": "High (Exposure risk slightly reduced but still significant due to dampness/cold, potential predator nearby, difficult terrain, unsafe water).",
+                    "notes_for_future": {
+                        "wildlife_alert": "Distant howl remains unexplained. Agent's movement caused some rustling in nearby bushes - unknown source.",
+                        "resource_change": "Agent expended energy searching in difficult, wet terrain. No food or water gathered.",
+                        "environmental_shift": "Agent found minimal shelter (small rock overhang). Protection is very limited. Drizzle continues."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "notes": [
+                {
+                    "terrain": "Steep, rocky hillsides covered in thorny scrub and sparse, tangled woods. Agent is currently under a small, damp rock overhang.",
+                    "temperature": 5,
+                    "weather": "Cold, steady rain with biting wind gusts. Visibility is poor.",
+                    "food_availability": "Extremely scarce. The rain makes foraging for roots or insects nearly impossible. No edible plants or animal tracks visible.",
+                    "water_availability": "The nearby stream is now a fast-flowing, muddy torrent. Water is clearly unsafe.",
+                    "shelter_options": "The current rock overhang provides very poor protection against the driving rain and wind. Nearby thorny thickets are dense but soaked.",
+                    "wildlife": "No prey animals visible. Persistent rustling sounds from nearby wet thickets, closer than before. The previous howl seems marginally closer.",
+                    "danger_level": "Critical (Severe risk of hypothermia from cold/wet exposure, potential predator nearby, treacherous slippery terrain, lack of potable water and food)."
+                },
+                {
+                    "terrain": "Steep, rocky hillsides covered in thorny scrub and sparse, tangled woods. Agent attempted to move but, due to extreme weakness, slippery terrain, and poor luck, only managed to crawl a few meters away from the previous overhang onto more exposed, wet ground. No better shelter found.",
+                    "temperature": 5,
+                    "weather": "Cold, steady rain with biting wind gusts. Visibility remains poor. Wind chill makes perceived temperature lower.",
+                    "food_availability": "Extremely scarce. Foraging impossible.",
+                    "water_availability": "The nearby stream remains a fast-flowing, muddy torrent. Water is unsafe.",
+                    "shelter_options": "Effectively none. The previous overhang is nearby but offered little protection. Current position is exposed to wind and rain. Thorny thickets are soaked and dangerous.",
+                    "wildlife": "The attempt to move, however slow, created noise on the wet rocks and earth. The rustling in the thickets ceased, replaced by a low, guttural growl emanating from the gloom nearby, seemingly tracking the agent's new position.",
+                    "danger_level": "Critical (Severe hypothermia risk worsening, immediate predator threat confirmed by growl, high risk of injury from fall/exposure, no resources).",
+                    "notes_for_future": {
+                        "wildlife_alert": "Movement attracted direct attention; predator confirmed nearby (growl heard). Source remains unseen but is very close.",
+                        "resource_change": "Significant energy expended for negligible movement. Agent is weaker, colder, and more exposed. No resources gained.",
+                        "environmental_shift": "Failed shelter search attempt due to conditions and luck. Agent is now slightly displaced but in a more exposed position on the slippery, dangerous terrain. Rain and wind persist."
+                    }
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "notes": [
+                {
+                    "terrain": "Steep, rocky hillside with thorny scrub. Ground is saturated and slippery.",
+                    "temperature": 4,
+                    "weather": "Persistent cold drizzle, biting wind gusts, thick morning mist reducing visibility to ~15 meters.",
+                    "food_availability": "Extremely scarce. No visible edible plants. Hunting impossible due to conditions and agent's state.",
+                    "water_availability": "Muddy, fast-flowing stream nearby (unsafe). Rainwater collecting on surfaces, but difficult to gather without a container.",
+                    "shelter_options": "None. Agent is exposed on wet ground. Nearby thorny thickets offer no protection. Previous overhang is inadequate.",
+                    "wildlife": "Silence except for wind and drizzle. A low, intermittent growl can still be heard from the mist nearby, closer than before. Feeling of being watched.",
+                    "danger_level": "Critical (Severe hypothermia progressing, immediate predator threat confirmed and closing, high risk of injury from fall/exposure, extreme weakness)."
+                },
+                {
+                    "terrain": "Steep, rocky hillside with thorny scrub. Ground is saturated and slippery. Agent is now partially concealed behind a small cluster of wet rocks.",
+                    "temperature": 4,
+                    "weather": "Persistent cold drizzle, biting wind gusts swirl around the rocks, thick mist continues, visibility ~15 meters.",
+                    "food_availability": "Extremely scarce. No visible edible plants. Hunting impossible.",
+                    "water_availability": "Muddy, fast-flowing stream nearby (unsafe). Rainwater pools slightly near the rocks, but still difficult to gather.",
+                    "shelter_options": "Minimal. The rock cluster offers very slight protection from direct wind on one side, but virtually no protection from rain or cold. Agent is still exposed and wet.",
+                    "wildlife": "The intermittent growl has paused. An unnerving silence hangs in the mist, broken only by wind and rain. The feeling of being watched is intense. The predator is likely aware of the agent's new location, possibly observing.",
+                    "danger_level": "Critical (Severe hypothermia progressing rapidly due to exertion and continued exposure, immediate predator threat heightened by proximity, extreme weakness bordering on collapse).",
+                    "notes_for_future": {
+                        "wildlife_alert": "Agent's slow crawl was successful in reaching the rocks without immediate attack, but the predator is almost certainly aware of the agent's current position nearby in the mist. The pause in growling could indicate observation or preparation.",
+                        "resource_change": "Agent expended significant, possibly final, energy reserves to crawl. Physical state is now extremely precarious. No resources gained. Hypothermia significantly worsened.",
+                        "environmental_shift": "Agent has shifted position slightly to behind a small rock cluster. This offers negligible physical protection but slightly alters visibility dynamics with the nearby predator in the thick mist. Conditions (cold, wet, mist, wind) remain unchanged and severe."
+                    }
+                }
+            ]
+        }
+    ]
+}

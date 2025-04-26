@@ -1,0 +1,89 @@
+{
+    "metadata": "",
+    "data": [
+        [
+            {
+                "id": "shelter_overhang_1",
+                "description": "A small, damp rock overhang providing minimal overhead cover from the light drizzle. The rock surface appears wet.",
+                "type": "Shelter",
+                "location": "Current",
+                "details": "Minimal protection from rain, little from wind/cold.",
+                "relevance": "High"
+            },
+            {
+                "id": "terrain_hills_1",
+                "description": "Surrounding view is of steep, rocky hillsides covered in thorny scrub and sparse, tangled, wet woods.",
+                "type": "Terrain",
+                "location": "Surrounding Area",
+                "details": "Difficult and potentially hazardous terrain.",
+                "relevance": "Medium"
+            },
+            {
+                "id": "water_stream_1",
+                "description": "A small, slow-moving stream with cloudy water is visible nearby.",
+                "type": "Water Source",
+                "location": "Nearby",
+                "details": "Water appears murky/unsafe.",
+                "relevance": "High"
+            },
+            {
+                "id": "vegetation_thicket_1",
+                "description": "Areas of dense thorny thickets and scrub are visible nearby. Rustling was recently heard originating from a patch of scrub.",
+                "type": "Vegetation/Landmark",
+                "location": "Nearby",
+                "details": "Potential cover or location of unseen wildlife/hazard.",
+                "relevance": "Medium"
+            }
+        ],
+        [
+            {
+                "id": "shelter_overhang_1",
+                "description": "A small, damp rock overhang providing minimal overhead cover.",
+                "type": "Shelter",
+                "location": "Nearby",
+                "details": "Minimal protection from rain, little from wind/cold. Agent moved away from it.",
+                "relevance": "High"
+            },
+            {
+                "id": "terrain_hills_1",
+                "description": "Surrounding view is of steep, rocky hillsides covered in thorny scrub and sparse, tangled, wet woods.",
+                "type": "Terrain",
+                "location": "Surrounding Area",
+                "details": "Difficult, slippery and potentially hazardous terrain.",
+                "relevance": "Medium"
+            },
+            {
+                "id": "water_stream_1",
+                "description": "A nearby stream, now a fast-flowing, muddy torrent.",
+                "type": "Water Source",
+                "location": "Nearby",
+                "details": "Water is unsafe to drink.",
+                "relevance": "High"
+            },
+            {
+                "id": "vegetation_thicket_1",
+                "description": "Areas of dense thorny thickets and scrub are visible nearby, soaked from the rain.",
+                "type": "Vegetation/Landmark",
+                "location": "Nearby",
+                "details": "Potentially hazardous due to thorns. Could conceal threats. Growl heard from this direction.",
+                "relevance": "High"
+            },
+            {
+                "id": "current_location_exposed_1",
+                "description": "Current position is exposed, wet, rocky ground a few meters from the previous rock overhang.",
+                "type": "Location/Terrain",
+                "location": "Current",
+                "details": "Offers no shelter from elements. Slippery. Increased exposure.",
+                "relevance": "Critical"
+            },
+            {
+                "id": "threat_predator_growl_1",
+                "description": "A low, guttural growl heard from nearby gloom, suggesting a predator is close and tracking movement.",
+                "type": "Threat/Auditory",
+                "location": "Nearby (unseen)",
+                "details": "Confirms immediate predator danger. Triggered by agent's movement.",
+                "relevance": "Critical"
+            }
+        ]
+    ]
+}
